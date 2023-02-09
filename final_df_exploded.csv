@@ -1,0 +1,358 @@
+id,jurisdiction_type,rechtbank,gerechtshof,appeal,crime_location,verdict_date_year,verdict_date_month,crime_date_month,crime_date_year,age,minor,criminal_organization,drug_type
+ECLI-NL-RBDHA-2019-9384,['Strafrecht'],den haag,,0,gouda,2019,jun,apr,2019,18.0,0,0,cocaine
+ECLI-NL-RBDHA-2019-9384,['Strafrecht'],den haag,,0,gouda,2019,jun,apr,2019,18.0,0,0,heroine
+ECLI-NL-GHAMS-2020-1930,['Strafrecht'],amsterdam,amsterdam,1,amsterdam,2020,jul,apr,2019,17.0,1,0,cocaine
+ECLI-NL-GHAMS-2022-115,['Strafrecht'],noord-holland,amsterdam,1,hoofddorp,2022,jan,jul,2020,19.0,0,0,hennep
+ECLI-NL-GHAMS-2022-115,['Strafrecht'],noord-holland,amsterdam,1,hoofddorp,2022,jan,jul,2020,19.0,0,0,hasjiesj
+ECLI-NL-RBNNE-2023-118,['Strafrecht'],noord-nederland,,0,roden,2023,jan,feb,2022,20.0,0,0,mdma
+ECLI-NL-RBNNE-2023-118,['Strafrecht'],noord-nederland,,0,roden,2023,jan,feb,2022,20.0,0,0,xtc
+ECLI-NL-RBNNE-2023-118,['Strafrecht'],noord-nederland,,0,roden,2023,jan,feb,2022,20.0,0,0,hennep
+ECLI-NL-RBNNE-2023-118,['Strafrecht'],noord-nederland,,0,roden,2023,jan,feb,2022,20.0,0,0,hasjiesj
+ECLI-NL-RBNNE-2023-118,['Strafrecht'],noord-nederland,,0,roden,2023,jan,feb,2022,20.0,0,0,amfetamines/metamfetamines
+ECLI-NL-RBNNE-2023-118,['Strafrecht'],noord-nederland,,0,roden,2023,jan,feb,2022,20.0,0,0,temazepam
+ECLI-NL-RBROT-2019-4815,['Strafrecht'],rotterdam,,0,meer,2019,feb,nov,2018,17.0,1,0,mdma
+ECLI-NL-RBROT-2019-4815,['Strafrecht'],rotterdam,,0,meer,2019,feb,nov,2018,17.0,1,0,cocaine
+ECLI-NL-RBROT-2019-4815,['Strafrecht'],rotterdam,,0,meer,2019,feb,nov,2018,17.0,1,0,amfetamines/metamfetamines
+ECLI-NL-RBROT-2019-4815,['Strafrecht'],rotterdam,,0,meer,2019,feb,nov,2018,17.0,1,0,heroine
+ECLI-NL-RBAMS-2019-5301,['Strafrecht'],amsterdam,,0,amsterdam,2019,jul,jan,2016,,0,0,cocaine
+ECLI-NL-RBAMS-2019-5301,['Strafrecht'],amsterdam,,0,amsterdam,2019,jul,jan,2016,,0,0,crack
+ECLI-NL-RBAMS-2019-5301,['Strafrecht'],amsterdam,,0,amsterdam,2019,jul,jan,2016,,0,0,xtc
+ECLI-NL-RBAMS-2019-5301,['Strafrecht'],amsterdam,,0,amsterdam,2019,jul,jan,2016,,0,0,heroine
+ECLI-NL-OGHACMB-2018-269,['Strafrecht'],,,0,,2018,feb,jan,2017,,0,0,hennep
+ECLI-NL-OGHACMB-2018-269,['Strafrecht'],,,0,,2018,feb,jan,2017,,0,0,cocaine
+ECLI-NL-RBMNE-2022-4093,['Strafrecht'],midden-nederland,,0,lelystad,2022,oct,jul,2021,,0,1,hennep
+ECLI-NL-RBMNE-2022-4093,['Strafrecht'],midden-nederland,,0,lelystad,2022,oct,jul,2021,,0,1,heroine
+ECLI-NL-RBMNE-2022-4093,['Strafrecht'],midden-nederland,,0,lelystad,2022,oct,jul,2021,,0,1,cocaine
+ECLI-NL-RBDHA-2020-5856,['Strafrecht'],den haag,,0,s-gravenhage,2020,jun,jul,2019,15.0,1,0,mdma
+ECLI-NL-RBDHA-2020-5856,['Strafrecht'],den haag,,0,s-gravenhage,2020,jun,jul,2019,15.0,1,0,xtc
+ECLI-NL-RBDHA-2022-7934,['Strafrecht'],den haag,,0,den haag,2022,may,oct,2020,18.0,0,0,hennep
+ECLI-NL-RBDHA-2022-7934,['Strafrecht'],den haag,,0,den haag,2022,may,oct,2020,18.0,0,0,hasjiesj
+ECLI-NL-RBOVE-2022-565,['Strafrecht'],overijssel,,0,enschede,2022,feb,may,2020,17.0,1,0,mdma
+ECLI-NL-RBOVE-2022-565,['Strafrecht'],overijssel,,0,enschede,2022,feb,may,2020,17.0,1,0,hennep
+ECLI-NL-RBGEL-2021-2126,['Strafrecht'],gelderland,,0,apeldoorn,2021,apr,oct,2020,20.0,0,0,mdma
+ECLI-NL-RBGEL-2021-2126,['Strafrecht'],gelderland,,0,apeldoorn,2021,apr,oct,2020,20.0,0,0,xtc
+ECLI-NL-RBGEL-2021-2126,['Strafrecht'],gelderland,,0,apeldoorn,2021,apr,oct,2020,20.0,0,0,amfetamines/metamfetamines
+ECLI-NL-RBMNE-2021-1748,['Strafrecht'],midden-nederland,,0,amersfoort,2021,apr,apr,2019,,0,0,cocaine
+ECLI-NL-RBSGR-2010-BM0841,['Strafrecht'],'s-gravenhage,,0,den haag,2010,mar,apr,2009,15.0,1,0,diacetylmorfine
+ECLI-NL-RBSGR-2010-BM0841,['Strafrecht'],'s-gravenhage,,0,den haag,2010,mar,apr,2009,15.0,1,0,cocaine
+ECLI-NL-RBSGR-2010-BM0841,['Strafrecht'],'s-gravenhage,,0,den haag,2010,mar,apr,2009,15.0,1,0,heroine
+ECLI-NL-RBAMS-2022-3450,['Strafrecht; Materieel strafrecht'],amsterdam,,0,amsterdam,2022,jun,feb,2022,18.0,0,0,hennep
+ECLI-NL-RBAMS-2022-3450,['Strafrecht; Materieel strafrecht'],amsterdam,,0,amsterdam,2022,jun,feb,2022,18.0,0,0,hasjiesj
+ECLI-NL-RBROT-2018-1074,['Strafrecht'],rotterdam,,0,utrecht,2018,feb,sep,2017,,0,0,mdma
+ECLI-NL-RBROT-2018-1074,['Strafrecht'],rotterdam,,0,utrecht,2018,feb,sep,2017,,0,0,amfetamines/metamfetamines
+ECLI-NL-RBAMS-2022-5998,['Strafrecht'],amsterdam,,0,amsterdam,2022,sep,apr,2022,19.0,0,0,cocaine
+ECLI-NL-RBAMS-2022-5998,['Strafrecht'],amsterdam,,0,amsterdam,2022,sep,apr,2022,19.0,0,0,crack
+ECLI-NL-RBAMS-2021-3067,['Strafrecht'],amsterdam,,0,amsterdam,2021,jun,aug,2020,18.0,0,0,cocaine
+ECLI-NL-RBAMS-2021-3067,['Strafrecht'],amsterdam,,0,amsterdam,2021,jun,aug,2020,18.0,0,0,heroine
+ECLI-NL-RBMNE-2016-550,['Strafrecht'],kennisgenomen,arnhem-leeuwarden,1,utrecht,2016,feb,may,2014,,0,1,diacetylmorfine
+ECLI-NL-RBMNE-2016-550,['Strafrecht'],kennisgenomen,arnhem-leeuwarden,1,utrecht,2016,feb,may,2014,,0,1,cocaine
+ECLI-NL-RBMNE-2016-550,['Strafrecht'],kennisgenomen,arnhem-leeuwarden,1,utrecht,2016,feb,may,2014,,0,1,heroine
+ECLI-NL-RBROT-2020-10728,['Strafrecht'],rotterdam,,0,rotterdam,2020,sep,jan,2019,,0,0,mdma
+ECLI-NL-RBROT-2020-10728,['Strafrecht'],rotterdam,,0,rotterdam,2020,sep,jan,2019,,0,0,hennep
+ECLI-NL-RBROT-2020-10728,['Strafrecht'],rotterdam,,0,rotterdam,2020,sep,jan,2019,,0,0,hasjiesj
+ECLI-NL-RBDHA-2021-10846,['Strafrecht'],den haag,,0,den haag,2021,may,dec,2019,15.0,1,0,cocaine
+ECLI-NL-RBDHA-2021-11798,['Strafrecht'],den haag,,0,gouda,2021,oct,oct,2020,19.0,0,0,cocaine
+ECLI-NL-RBDHA-2021-11798,['Strafrecht'],den haag,,0,gouda,2021,oct,oct,2020,19.0,0,0,heroine
+ECLI-NL-GHARL-2020-8630,['Strafrecht'],midden-nederland,arnhem-leeuwarden,1,utrecht,2020,oct,jul,2019,17.0,1,0,hennep
+ECLI-NL-GHARL-2020-8630,['Strafrecht'],midden-nederland,arnhem-leeuwarden,1,utrecht,2020,oct,jul,2019,17.0,1,0,hasjiesj
+ECLI-NL-GHARL-2020-8630,['Strafrecht'],midden-nederland,arnhem-leeuwarden,1,utrecht,2020,oct,jul,2019,17.0,1,0,heroine
+ECLI-NL-GHARL-2020-8630,['Strafrecht'],midden-nederland,arnhem-leeuwarden,1,utrecht,2020,oct,jul,2019,17.0,1,0,cocaine
+ECLI-NL-GHARL-2021-6844,['Strafrecht'],midden-nederland,arnhem-leeuwarden,1,lelystad,2021,jul,oct,2019,17.0,1,0,hennep
+ECLI-NL-GHARL-2021-6844,['Strafrecht'],midden-nederland,arnhem-leeuwarden,1,lelystad,2021,jul,oct,2019,17.0,1,0,hasjiesj
+ECLI-NL-RBMNE-2014-7119,['Strafrecht'],midden-nederland,,0,eindhoven,2014,dec,may,2014,,0,0,hennep
+ECLI-NL-RBMNE-2014-7119,['Strafrecht'],midden-nederland,,0,eindhoven,2014,dec,may,2014,,0,0,hasjiesj
+ECLI-NL-RBROT-2017-4477,['Strafrecht'],rotterdam,,0,rotterdam,2017,apr,jan,2017,,0,0,mdma
+ECLI-NL-RBROT-2017-4477,['Strafrecht'],rotterdam,,0,rotterdam,2017,apr,jan,2017,,0,0,cocaine
+ECLI-NL-RBMNE-2016-549,['Strafrecht'],kennisgenomen,,0,utrecht,2016,feb,jan,2016,,0,1,diacetylmorfine
+ECLI-NL-RBMNE-2016-549,['Strafrecht'],kennisgenomen,,0,utrecht,2016,feb,jan,2016,,0,1,cocaine
+ECLI-NL-RBMNE-2016-549,['Strafrecht'],kennisgenomen,,0,utrecht,2016,feb,jan,2016,,0,1,heroine
+ECLI-NL-RBROT-2022-6624,['Strafrecht'],rotterdam,,0,rotterdam,2022,jul,apr,2022,,0,0,cocaine
+ECLI-NL-RBGEL-2018-1099,['Strafrecht'],gelderland,,0,tolkamer,2018,mar,jul,2017,19.0,0,0,amfetamines/metamfetamines
+ECLI-NL-GHAMS-2022-975,['Strafrecht'],amsterdam,amsterdam,1,amsterdam,2022,mar,aug,2020,18.0,0,0,cocaine
+ECLI-NL-GHAMS-2022-975,['Strafrecht'],amsterdam,amsterdam,1,amsterdam,2022,mar,aug,2020,18.0,0,0,heroine
+ECLI-NL-OGEAA-2018-856,['Strafrecht'],,,0,,2018,dec,may,2018,,0,0,hennep
+ECLI-NL-RBNHO-2020-8004,['Strafrecht'],noord-holland,,0,haarlem,2020,oct,aug,2019,18.0,0,0,cocaine
+ECLI-NL-RBNHO-2020-8004,['Strafrecht'],noord-holland,,0,haarlem,2020,oct,aug,2019,18.0,0,0,heroine
+ECLI-NL-RBNHO-2020-8004,['Strafrecht'],noord-holland,,0,haarlem,2020,oct,aug,2019,18.0,0,0,ghb
+ECLI-NL-RBNHO-2020-8003,['Strafrecht'],noord-holland,,0,amsterdam,2020,oct,apr,2020,18.0,0,0,hennep
+ECLI-NL-RBNHO-2020-8003,['Strafrecht'],noord-holland,,0,amsterdam,2020,oct,apr,2020,18.0,0,0,hasjiesj
+ECLI-NL-RBGEL-2013-CA2302,['Strafrecht'],gelderland,,0,malden,2013,jun,aug,2012,,0,0,cocaine
+ECLI-NL-RBNNE-2022-7,['Strafrecht'],noord-nederland,,0,appingedam,2022,jan,jun,2021,21.0,0,0,amfetamines/metamfetamines
+ECLI-NL-RBOBR-2020-5697,['Strafrecht'],oost-brabant,,0,drempt,2020,nov,nov,2020,20.0,0,1,aceton
+ECLI-NL-RBOBR-2020-5697,['Strafrecht'],oost-brabant,,0,drempt,2020,nov,nov,2020,20.0,0,1,bmk
+ECLI-NL-RBOBR-2020-5697,['Strafrecht'],oost-brabant,,0,drempt,2020,nov,nov,2020,20.0,0,1,benzylmethylketon
+ECLI-NL-RBOBR-2020-5697,['Strafrecht'],oost-brabant,,0,drempt,2020,nov,nov,2020,20.0,0,1,methanol
+ECLI-NL-RBOBR-2020-5697,['Strafrecht'],oost-brabant,,0,drempt,2020,nov,nov,2020,20.0,0,1,amfetamines/metamfetamines
+ECLI-NL-RBMNE-2021-6164,['Strafrecht; Materieel strafrecht'],midden-nederland,,0,monster,2021,dec,jun,2021,,0,0,mdma
+ECLI-NL-RBMNE-2021-6164,['Strafrecht; Materieel strafrecht'],midden-nederland,,0,monster,2021,dec,jun,2021,,0,0,xtc
+ECLI-NL-RBMNE-2021-6164,['Strafrecht; Materieel strafrecht'],midden-nederland,,0,monster,2021,dec,jun,2021,,0,0,fenacetine
+ECLI-NL-RBMNE-2021-6164,['Strafrecht; Materieel strafrecht'],midden-nederland,,0,monster,2021,dec,jun,2021,,0,0,hennep
+ECLI-NL-RBMNE-2021-6164,['Strafrecht; Materieel strafrecht'],midden-nederland,,0,monster,2021,dec,jun,2021,,0,0,hasjiesj
+ECLI-NL-RBMNE-2021-6164,['Strafrecht; Materieel strafrecht'],midden-nederland,,0,monster,2021,dec,jun,2021,,0,0,crack
+ECLI-NL-RBMNE-2021-6164,['Strafrecht; Materieel strafrecht'],midden-nederland,,0,monster,2021,dec,jun,2021,,0,0,cocaine
+ECLI-NL-RBAMS-2019-5299,['Strafrecht; Materieel strafrecht'],amsterdam,,0,diemen,2019,jul,jan,2016,,0,0,cocaine
+ECLI-NL-RBAMS-2019-5299,['Strafrecht; Materieel strafrecht'],amsterdam,,0,diemen,2019,jul,jan,2016,,0,0,crack
+ECLI-NL-RBAMS-2019-5299,['Strafrecht; Materieel strafrecht'],amsterdam,,0,diemen,2019,jul,jan,2016,,0,0,xtc
+ECLI-NL-RBAMS-2019-5299,['Strafrecht; Materieel strafrecht'],amsterdam,,0,diemen,2019,jul,jan,2016,,0,0,heroine
+ECLI-NL-RBZWB-2022-2659,['Strafrecht'],zeeland-west-brabant,,0,frankrijk,2022,may,nov,2021,19.0,0,0,coffeïne
+ECLI-NL-RBZWB-2022-2659,['Strafrecht'],zeeland-west-brabant,,0,frankrijk,2022,may,nov,2021,19.0,0,0,heroine
+ECLI-NL-RBNNE-2022-4021,['Strafrecht'],noord-nederland,,0,noord,2022,nov,may,2022,19.0,0,0,cocaine
+ECLI-NL-RBNNE-2022-4021,['Strafrecht'],noord-nederland,,0,noord,2022,nov,may,2022,19.0,0,0,amfetamines/metamfetamines
+ECLI-NL-RBZWB-2022-7763,['Strafrecht'],zeeland-west-brabant,,0,dordrecht,2022,dec,jul,2022,21.0,0,0,cocaine
+ECLI-NL-RBZWB-2022-7763,['Strafrecht'],zeeland-west-brabant,,0,dordrecht,2022,dec,jul,2022,21.0,0,0,hasjiesj
+ECLI-NL-RBMNE-2022-170,['Strafrecht'],midden-nederland,,0,utrecht,2022,jan,aug,2021,,0,0,cocaine
+ECLI-NL-RBMNE-2022-170,['Strafrecht'],midden-nederland,,0,utrecht,2022,jan,aug,2021,,0,0,heroine
+ECLI-NL-RBNNE-2019-2904,['Strafrecht'],noord-nederland,,0,marum,2019,jul,oct,2018,18.0,0,0,cocaine
+ECLI-NL-RBDHA-2022-8021,['Strafrecht'],den haag,,0,s-gravenhage,2022,jun,dec,2021,,0,0,mdea
+ECLI-NL-RBDHA-2022-8021,['Strafrecht'],den haag,,0,s-gravenhage,2022,jun,dec,2021,,0,0,mdma
+ECLI-NL-RBDHA-2022-8021,['Strafrecht'],den haag,,0,s-gravenhage,2022,jun,dec,2021,,0,0,xtc
+ECLI-NL-RBDHA-2020-9301,['Strafrecht'],den haag,,0,leiderdorp,2020,sep,may,2019,16.0,1,0,cocaine
+ECLI-NL-RBDHA-2020-9301,['Strafrecht'],den haag,,0,leiderdorp,2020,sep,may,2019,16.0,1,0,heroine
+ECLI-NL-RBMNE-2021-2175,['Strafrecht'],midden-nederland,,0,utrecht,2021,may,dec,2017,,0,0,cocaine
+ECLI-NL-RBNNE-2022-4873,['Strafrecht'],noord-nederland,,0,assen,2022,dec,dec,2021,,0,0,hennep
+ECLI-NL-RBOBR-2021-6492,['Strafrecht'],oost-brabant,,0,eindhoven,2021,dec,oct,2018,,0,0,amfetamines/metamfetamines
+ECLI-NL-RBOBR-2021-6492,['Strafrecht'],oost-brabant,,0,eindhoven,2021,dec,oct,2018,,0,0,mefedron
+ECLI-NL-RBDHA-2022-9039,['Strafrecht'],den haag,,0,s-gravenhage,2022,sep,jul,2022,19.0,0,0,cocaine
+ECLI-NL-RBGEL-2018-5192,['Strafrecht'],gelderland,,0,malden,2018,dec,nov,2017,21.0,0,0,hennep
+ECLI-NL-RBGEL-2018-5192,['Strafrecht'],gelderland,,0,malden,2018,dec,nov,2017,21.0,0,0,hasjiesj
+ECLI-NL-RBGEL-2018-5192,['Strafrecht'],gelderland,,0,malden,2018,dec,nov,2017,21.0,0,0,heroine
+ECLI-NL-RBGEL-2018-5192,['Strafrecht'],gelderland,,0,malden,2018,dec,nov,2017,21.0,0,0,cocaine
+ECLI-NL-RBAMS-2022-4931,['Strafrecht'],amsterdam,,0,amstelveen,2022,aug,jun,2021,19.0,0,0,crack
+ECLI-NL-RBLIM-2021-1908,['Strafrecht'],limburg,‘s-hertogenbosch,1,venlo,2021,feb,jul,2019,20.0,0,0,mdma
+ECLI-NL-RBLIM-2021-1908,['Strafrecht'],limburg,‘s-hertogenbosch,1,venlo,2021,feb,jul,2019,20.0,0,0,amfetamines/metamfetamines
+ECLI-NL-RBOBR-2019-7690,['Strafrecht'],oost-brabant,,0,eindhoven,2019,dec,jun,2009,,0,0,hennep
+ECLI-NL-RBNNE-2018-1445,['Strafrecht'],noord-nederland,,0,leeuwarden,2018,apr,mar,2018,20.0,0,0,cocaine
+ECLI-NL-RBNNE-2018-1445,['Strafrecht'],noord-nederland,,0,leeuwarden,2018,apr,mar,2018,20.0,0,0,gbl
+ECLI-NL-RBZWB-2022-6218,['Strafrecht'],zeeland-west-brabant,,0,goes,2022,oct,jan,2020,18.0,0,1,hennep
+ECLI-NL-RBZWB-2022-6218,['Strafrecht'],zeeland-west-brabant,,0,goes,2022,oct,jan,2020,18.0,0,1,hasjiesj
+ECLI-NL-RBZWB-2022-6218,['Strafrecht'],zeeland-west-brabant,,0,goes,2022,oct,jan,2020,18.0,0,1,cocaine
+ECLI-NL-GHARL-2020-5524,['Strafrecht'],midden-nederland,arnhem-leeuwarden,1,,2020,jul,sep,2018,19.0,0,0,cocaine
+ECLI-NL-GHARL-2020-5524,['Strafrecht'],midden-nederland,arnhem-leeuwarden,1,,2020,jul,sep,2018,19.0,0,0,hasjiesj
+ECLI-NL-GHARL-2020-5524,['Strafrecht'],midden-nederland,arnhem-leeuwarden,1,,2020,jul,sep,2018,19.0,0,0,xtc
+ECLI-NL-GHARL-2020-5524,['Strafrecht'],midden-nederland,arnhem-leeuwarden,1,,2020,jul,sep,2018,19.0,0,0,heroine
+ECLI-NL-RBMNE-2022-1544,['Strafrecht'],midden-nederland,,0,zeewolde,2022,apr,may,2021,,0,0,mdma
+ECLI-NL-RBMNE-2022-1544,['Strafrecht'],midden-nederland,,0,zeewolde,2022,apr,may,2021,,0,0,xtc
+ECLI-NL-RBMNE-2022-1544,['Strafrecht'],midden-nederland,,0,zeewolde,2022,apr,may,2021,,0,0,hennep
+ECLI-NL-RBMNE-2022-1544,['Strafrecht'],midden-nederland,,0,zeewolde,2022,apr,may,2021,,0,0,hasjiesj
+ECLI-NL-RBMNE-2022-1544,['Strafrecht'],midden-nederland,,0,zeewolde,2022,apr,may,2021,,0,0,cocaine
+ECLI-NL-RBMNE-2020-2040,['Strafrecht'],midden-nederland,,0,lelystad,2020,jun,dec,2019,,0,0,hennep
+ECLI-NL-RBMNE-2020-2040,['Strafrecht'],midden-nederland,,0,lelystad,2020,jun,dec,2019,,0,0,hasjiesj
+ECLI-NL-RBROT-2021-12341,['Strafrecht'],rotterdam,,0,rotterdam,2021,dec,may,2020,,0,0,cocaine
+ECLI-NL-GHARL-2021-7243,['Strafrecht'],midden-nederland,arnhem-leeuwarden,1,arnhem,2021,jul,jan,2017,18.0,0,0,hennep
+ECLI-NL-RBROT-2021-3560,['Strafrecht'],rotterdam,,0,rotterdam,2021,apr,oct,2020,,0,1,cocaine
+ECLI-NL-RBROT-2021-3560,['Strafrecht'],rotterdam,,0,rotterdam,2021,apr,oct,2020,,0,1,heroine
+ECLI-NL-RBAMS-2020-3122,['Strafrecht'],amsterdam,,0,arnhem,2020,jun,jun,2020,21.0,0,1,mdma
+ECLI-NL-RBAMS-2020-3122,['Strafrecht'],amsterdam,,0,arnhem,2020,jun,jun,2020,21.0,0,1,cocaine
+ECLI-NL-RBAMS-2020-3122,['Strafrecht'],amsterdam,,0,arnhem,2020,jun,jun,2020,21.0,0,1,xtc
+ECLI-NL-RBAMS-2020-3122,['Strafrecht'],amsterdam,,0,arnhem,2020,jun,jun,2020,21.0,0,1,amfetamines/metamfetamines
+ECLI-NL-GHARL-2021-6301,['Strafrecht'],noord-nederland,arnhem-leeuwarden,1,noord,2021,jun,jul,2019,19.0,0,0,mdma
+ECLI-NL-GHARL-2021-6301,['Strafrecht'],noord-nederland,arnhem-leeuwarden,1,noord,2021,jun,jul,2019,19.0,0,0,hennep
+ECLI-NL-GHARL-2021-6301,['Strafrecht'],noord-nederland,arnhem-leeuwarden,1,noord,2021,jun,jul,2019,19.0,0,0,hasjiesj
+ECLI-NL-GHARL-2021-6301,['Strafrecht'],noord-nederland,arnhem-leeuwarden,1,noord,2021,jun,jul,2019,19.0,0,0,amfetamines/metamfetamines
+ECLI-NL-RBARN-2011-BQ0218,['Strafrecht'],arnhem,,0,culemborg,2011,apr,sep,2010,,0,0,hennep
+ECLI-NL-RBARN-2011-BQ0218,['Strafrecht'],arnhem,,0,culemborg,2011,apr,sep,2010,,0,0,hasjiesj
+ECLI-NL-RBOBR-2020-5838,['Strafrecht'],oost-brabant,,0,oost,2020,nov,may,2020,23.0,0,0,cocaine
+ECLI-NL-RBNHO-2020-3778,['Strafrecht'],noord-holland,,0,frankrijk,2020,may,jan,2020,,0,0,cocaine
+ECLI-NL-RBROT-2022-10277,['Strafrecht'],rotterdam,,0,drie,2022,oct,jul,2022,,0,0,cocaine
+ECLI-NL-RBOBR-2020-2879,['Strafrecht'],oost-brabant,,0,helmond,2020,jun,apr,2019,23.0,0,0,gbl
+ECLI-NL-RBOBR-2020-2879,['Strafrecht'],oost-brabant,,0,helmond,2020,jun,apr,2019,23.0,0,0,amfetamines/metamfetamines
+ECLI-NL-RBAMS-2019-7265,['Strafrecht'],amsterdam,,0,amsterdam,2019,oct,oct,2018,,0,0,cocaine
+ECLI-NL-RBAMS-2019-7265,['Strafrecht'],amsterdam,,0,amsterdam,2019,oct,oct,2018,,0,0,heroine
+ECLI-NL-GHARL-2018-11213,['Strafrecht'],midden-nederland,,0,,2018,dec,nov,2017,,0,0,mdma
+ECLI-NL-GHARL-2018-11213,['Strafrecht'],midden-nederland,,0,,2018,dec,nov,2017,,0,0,hennep
+ECLI-NL-GHARL-2018-11213,['Strafrecht'],midden-nederland,,0,,2018,dec,nov,2017,,0,0,hasjiesj
+ECLI-NL-GHARL-2018-11213,['Strafrecht'],midden-nederland,,0,,2018,dec,nov,2017,,0,0,cocaine
+ECLI-NL-GHARL-2018-11213,['Strafrecht'],midden-nederland,,0,,2018,dec,nov,2017,,0,0,amfetamines/metamfetamines
+ECLI-NL-RBAMS-2022-1554,['Strafrecht'],amsterdam,,0,amsterdam,2022,feb,apr,2020,,0,0,xtc
+ECLI-NL-RBDHA-2018-2729,['Strafrecht'],den haag,,0,boskoop,2018,mar,mar,2017,22.0,0,1,mdma
+ECLI-NL-RBDHA-2018-2729,['Strafrecht'],den haag,,0,boskoop,2018,mar,mar,2017,22.0,0,1,xtc
+ECLI-NL-RBDHA-2018-2729,['Strafrecht'],den haag,,0,boskoop,2018,mar,mar,2017,22.0,0,1,hennep
+ECLI-NL-RBDHA-2018-2729,['Strafrecht'],den haag,,0,boskoop,2018,mar,mar,2017,22.0,0,1,hasjiesj
+ECLI-NL-RBDHA-2018-2729,['Strafrecht'],den haag,,0,boskoop,2018,mar,mar,2017,22.0,0,1,mdea
+ECLI-NL-RBDHA-2018-2730,['Strafrecht'],den haag,,0,boskoop,2018,mar,mar,2017,19.0,0,1,cocaine
+ECLI-NL-RBMNE-2022-5528,['Strafrecht'],midden-nederland,,0,lelystad,2022,dec,sep,2022,,0,0,cocaine
+ECLI-NL-RBMNE-2022-5528,['Strafrecht'],midden-nederland,,0,lelystad,2022,dec,sep,2022,,0,0,crack
+ECLI-NL-RBMNE-2022-5528,['Strafrecht'],midden-nederland,,0,lelystad,2022,dec,sep,2022,,0,0,heroine
+ECLI-NL-RBAMS-2022-1555,['Strafrecht'],amsterdam,,0,amsterdam,2022,feb,apr,2020,23.0,0,0,xtc
+ECLI-NL-GHARL-2021-6304,['Strafrecht'],noord-nederland,arnhem-leeuwarden,1,hem,2021,jun,jun,2019,20.0,0,0,mdma
+ECLI-NL-GHARL-2021-6304,['Strafrecht'],noord-nederland,arnhem-leeuwarden,1,hem,2021,jun,jun,2019,20.0,0,0,cocaine
+ECLI-NL-GHARL-2021-6304,['Strafrecht'],noord-nederland,arnhem-leeuwarden,1,hem,2021,jun,jun,2019,20.0,0,0,hasjiesj
+ECLI-NL-GHARL-2021-6304,['Strafrecht'],noord-nederland,arnhem-leeuwarden,1,hem,2021,jun,jun,2019,20.0,0,0,amfetamines/metamfetamines
+ECLI-NL-RBNNE-2016-2653,['Strafrecht'],noord-nederland,,0,friesland,2016,feb,may,2014,,0,0,amfetamines/metamfetamines
+ECLI-NL-RBAMS-2020-3529,['Strafrecht'],amsterdam,,0,amsterdam,2020,jul,jan,2020,22.0,0,0,mdma
+ECLI-NL-RBAMS-2020-3529,['Strafrecht'],amsterdam,,0,amsterdam,2020,jul,jan,2020,22.0,0,0,cocaine
+ECLI-NL-RBAMS-2020-3529,['Strafrecht'],amsterdam,,0,amsterdam,2020,jul,jan,2020,22.0,0,0,ketamine
+ECLI-NL-RBAMS-2019-4671,['Strafrecht'],amsterdam,,0,diemen,2019,jul,may,2018,20.0,0,0,mdma
+ECLI-NL-RBAMS-2019-4671,['Strafrecht'],amsterdam,,0,diemen,2019,jul,may,2018,20.0,0,0,cocaine
+ECLI-NL-RBAMS-2019-4671,['Strafrecht'],amsterdam,,0,diemen,2019,jul,may,2018,20.0,0,0,xtc
+ECLI-NL-RBOBR-2014-7191,['Strafrecht'],oost-brabant,,0,eindhoven,2014,nov,jun,2014,,0,0,mdma
+ECLI-NL-RBOBR-2014-7191,['Strafrecht'],oost-brabant,,0,eindhoven,2014,nov,jun,2014,,0,0,xtc
+ECLI-NL-RBOBR-2014-7191,['Strafrecht'],oost-brabant,,0,eindhoven,2014,nov,jun,2014,,0,0,ketamine
+ECLI-NL-RBOBR-2020-6427,['Strafrecht'],oost-brabant,,0,tilburg,2020,dec,feb,2020,21.0,0,0,mdma
+ECLI-NL-RBOBR-2020-6427,['Strafrecht'],oost-brabant,,0,tilburg,2020,dec,feb,2020,21.0,0,0,xtc
+ECLI-NL-RBOBR-2020-6427,['Strafrecht'],oost-brabant,,0,tilburg,2020,dec,feb,2020,21.0,0,0,hennep
+ECLI-NL-RBOBR-2020-6427,['Strafrecht'],oost-brabant,,0,tilburg,2020,dec,feb,2020,21.0,0,0,cocaine
+ECLI-NL-RBOBR-2020-6427,['Strafrecht'],oost-brabant,,0,tilburg,2020,dec,feb,2020,21.0,0,0,mdea
+ECLI-NL-RBOBR-2020-6427,['Strafrecht'],oost-brabant,,0,tilburg,2020,dec,feb,2020,21.0,0,0,2cb
+ECLI-NL-RBOBR-2020-6427,['Strafrecht'],oost-brabant,,0,tilburg,2020,dec,feb,2020,21.0,0,0,amfetamines/metamfetamines
+ECLI-NL-RBOBR-2020-6427,['Strafrecht'],oost-brabant,,0,tilburg,2020,dec,feb,2020,21.0,0,0,tenamfetamine
+ECLI-NL-RBMNE-2018-5689,['Strafrecht'],midden-nederland,,0,hilversum,2018,nov,mar,2018,,0,0,mdma
+ECLI-NL-RBMNE-2018-5689,['Strafrecht'],midden-nederland,,0,hilversum,2018,nov,mar,2018,,0,0,cocaine
+ECLI-NL-RBNNE-2022-3765,['Strafrecht'],noord-nederland,,0,groningen,2022,oct,mar,2022,,0,0,hennep
+ECLI-NL-RBMNE-2018-3791,['Strafrecht'],midden-nederland,,0,almere,2018,jul,nov,2017,18.0,0,0,mdma
+ECLI-NL-RBMNE-2018-3791,['Strafrecht'],midden-nederland,,0,almere,2018,jul,nov,2017,18.0,0,0,hennep
+ECLI-NL-RBMNE-2018-3791,['Strafrecht'],midden-nederland,,0,almere,2018,jul,nov,2017,18.0,0,0,hasjiesj
+ECLI-NL-RBMNE-2018-3791,['Strafrecht'],midden-nederland,,0,almere,2018,jul,nov,2017,18.0,0,0,cocaine
+ECLI-NL-RBMNE-2018-3791,['Strafrecht'],midden-nederland,,0,almere,2018,jul,nov,2017,18.0,0,0,amfetamines/metamfetamines
+ECLI-NL-RBNNE-2021-3045,['Strafrecht'],noord-nederland,,0,hurdegaryp,2021,jul,may,2020,21.0,0,0,cocaine
+ECLI-NL-RBGEL-2021-291,['Strafrecht'],gelderland,,0,zaltbommel,2021,jan,sep,2020,23.0,0,0,cocaine
+ECLI-NL-GHSHE-2021-3144,['Strafrecht'],oost-brabant,'s-hertogenbosch,1,drempt,2021,oct,may,2020,20.0,0,0,aceton
+ECLI-NL-GHSHE-2021-3144,['Strafrecht'],oost-brabant,'s-hertogenbosch,1,drempt,2021,oct,may,2020,20.0,0,0,amfetamines/metamfetamines
+ECLI-NL-RBOVE-2016-1290,['Strafrecht'],overijssel,,0,apeldoorn,2016,apr,oct,2014,21.0,0,0,cocaine
+ECLI-NL-RBNHO-2020-10700,['Strafrecht'],noord-holland,,0,amsterdam,2020,dec,apr,2019,,0,0,mdma
+ECLI-NL-RBNHO-2020-10700,['Strafrecht'],noord-holland,,0,amsterdam,2020,dec,apr,2019,,0,0,cocaine
+ECLI-NL-RBNHO-2020-10700,['Strafrecht'],noord-holland,,0,amsterdam,2020,dec,apr,2019,,0,0,2c-b
+ECLI-NL-RBNHO-2020-10700,['Strafrecht'],noord-holland,,0,amsterdam,2020,dec,apr,2019,,0,0,amfetamines/metamfetamines
+ECLI-NL-RBNNE-2018-1853,['Strafrecht'],noord-nederland,,0,sneek,2018,may,dec,2017,17.0,1,0,cocaine
+ECLI-NL-RBAMS-2020-6074,['Strafrecht'],amsterdam,,0,amsterdam,2020,oct,oct,2019,20.0,0,0,mdma
+ECLI-NL-RBAMS-2020-6074,['Strafrecht'],amsterdam,,0,amsterdam,2020,oct,oct,2019,20.0,0,0,cocaine
+ECLI-NL-RBNHO-2021-5549,['Strafrecht'],noord-holland,,0,hoofddorp,2021,jul,jul,2020,19.0,0,0,hennep
+ECLI-NL-RBNHO-2021-5549,['Strafrecht'],noord-holland,,0,hoofddorp,2021,jul,jul,2020,19.0,0,0,hasjiesj
+ECLI-NL-RBDHA-2021-11339,['Strafrecht'],den haag,,0,den haag,2021,oct,jun,2020,20.0,0,0,cocaine
+ECLI-NL-RBAMS-2022-5604,['Strafrecht; Materieel strafrecht'],amsterdam,,0,amsterdam,2022,sep,oct,2021,22.0,0,0,mdma
+ECLI-NL-RBAMS-2022-5604,['Strafrecht; Materieel strafrecht'],amsterdam,,0,amsterdam,2022,sep,oct,2021,22.0,0,0,cocaine
+ECLI-NL-RBAMS-2022-5604,['Strafrecht; Materieel strafrecht'],amsterdam,,0,amsterdam,2022,sep,oct,2021,22.0,0,0,hasjiesj
+ECLI-NL-RBAMS-2019-6378,['Strafrecht'],amsterdam,,0,amsterdam,2019,aug,aug,2018,19.0,0,0,hasjiesj
+ECLI-NL-RBNNE-2021-5174,['Strafrecht'],noord-nederland,,0,noord,2021,dec,aug,2021,20.0,0,0,mdma
+ECLI-NL-RBNNE-2021-5174,['Strafrecht'],noord-nederland,,0,noord,2021,dec,aug,2021,20.0,0,0,cocaine
+ECLI-NL-RBDHA-2022-11144,['Strafrecht'],den haag,,0,warmond,2022,nov,aug,2022,21.0,0,0,cocaine
+ECLI-NL-RBMNE-2022-544,['Strafrecht'],midden-nederland,,0,soest,2022,feb,dec,2020,,0,0,ghb
+ECLI-NL-RBROT-2017-836,['Strafrecht'],rotterdam,,0,lelystad,2017,feb,dec,2015,,0,0,hennep
+ECLI-NL-RBOBR-2018-804,['Strafrecht'],oost-brabant,,0,helmond,2018,feb,dec,2017,,0,0,cocaine
+ECLI-NL-RBDHA-2019-4276,['Strafrecht'],den haag,,0,warmond,2019,apr,nov,2018,18.0,0,0,amfetamines/metamfetamines
+ECLI-NL-RBMNE-2020-904,['Strafrecht'],midden-nederland,,0,amersfoort,2020,mar,oct,2018,,0,1,cocaine
+ECLI-NL-RBMNE-2020-904,['Strafrecht'],midden-nederland,,0,amersfoort,2020,mar,oct,2018,,0,1,heroine
+ECLI-NL-RBMNE-2020-904,['Strafrecht'],midden-nederland,,0,amersfoort,2020,mar,oct,2018,,0,1,fenacetine
+ECLI-NL-GHARL-2020-5449,['Strafrecht'],overijssel,arnhem‑leeuwarden,1,centrum,2020,jul,nov,2018,17.0,1,0,amfetamines/metamfetamines
+ECLI-NL-RBNNE-2019-5243,['Strafrecht'],noord-nederland,,0,stadskanaal,2019,dec,jul,2019,21.0,0,0,gbl
+ECLI-NL-RBNNE-2019-5243,['Strafrecht'],noord-nederland,,0,stadskanaal,2019,dec,jul,2019,21.0,0,0,amfetamines/metamfetamines
+ECLI-NL-RBNNE-2019-5243,['Strafrecht'],noord-nederland,,0,stadskanaal,2019,dec,jul,2019,21.0,0,0,ghb
+ECLI-NL-RBNHO-2022-11410,['Strafrecht'],noord-holland,,0,hillegom,2022,dec,mar,2016,19.0,0,0,mdma
+ECLI-NL-RBNHO-2022-11410,['Strafrecht'],noord-holland,,0,hillegom,2022,dec,mar,2016,19.0,0,0,xtc
+ECLI-NL-RBNHO-2022-11410,['Strafrecht'],noord-holland,,0,hillegom,2022,dec,mar,2016,19.0,0,0,2c-b
+ECLI-NL-RBNHO-2022-11410,['Strafrecht'],noord-holland,,0,hillegom,2022,dec,mar,2016,19.0,0,0,cocaine
+ECLI-NL-RBNHO-2022-11410,['Strafrecht'],noord-holland,,0,hillegom,2022,dec,mar,2016,19.0,0,0,amfetamines/metamfetamines
+ECLI-NL-RBAMS-2022-3865,['Strafrecht'],amsterdam,,0,aalsmeer,2022,jul,nov,2021,21.0,0,0,mdma
+ECLI-NL-RBAMS-2022-3865,['Strafrecht'],amsterdam,,0,aalsmeer,2022,jul,nov,2021,21.0,0,0,xtc
+ECLI-NL-RBAMS-2022-3865,['Strafrecht'],amsterdam,,0,aalsmeer,2022,jul,nov,2021,21.0,0,0,hennep
+ECLI-NL-RBAMS-2022-3865,['Strafrecht'],amsterdam,,0,aalsmeer,2022,jul,nov,2021,21.0,0,0,hasjiesj
+ECLI-NL-RBAMS-2022-3865,['Strafrecht'],amsterdam,,0,aalsmeer,2022,jul,nov,2021,21.0,0,0,2c-b
+ECLI-NL-RBAMS-2022-3865,['Strafrecht'],amsterdam,,0,aalsmeer,2022,jul,nov,2021,21.0,0,0,cocaine
+ECLI-NL-RBAMS-2020-438,['Strafrecht'],amsterdam,,0,amsterdam,2020,jan,apr,2018,18.0,0,0,hennep
+ECLI-NL-RBAMS-2020-438,['Strafrecht'],amsterdam,,0,amsterdam,2020,jan,apr,2018,18.0,0,0,crack
+ECLI-NL-RBAMS-2020-438,['Strafrecht'],amsterdam,,0,amsterdam,2020,jan,apr,2018,18.0,0,0,cocaine
+ECLI-NL-RBNHO-2020-10486,['Strafrecht'],noord-holland,,0,castricum,2020,dec,jun,2020,,0,0,hasjiesj
+ECLI-NL-RBGEL-2016-1909,['Strafrecht'],gelderland,,0,nijmegen,2016,mar,mar,2016,,0,0,hennep
+ECLI-NL-RBAMS-2021-5496,['Strafrecht; Materieel strafrecht'],amsterdam,,0,amsterdam,2021,sep,jul,2020,21.0,0,0,mdma
+ECLI-NL-RBAMS-2021-5496,['Strafrecht; Materieel strafrecht'],amsterdam,,0,amsterdam,2021,sep,jul,2020,21.0,0,0,cocaine
+ECLI-NL-RBNNE-2020-3926,['Strafrecht'],noord-nederland,,0,noord,2020,nov,oct,2019,21.0,0,0,hennep
+ECLI-NL-RBAMS-2020-4129,['Strafrecht'],amsterdam,,0,amsterdam,2020,jul,nov,2019,20.0,0,0,mdma
+ECLI-NL-RBAMS-2020-4129,['Strafrecht'],amsterdam,,0,amsterdam,2020,jul,nov,2019,20.0,0,0,cocaine
+ECLI-NL-RBAMS-2020-4129,['Strafrecht'],amsterdam,,0,amsterdam,2020,jul,nov,2019,20.0,0,0,2c-b
+ECLI-NL-RBAMS-2020-4129,['Strafrecht'],amsterdam,,0,amsterdam,2020,jul,nov,2019,20.0,0,0,amfetamines/metamfetamines
+ECLI-NL-RBAMS-2022-1546,['Strafrecht'],amsterdam,,0,amsterdam,2022,mar,nov,2021,22.0,0,0,hennep
+ECLI-NL-RBAMS-2022-1546,['Strafrecht'],amsterdam,,0,amsterdam,2022,mar,nov,2021,22.0,0,0,cocaine
+ECLI-NL-RBROT-2020-5715,['Strafrecht'],rotterdam,,0,rotterdam,2020,jun,nov,2019,,0,0,amfetamines/metamfetamines
+ECLI-NL-RBMNE-2015-742,['Strafrecht'],midden-nederland,,0,amsterdam,2015,feb,oct,2014,,0,0,hennep
+ECLI-NL-RBROT-2022-9863,['Strafrecht'],rotterdam,,0,capelle,2022,nov,jan,2021,22.0,0,0,ketamine
+ECLI-NL-RBNNE-2021-5084,['Strafrecht'],noord-nederland,,0,amsterdam,2021,nov,mar,2019,18.0,0,0,xtc
+ECLI-NL-RBZWB-2021-4521,['Strafrecht'],zeeland-west-brabant,,0,hoogerheide,2021,sep,oct,2018,20.0,0,0,bmk
+ECLI-NL-RBZWB-2021-4521,['Strafrecht'],zeeland-west-brabant,,0,hoogerheide,2021,sep,oct,2018,20.0,0,0,xtc
+ECLI-NL-RBZWB-2021-4521,['Strafrecht'],zeeland-west-brabant,,0,hoogerheide,2021,sep,oct,2018,20.0,0,0,amfetamines/metamfetamines
+ECLI-NL-RBROT-2018-5967,['Strafrecht'],rotterdam,,0,schiedam,2018,jun,mar,2017,,0,0,hennep
+ECLI-NL-RBAMS-2020-1806,['Strafrecht'],amsterdam,,0,amsterdam,2020,mar,apr,2019,20.0,0,0,hennep
+ECLI-NL-RBAMS-2020-1806,['Strafrecht'],amsterdam,,0,amsterdam,2020,mar,apr,2019,20.0,0,0,heroine
+ECLI-NL-RBAMS-2020-1806,['Strafrecht'],amsterdam,,0,amsterdam,2020,mar,apr,2019,20.0,0,0,cocaine
+ECLI-NL-RBOVE-2022-3834,['Strafrecht'],overijssel,,0,zwolle,2022,dec,dec,2021,17.0,1,0,hennep
+ECLI-NL-RBOVE-2022-3834,['Strafrecht'],overijssel,,0,zwolle,2022,dec,dec,2021,17.0,1,0,hasjiesj
+ECLI-NL-RBOVE-2022-3834,['Strafrecht'],overijssel,,0,zwolle,2022,dec,dec,2021,17.0,1,0,amfetamines/metamfetamines
+ECLI-NL-RBMNE-2021-321,['Strafrecht'],midden-nederland,arnhem-leeuwarden,1,almere,2021,feb,dec,2019,,0,0,cocaine
+ECLI-NL-RBMNE-2021-321,['Strafrecht'],midden-nederland,arnhem-leeuwarden,1,almere,2021,feb,dec,2019,,0,0,ghb
+ECLI-NL-GHSHE-2006-AZ0901,['Strafrecht'],maastricht,'s-hertogenbosch,1,maastricht,2006,oct,jul,2004,17.0,1,0,cocaine
+ECLI-NL-RBLIM-2022-896,['Strafrecht'],limburg,,0,heerlen,2022,feb,aug,2021,21.0,0,0,hennep
+ECLI-NL-RBLIM-2022-896,['Strafrecht'],limburg,,0,heerlen,2022,feb,aug,2021,21.0,0,0,cocaine
+ECLI-NL-RBMNE-2022-1519,['Strafrecht; Materieel strafrecht'],midden-nederland,,0,soest,2022,feb,dec,2020,18.0,0,0,ghb
+ECLI-NL-RBOVE-2017-4738,['Strafrecht'],overijssel,,0,hengelo,2017,dec,jun,2017,22.0,0,0,xtc
+ECLI-NL-RBOVE-2017-4738,['Strafrecht'],overijssel,,0,hengelo,2017,dec,jun,2017,22.0,0,0,ghb
+ECLI-NL-RBOVE-2017-4738,['Strafrecht'],overijssel,,0,hengelo,2017,dec,jun,2017,22.0,0,0,hennep
+ECLI-NL-RBOVE-2017-4738,['Strafrecht'],overijssel,,0,hengelo,2017,dec,jun,2017,22.0,0,0,hasjiesj
+ECLI-NL-RBOVE-2017-4738,['Strafrecht'],overijssel,,0,hengelo,2017,dec,jun,2017,22.0,0,0,cocaine
+ECLI-NL-RBOVE-2017-4738,['Strafrecht'],overijssel,,0,hengelo,2017,dec,jun,2017,22.0,0,0,amfetamines/metamfetamines
+ECLI-NL-RBMNE-2017-1422,['Strafrecht'],midden-nederland,,0,almere,2017,feb,jul,2016,,0,0,amfetamines/metamfetamines
+ECLI-NL-RBLIM-2021-7190,['Strafrecht'],limburg,’s-hertogenbosch,1,brunssum,2021,sep,may,2020,22.0,0,0,mdma
+ECLI-NL-RBLIM-2021-7190,['Strafrecht'],limburg,’s-hertogenbosch,1,brunssum,2021,sep,may,2020,22.0,0,0,cocaine
+ECLI-NL-RBMNE-2020-908,['Strafrecht'],midden-nederland,,0,amersfoort,2020,mar,feb,2019,,0,1,cocaine
+ECLI-NL-RBMNE-2020-908,['Strafrecht'],midden-nederland,,0,amersfoort,2020,mar,feb,2019,,0,1,heroine
+ECLI-NL-RBGEL-2018-4931,['Strafrecht'],gelderland,,0,arnhem,2018,sep,mar,2018,,0,0,hennep
+ECLI-NL-RBGEL-2018-4931,['Strafrecht'],gelderland,,0,arnhem,2018,sep,mar,2018,,0,0,hasjiesj
+ECLI-NL-RBNNE-2017-1642,['Strafrecht'],noord-nederland,,0,noord,2017,may,oct,2016,20.0,0,0,ghb
+ECLI-NL-RBAMS-2019-9303,['Strafrecht; Materieel strafrecht'],amsterdam,,0,amsterdam,2019,dec,nov,2019,20.0,0,0,mdma
+ECLI-NL-RBAMS-2019-9303,['Strafrecht; Materieel strafrecht'],amsterdam,,0,amsterdam,2019,dec,nov,2019,20.0,0,0,cocaine
+ECLI-NL-RBAMS-2019-9303,['Strafrecht; Materieel strafrecht'],amsterdam,,0,amsterdam,2019,dec,nov,2019,20.0,0,0,xtc
+ECLI-NL-GHDHA-2016-3609,['Strafrecht'],den haag,den haag,1,alphen,2016,sep,jul,2016,19.0,0,0,hennep
+ECLI-NL-RBNNE-2022-3089,['Strafrecht'],noord-nederland,,0,leeuwarden,2022,aug,nov,2020,19.0,0,0,amfetamines/metamfetamines
+ECLI-NL-RBAMS-2022-4321,['Strafrecht; Materieel strafrecht'],amsterdam,,0,amsterdam,2022,jul,apr,2022,18.0,0,0,hennep
+ECLI-NL-RBAMS-2022-4321,['Strafrecht; Materieel strafrecht'],amsterdam,,0,amsterdam,2022,jul,apr,2022,18.0,0,0,hasjiesj
+ECLI-NL-RBAMS-2022-4321,['Strafrecht; Materieel strafrecht'],amsterdam,,0,amsterdam,2022,jul,apr,2022,18.0,0,0,amfetamines/metamfetamines
+ECLI-NL-RBAMS-2022-4321,['Strafrecht; Materieel strafrecht'],amsterdam,,0,amsterdam,2022,jul,apr,2022,18.0,0,0,cocaine
+ECLI-NL-PHR-2021-336,['Strafrecht'],ziet,'s-hertogenbosch,1,tilburg,2021,apr,jun,2012,,0,1,mdma
+ECLI-NL-PHR-2021-336,['Strafrecht'],ziet,'s-hertogenbosch,1,tilburg,2021,apr,jun,2012,,0,1,hennep
+ECLI-NL-PHR-2021-336,['Strafrecht'],ziet,'s-hertogenbosch,1,tilburg,2021,apr,jun,2012,,0,1,hasjiesj
+ECLI-NL-PHR-2021-336,['Strafrecht'],ziet,'s-hertogenbosch,1,tilburg,2021,apr,jun,2012,,0,1,xtc
+ECLI-NL-RBMNE-2021-3440,['Strafrecht; Materieel strafrecht'],midden-nederland,amsterdam,1,utrecht,2021,jul,oct,2020,19.0,0,0,hasjiesj
+ECLI-NL-RBNNE-2017-4144,['Strafrecht'],noord-nederland,,0,hoogeveen,2017,oct,sep,2016,18.0,0,0,cocaine
+ECLI-NL-GHSGR-2012-BY1246,['Strafrecht'],rotterdam,'s-gravenhage,1,spijkenisse,2012,oct,sep,2012,,0,0,cocaine
+ECLI-NL-RBNNE-2022-2415,['Strafrecht'],noord-nederland,vervolging,1,lemmer,2022,jul,may,2018,19.0,0,0,amfetamines/metamfetamines
+ECLI-NL-RBDHA-2022-6299,['Strafrecht'],den haag,,0,alphen,2022,jun,apr,2022,,0,0,cocaine
+ECLI-NL-RBDHA-2022-6299,['Strafrecht'],den haag,,0,alphen,2022,jun,apr,2022,,0,0,heroine
+ECLI-NL-RBAMS-2022-1364,['Strafrecht'],amsterdam,,0,amsterdam,2022,mar,nov,2021,21.0,0,0,amfetamines/metamfetamines
+ECLI-NL-RBZWB-2022-6753,['Strafrecht'],zeeland-west-brabant,,0,middelburg,2022,nov,jan,2022,17.0,1,0,mdma
+ECLI-NL-RBZWB-2022-6753,['Strafrecht'],zeeland-west-brabant,,0,middelburg,2022,nov,jan,2022,17.0,1,0,xtc
+ECLI-NL-RBZWB-2022-6753,['Strafrecht'],zeeland-west-brabant,,0,middelburg,2022,nov,jan,2022,17.0,1,0,hennep
+ECLI-NL-RBZWB-2022-6753,['Strafrecht'],zeeland-west-brabant,,0,middelburg,2022,nov,jan,2022,17.0,1,0,hasjiesj
+ECLI-NL-RBZWB-2022-6753,['Strafrecht'],zeeland-west-brabant,,0,middelburg,2022,nov,jan,2022,17.0,1,0,amfetamines/metamfetamines
+ECLI-NL-RBDHA-2021-12995,['Strafrecht'],den haag,,0,zoetermeer,2021,nov,jul,2020,22.0,0,0,mdma
+ECLI-NL-RBDHA-2021-12995,['Strafrecht'],den haag,,0,zoetermeer,2021,nov,jul,2020,22.0,0,0,xtc
+ECLI-NL-RBDHA-2021-12995,['Strafrecht'],den haag,,0,zoetermeer,2021,nov,jul,2020,22.0,0,0,hennep
+ECLI-NL-RBDHA-2021-12995,['Strafrecht'],den haag,,0,zoetermeer,2021,nov,jul,2020,22.0,0,0,hasjiesj
+ECLI-NL-RBDHA-2021-12995,['Strafrecht'],den haag,,0,zoetermeer,2021,nov,jul,2020,22.0,0,0,heroine
+ECLI-NL-RBDHA-2021-12995,['Strafrecht'],den haag,,0,zoetermeer,2021,nov,jul,2020,22.0,0,0,cocaine
+ECLI-NL-RBGEL-2014-4328,['Strafrecht'],gelderland,,0,ermelo,2014,jul,feb,2013,,0,0,amfetamines/metamfetamines
+ECLI-NL-RBNNE-2015-6414,['Strafrecht'],noord-nederland,,0,leeuwarden,2015,dec,jan,2015,,0,0,cocaine
+ECLI-NL-RBDHA-2019-13399,['Strafrecht'],den haag,den haag,1,den haag,2019,dec,may,2019,18.0,0,0,cocaine
+ECLI-NL-RBDHA-2019-13399,['Strafrecht'],den haag,den haag,1,den haag,2019,dec,may,2019,18.0,0,0,amfetamines/metamfetamines
+ECLI-NL-RBNHO-2013-9066,['Strafrecht'],noord-holland,,0,purmerend,2013,jul,jun,2013,,0,1,amfetamines/metamfetamines
+ECLI-NL-RBLIM-2014-2800,['Strafrecht'],limburg,,0,venlo,2014,mar,aug,2012,,0,0,hennep
+ECLI-NL-RBLIM-2019-11665,['Strafrecht'],limburg,,0,rotterdam,2019,dec,nov,2017,20.0,0,0,cocaine
+ECLI-NL-RBMNE-2021-3435,['Strafrecht; Materieel strafrecht'],midden-nederland,,0,utrecht,2021,jul,oct,2020,19.0,0,0,hasjiesj
+ECLI-NL-RBLIM-2014-2757,['Strafrecht'],limburg,,0,venlo,2014,mar,aug,2012,,0,0,hennep
+ECLI-NL-RBLIM-2021-1561,['Strafrecht'],limburg,,0,maastricht,2021,feb,apr,2020,,0,0,hennep
+ECLI-NL-RBMNE-2019-3410,['Strafrecht; Materieel strafrecht'],midden-nederland,ten,1,utrecht,2019,mar,nov,2013,,0,1,hennep
+ECLI-NL-RBMNE-2019-3410,['Strafrecht; Materieel strafrecht'],midden-nederland,ten,1,utrecht,2019,mar,nov,2013,,0,1,cocaine
+ECLI-NL-RBDHA-2021-12978,['Strafrecht'],den haag,,0,zoetermeer,2021,nov,jul,2020,21.0,0,0,mdma
+ECLI-NL-RBDHA-2021-12978,['Strafrecht'],den haag,,0,zoetermeer,2021,nov,jul,2020,21.0,0,0,xtc
+ECLI-NL-RBDHA-2021-12978,['Strafrecht'],den haag,,0,zoetermeer,2021,nov,jul,2020,21.0,0,0,hennep
+ECLI-NL-RBDHA-2021-12978,['Strafrecht'],den haag,,0,zoetermeer,2021,nov,jul,2020,21.0,0,0,hasjiesj
+ECLI-NL-RBDHA-2021-12978,['Strafrecht'],den haag,,0,zoetermeer,2021,nov,jul,2020,21.0,0,0,heroine
+ECLI-NL-RBDHA-2021-12978,['Strafrecht'],den haag,,0,zoetermeer,2021,nov,jul,2020,21.0,0,0,cocaine
+ECLI-NL-RBZWB-2019-786,['Strafrecht'],zeeland-west-brabant,,0,rotterdam,2019,feb,aug,2017,19.0,0,0,xtc
+ECLI-NL-RBMNE-2020-4495,['Strafrecht'],midden-nederland,,0,almere,2020,oct,nov,2016,,0,1,amfetamines/metamfetamines
+ECLI-NL-RBLIM-2017-3317,['Strafrecht'],limburg,,0,utrecht,2017,apr,aug,2012,,0,0,hennep
+ECLI-NL-RBLIM-2017-3317,['Strafrecht'],limburg,,0,utrecht,2017,apr,aug,2012,,0,0,xtc
+ECLI-NL-RBOVE-2021-4198,['Strafrecht'],overijssel,,0,zwolle,2021,nov,jan,2020,20.0,0,0,ghb
+ECLI-NL-RBMNE-2020-4872,['Strafrecht'],midden-nederland,,0,houten,2020,nov,nov,2019,,0,0,mdma
+ECLI-NL-RBMNE-2020-4872,['Strafrecht'],midden-nederland,,0,houten,2020,nov,nov,2019,,0,0,xtc
+ECLI-NL-RBMNE-2020-4872,['Strafrecht'],midden-nederland,,0,houten,2020,nov,nov,2019,,0,0,heroine
+ECLI-NL-RBMNE-2020-4872,['Strafrecht'],midden-nederland,,0,houten,2020,nov,nov,2019,,0,0,cocaine
+ECLI-NL-RBMNE-2020-4872,['Strafrecht'],midden-nederland,,0,houten,2020,nov,nov,2019,,0,0,amfetamines/metamfetamines
+ECLI-NL-RBMAA-2011-BR0736,['Strafrecht'],maastricht,,0,sittard,2011,jul,jul,2010,,0,0,gbl

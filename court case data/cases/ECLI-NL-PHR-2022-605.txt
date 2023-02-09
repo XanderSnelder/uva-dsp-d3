@@ -1,0 +1,982 @@
+
+
+
+
+PROCUREUR-GENERAAL
+
+
+
+BIJ DE
+
+
+
+HOGE RAAD DER NEDERLANDEN
+
+
+
+
+
+
+Nummer	21/03899
+
+Zitting 24 juni 2022
+
+
+
+
+CONCLUSIE 
+
+
+
+T. Hartlief
+
+
+
+
+In de zaak
+
+
+
+
+        [eiser]
+       (hierna: ‘ [eiser] ’)
+
+tegen
+
+
+GlaxoSmithKline B.V. (hierna: ‘GSK’)
+
+
+
+        [eiser] heeft in 2001 toen hij vijftien jaar oud was het antidepressivum Seroxat voorgeschreven gekregen. Hij slikte dit medicijn gedurende bijna vijf maanden op recept van zijn toenmalige huisarts die als diagnose had gesteld dat [eiser] leed aan een zogenoemde reactieve depressie. De huisarts heeft Seroxat off-label aan [eiser] voorgeschreven omdat het antidepressivum blijkens de productinformatie niet bedoeld was voor gebruik door kinderen.
+Nadien is het helaas niet beter gegaan met [eiser] . Hij heeft sindsdien meerdere depressies en pogingen tot zelfdoding achter de rug. Volgens [eiser] is alles te herleiden tot zijn gebruik van Seroxat als kind. Hij heeft daarom in 2017 een verklaring voor recht gevorderd dat GSK producent en vergunninghouder van Seroxat jegens hem aansprakelijk is alsmede schadevergoeding op te maken bij staat. [eiser] heeft daarbij onder meer aangevoerd dat GSK ermee bekend was door in haar opdracht verricht onderzoek in de periode 1994-2002 dat Seroxat niet werkt bij kinderen en juist gevaarlijk is voor deze patiëntengroep in verband met een verhoogd suïciderisico als bijwerking. Volgens [eiser] heeft GSK relevante onderzoeksresultaten met betrekking tot de (niet-)werkzaamheid en (on)veiligheid van Seroxat bij gebruik door kinderen bewust niet bekendgemaakt en aldus haar waarschuwingsplicht geschonden.
+De rechtbank heeft geoordeeld dat GSK onrechtmatig heeft gehandeld tegenover de gebruikers van Seroxat onder wie [eiser]  die (zonder waarschuwing) aan de risico’s van Seroxat werden blootgesteld. Het hof heeft [eiser] echter alsnog in het ongelijk gesteld. Naar het oordeel van het hof heeft GSK ervan uitgaande dat zij bekend was met de relevante onderzoeksresultaten geen waarschuwingsplicht geschonden. De waarschuwing zoals die in de productinformatie in 1999 was opgenomen (“Het gebruik van Seroxat bij kinderen wordt afgeraden aangezien de veiligheid en werkzaamheid van dit middel in deze patiëntengroep niet is vastgesteld.”) volstond volgens het hof. Bovendien heeft het hof nog geoordeeld dat ook het causaal verband tussen de schade van [eiser] en de vermeende schending van de waarschuwingsplicht dan wel het gebruik van Seroxat niet is komen vast te staan.
+
+        [eiser] bestrijdt in cassatie zowel het oordeel van het hof met betrekking tot de waarschuwingsplicht van GSK als het oordeel met betrekking tot het causaal verband.
+
+
+
+
+1Feiten
+
+1.1
+In cassatie kan van de volgende feiten worden uitgegaan.
+
+
+1.2
+
+        [eiser]
+         is geboren in 1985. Op 26 juni 2001 (hij was toen vijftien jaar oud) heeft hij zich tot zijn huisarts gewend met de volgende klachten (volgens het huisartsenjournaal): “Depressief volgens pedagoog school en psychiater. Psych wilde lab TSH en Hb. Vader 3 jr gel[e]den overleden hartstilstand.” De diagnose luidde dat sprake was van een reactieve depressie. De huisarts heeft toen achtentwintig tabletten Seroxat 20 mg voorgeschreven met een controle na vier weken. 
+
+
+1.3
+Deze medicatie is (ook weer volgens het huisartsenjournaal) herhaald op 23 juli 2001 24 augustus 2001 en 28 september 2001. Bij 28 oktober 2001 staat vermeld: “tel moeder 22.00 uur: Van huis gevlucht naar vriendin met mes in hand. Wil de zich van kant maken. Neemt seroxat sosm in. Nog Erg depressief. Wil niet meer thuis komen wil niet meer naar Emergis”.Op 29 oktober 2001 heeft de huisarts nog veertien tabletten Seroxat 20 mg voorgeschreven. Bij 31 oktober 2001 staat vermeld dat er telefonisch contact is geweest met een psychiater van Eleos en verder: “Posttraumatische stress stoornis depressief en serieus suicidaal (homosex. misbruikt en vader dood gevonden) ruzie met moeder (oa. afzetten tegen geloof). Zou eigenlijk opgenomen moeten worden in Itaka maar wil dat zelf niet. Bij nieuwe crisis via RIAGG aandringen op opname desnoods met IBS. Heeft buiten seroxat phenergan drank 30 ml an.” Op 16 november 2001 heeft de huisarts dertig tabletten Paroxetin Dumex 20 mg voorgeschreven. Bij 28 november 2001 staat vermeld dat volgens informatie verkregen van de psychiater sprake is van een rouwreactie en posttraumatische stressstoornis en dat er een intake is gepland bij Ithaka. 
+
+
+1.4
+Op 21 december 2001 zijn wederom dertig tabletten Paroxetin Dumex 20 mg voorgeschreven en dat is zo doorgegaan in de maanden daarna tot en met mei 2002. Bij 4 januari 2002 staat onder meer: “Behandeling nu om de 2 wk in Goes en Dordt via Eleos. Moest overleggen seroxat door of hoger. Neemt bij veel stress promethazine erbij. Gaat wel beter. (...) Door seroxat 20.” 
+
+
+1.5
+Uit het huisartsenjournaal blijkt niet dat daarna opnieuw paroxetine (Seroxat of Dumex) is voorgeschreven. Op 28 juni 2002 is de huisarts overgegaan tot het voorschrijven van Fluvoxamine 50 mg tabletten tot en met 28 februari 2003. Het huisartsenjournaal stopt bij 18 maart 2003; méér pagina’s heeft [eiser] niet overgelegd.
+
+
+1.6
+GSK is producent en vergunninghouder van het middel Seroxat dat op 17 juni 1991 door haar rechtsvoorganger op de markt is gebracht na goedkeuring van het College ter Beoordeling van Geneesmiddelen (hierna: ‘CBG’). Het hoofdkantoor van GSK is gevestigd in Londen (Verenigd Koninkrijk); procespartij is de Nederlandse dochteronderneming van GSK gevestigd te Zeist.
+
+
+1.7
+Seroxat is een antidepressivum behorend tot de subklasse serotonineheropnameremmers (ook wel SSRI’s genoemd). De werkzame stof van Seroxat is paroxetine. Voor Seroxat is na goedkeuring van het CBG productinformatie voor artsen vastgelegd in een Summary of Product Characteristics (afgekort als SPC). Ten behoeve van de patiënten/gebruikers is in de bijsluiter die met het geneesmiddel wordt verpakt informatie gegeven.
+
+
+1.8
+
+In de (eerste) productinformatie (Deel IB) van juni 1991 is onder “Dosering en gebruik” onder meer opgenomen: 
+ “Het gebruik van Seroxat bij kinderen wordt afgeraden aangezien de veiligheid en werkzaamheid van dit middel in deze patiëntengroep niet is vastgesteld.”
+
+
+
+1.9
+In de SPC van 23 augustus 1999 staat onder 4.2. (“Dosering en wijze van toediening”) onder meer opgenomen:
+
+ “Ouderen 
+ De aanbevolen dosering bedraagt 20 mg per dag. (...)
+ Kinderen 
+ Het gebruik van Seroxat bij kinderen wordt afgeraden aangezien de veiligheid en werkzaamheid van dit middel in deze patiëntengroep niet is vastgesteld.”
+
+Onder 4.4. (“Speciale waarschuwingen en bijzondere voorzorgen bij gebruik”) staat onder meer:
+“In verband met mogelijk suïcidaal gedrag wordt aangeraden de kleinst mogelijke hoeveelheid tabletten Seroxat voor te schrijven. De mogelijkheid tot het doen van een suicidepoging is inherent aan het ziektebeeld depressie en kan blijven bestaan tot belangrijke verbetering is opgetreden.”
+En onder 4.8. (“Bijwerkingen”) is onder meer opgenomen:
+“Depressieve patiënten vertonen een groot aantal symptomen die samenhangen met of afhankelijk zijn van de klinische status van de ziekte. Het is daarom soms moeilijk te bepalen of de waargenomen symptomen voor[t]komen uit de ziekte zelf of een gevolg zijn van de bijwerkingen van Seroxat.”
+
+
+1.10
+Naast Seroxat dat door GSK op de markt is gebracht zijn ook andere SSRI’s op de markt gekomen. De door [eiser] in 2002-2003 gebruikte medicatie Paroxetin Dumex is gebaseerd op dezelfde werkzame stof paroxetine; de aan Eggenbeen voorgeschreven medicatie Fluvoxamine bevat een andere werkzame stof. Beide geneesmiddelen zijn niet geproduceerd door GSK. Andere medicatie die nog werd voorgeschreven/gebruikt voor behandeling van depressie (ook bij adolescenten) behoorde tot de groep tricyclische antidepressiva (ook wel TCA’s genoemd) zoals imipramine.
+
+
+1.11
+GSK heeft in de periode 1994-2002 negen pediatrische “clinical trials” laten uitvoeren naar de werking van paroxetine/Seroxat bij minderjarigen; de uitkomsten hiervan zijn (ook) terug te vinden op de website van GSK. De eerste “clinical trial” “Study 329” is gestart in april 1994 en afgerond in februari 1998. Hierover is gepubliceerd in juli 2001 in het wetenschappelijke tijdschrift Journal of the American Academy of Child & Adolescent Psychiatry (JAACAP).
+
+
+1.12
+
+Uit het artikel in JAACAP blijkt het volgende. In de samenvatting (Abstract) staat vermeld: 
+ “Objective: To compare paroxetine with placebo and imipramine with placebo for the treatment of adolescent depression. Method: After a 7- to 14-day screening period 275 adolescents with major depression began 8 weeks of double-blind paroxetine (20-40 mg) imipramine (...) or placebo. (...) Results: Paroxetine demonstrated significantly greater improvement compared with placebo (...). The response to imipramine was not significantly different from placebo for any measure. Neither paroxetine nor imipramine differed significantly from placebo on parent- or self-rating measures. (...) Conclusions: Paroxetine is generally well tolerated and effective for major depression in adolescents. (…)” 
+
+
+
+1.13
+In dit onderzoek zijn ook de bijwerkingen van paroxetine beschreven. Zo staat vermeld onder het kopje “Adverse Effects”: 
+“Paroxetine was generally well tolerated in this adolescent population and most adverse effects were not serious. The most common adverse effects reported during paroxetine therapy were headache nausea dizziness dry mouth and somnolence (…). (...). 
+ Serious adverse effects occurred in 11 patients in the paroxetine group 5 in the imipramine group and 2 in the placebo group. An event was defined as serious if it resulted in hospitalization was associated with suicidal gestures or was described by the treating physician as serious. The serious adverse effects in the paroxetine group consisted of headache during discontinuation taper (1 patient) and various psychiatric events (10 patients): worsening depression (2); emotional lability (e.g. suicidal ideation/gestures [5]; conduct problems or hostility (e.g. aggressiveness behavioral disturbance in school [2]; and euphoria/expansive mood (1). (…).”
+
+
+1.14
+
+Voorts wordt in het artikel aandacht besteed aan de klinische behandeling voor depressie bij adolescenten (onder het kopje “Clinical implications”): 
+ “Major depression in adolescents is an increasingly recognized clinical problem that is remarkably understudied. The majority of treatment studies involve the tricyclic antidepressants. Because these agents are associated with poor efficacy and cardiovascular adverse effects their use is not recommended. (...) Despite some methodological limitations resulting in a high placebo response rate (...) our study demonstrates that treatment with paroxetine results in clinically relevant improvement in depression scores. (…)”
+
+
+
+1.15
+Voor GSK UK vormden de zes gevallen van emotionele labiliteit aanleiding voor nader onderzoek zo heeft GSK onbestreden aangevoerd.
+
+
+1.16
+In 2008 is deze “Study 329” bekritiseerd in het artikel ‘Clinical trials and drug promotion: Selective reporting of study 329’ dat is opgenomen in het International Journal of Risk & Safety in Medicine 20 (2008) 73-81. In de conclusie staat vermeld: 
+
+“Since the publication of the results of study 329 in 2001 suspicions have emerged about its selective reporting (…). (...). The documents reveal that the published conclusions of study 329 and information provided by GSK to health professionals understated adverse effect rates and emphasized post-hoc measures that were not consistent with the unpublished protocol-defined primary and secondary outcomes. 
+Funding: none.”
+
+
+
+1.17
+De tweede “clinical trial” betreft “Study 377” en werd ook eind 1998 afgerond maar is niet gepubliceerd. “Study 377” richtte zich op het vergelijken van de werkzaamheid en bijwerkingen bij de (minderjarige) deelnemers die met Seroxat waren behandeld en de deelnemers die een placebo toegediend hadden gekregen. Op basis van de data bleken de verschillen tussen Seroxat en een placebo niet statistisch significant. Er bleken geen aanwijzingen van bijwerkingen wat betreft de emotionele labiliteit zo volgt ook onbestreden uit de verklaring (“Written statement”) van dr. Trevor Gibbs van 8 februari 2019.
+
+
+1.18 “
+
+Study 701” is medio 2001 afgerond en is ook niet gepubliceerd. 
+
+
+1.19
+GSK heeft nog zes andere “clinical trials” laten uitvoeren waarvan de laatste is afgerond in oktober 2002. Uit deze studies bleek dat Seroxat niet een duidelijk effectieve werking had bij minderjarigen; wel bleek na een meta-analyse van deze studies eind 2002 een verhoogd suïciderisico bij minderjarigen. 
+
+
+1.20
+GSK heeft op 21 mei 2003 melding gemaakt van deze bijwerking (verhoogd suïciderisico) bij de Engelse toezichthouder (Medicines and Healthcare Products Regulatory Agency (hierna: ‘MHRA’)). Daarop heeft de MHRA vervolgonderzoek verricht en op 10 juni 2003 een brief gestuurd aan de Engelse artsen waarin gewaarschuwd werd voor het gebruik van Seroxat door kinderen.
+
+
+1.21
+In navolging hiervan heeft het (Nederlandse) CBG in een bericht van 10 december 2003 gemaand tot voorzichtigheid bij gebruik van SSRI’s bij kinderen met depressieve stoornissen. Het CBG meldde in dit bericht ook dat de uitkomst van de Europese discussie hierover werd afgewacht voordat eventuele aanvullende maatregelen zouden worden genomen.
+
+
+1.22
+
+In de SPC van Seroxat van juni 2003 is over het gebruik door kinderen/adolescenten onder meer opgenomen (onder “4.1. Therapeutische indicaties”):
+ “Seroxat is niet geïndiceerd voor gebruik bij kinderen en adolescenten jonger dan 18 jaar. Gecontroleerde klinische onderzoeken hebben geen effect kunnen aantonen en ondersteunen het gebruik van Seroxat bij de behandeling van kinderen of adolescenten met depressies niet.” 
+
+
+
+1.23
+Daarnaast werd (onder “4.8. Bijwerkingen”) expliciet toegevoegd: 
+
+“Bijwerkingen uit het klinisch onderzoek bij kinderen:
+In klinisch onderzoek bij kinderen zijn de volgende bijwerkingen gezien in een frequentie van tenminste 2% van de patiënten en [treden] minstens tweemaal zo vaak op als bij placebo: Verminderde eetlust tremor zweten hyperkinesie vijandigheid agitatie emotionele zwakte (waaronder huilen stemmingswisselingen zichzelf schade toebrengen gedachten over zelfmoord en poging tot zelfmoord). Gedachten over zelfmoord en poging tot zelfmoord (…) werden voornamelijk gezien in klinisch onderzoek bij adolescenten met depressie.”
+
+
+
+1.24
+In 2003 is na de waarschuwing van de MHRA in Europa een discussie ontstaan over het gebruik van SSRI’s bij kinderen in het bijzonder wat betreft de veiligheid en de werkzaamheid daarvan. Op 22 april 2004 heeft het Europees geneesmiddelenagentschap EMEA/CPMP besloten een waarschuwing te publiceren met betrekking tot het voorschrijven van paroxetine bij de behandeling van kinderen en adolescenten onder de 18 jaar. Uit klinische studies was gebleken dat in deze leeftijdsgroep een hogere frequentie van suïcidaal gedrag en agressiviteit is geconstateerd en bovendien werd de werkzaamheid niet voldoende aangetoond.
+
+
+1.25
+In augustus 2015 is “Study 329” door onderzoekers aan een heranalyse onderworpen en bekritiseerd. De conclusie in de publicatie van de onderzoekers luidde: “(…) our reanalysis of Study 329 showed no advantage of paroxetine or imipramine over placebo in adolescents with symptoms of depression on any of the prespecified variables.”Naar aanleiding van deze publicatie heeft het CBG weer een nieuwsbericht gepubliceerd op 21 september 2015. De herhaalde waarschuwing hield in dat paroxetine niet moet worden voorgeschreven aan en gebruikt door kinderen en jongeren tot 18 jaar.
+
+
+1.26
+Bij brief van 22 juli 2016 heeft de advocaat van [eiser] GSK aansprakelijk gesteld voor de (materiële en immateriële) schade als gevolg van het gebruik en de bijwerkingen van Seroxat. GSK heeft aansprakelijkheid afgewezen.	
+
+
+
+
+2Procesverloop
+Eerste aanleg
+
+2.1
+
+        [eiser] heeft GSK op 20 februari 2017 gedagvaard voor de rechtbank Midden-Nederland en gevorderd om voor recht te verklaren dat GSK aansprakelijk is voor de door hem geleden schade en om GSK tot schadevergoeding op te maken bij staat te veroordelen. 
+
+
+2.2
+Deze vordering heeft [eiser]  onder meer op onrechtmatig handelen van GSK (art. 6:162 BW) gebaseerd. Aan zijn beroep op art. 6:162 BW heeft [eiser] ten grondslag gelegd althans zo heeft de rechtbank het opgevat dat GSK hoewel zij vanaf ongeveer het jaar 2000 wist dat paroxetine voor kinderen en jongeren niet of nauwelijks effectief was en dat het ernstige bijwerkingen had waaronder zelfmoordgedrag deze kennis niet openbaar heeft gemaakt. In dit verband heeft [eiser] gesteld dat hij als gevolg van het gebruik van Seroxat op jonge leeftijd schade heeft geleden: naast het ontstaan van emotionele gedragsstoornissen (hij werd angstig en agressief vertoonde oppositioneel gedrag en woede en hij verloor langzaam maar zeker zijn realiteitszin) kreeg hij suïcidale gedachten en ondernam hij op zestienjarige leeftijd zijn eerste poging tot zelfdoding. Door onder meer forse agressie is hij permanent van school verwijderd en uit huis geplaatst. Het gebruik van Seroxat en de gevolgen daarvan hebben tot een maatschappelijk disfunctioneren geleid. Hij heeft inmiddels zes zware depressies en vijf pogingen tot zelfdoding achter de rug. [eiser] heeft gesteld dat er causaal verband bestaat tussen het gebruik van Seroxat en de bij hem opgetreden blijvende gezondheidsschade. GSK heeft een en ander gemotiveerd weersproken.
+
+
+2.3
+Bij vonnis van 30 mei 2018 heeft de rechtbank het door GSK gevoerde verjaringsverweer verworpen de op art. 6:162 BW gebaseerde vordering van [eiser] toegewezen en voor recht verklaard dat GSK op de voet van art. 6:162 BW aansprakelijk is voor de door [eiser] geleden schade door kort gezegd het gebruik van Seroxat.
+
+
+2.4
+
+De rechtbank heeft daartoe eerst een samenvatting van het standpunt van [eiser] gegeven:
+ “2.9. 	Het standpunt van [eiser] kan zo worden gelezen: GlaxoSmithKline heeft onrechtmatig gehandeld. Zij wist namelijk vanaf ongeveer het jaar 2000 dat paroxetine voor kinderen en jongeren (onder de 18) niet of nauwelijks effectief was en dat het ernstige bijwerkingen had waaronder (kort gezegd) zelfmoordgedrag. Zij had die kennis op dat moment publiek moeten maken en dat heeft zij niet gedaan. Als zij dat wel gedaan had had [eiser] het in 2001 niet voorgeschreven gekregen. Dit standpunt kan in een aantal stellingen worden opgeknipt die achtereenvolgens besproken zullen worden.”
+
+
+
+2.5
+Vervolgens is de rechtbank ingegaan op achtereenvolgens “Study 329” “Study 377” en op kritiek op “Study 329” in de medische literatuur:
+“2.10. 	Een belangrijke rol hierbij is weggelegd voor een onderzoek dat bekend staat als ‘Study 329’. Dit onderzoek is in de jaren 1994-1997 uitgevoerd in Canada en de Verenigde Staten van Amerika. Daarbij werden twee geneesmiddelen paroxetine en imipramine vergeleken met een placebo bij 275 jongeren met ernstige depressies. De resultaten zijn in juli 2001 door Martin B. Keiler (en anderen) gepubliceerd in het Journal of the American Academy of Child and Adolescent Psychiatry (JAACAP) onder de titel: ‘Efficacy of Paroxetine in the Treatment of Adolescent Major Depression: A Randomized. Controlled Trial'. 
+
+
+
+2.11. 	In dezelfde periode als Study 329 liep ook Study 377 en daarna zijn er nog zeven andere onderzoeken geweest. Daaruit is de werkzaamheid van paroxetine niet gebleken. Deze onderzoeken zijn niet gepubliceerd. 
+
+
+
+
+
+2.12. 	Nadien is er nader onderzoek gedaan naar Study 329. In 2008 verscheen in het tijdschrift International Journal of Risk & Safety in Medicine een artikel van Jon N. Jureidini en anderen met kritiek op de gebruikte methoden. Onder meer wijst dit artikel erop dat de oorspronkelijke onderzoekers zijn afgeweken van hun vooraf opgestelde protocol. Daarin waren vooraf acht criteria voor effectiviteit geformuleerd. Op die criteria was geen enkel positief effect van paroxetine zichtbaar. Vervolgens hebben de onderzoekers (buiten het protocol om) gezocht naar andere criteria waar wel een effect te zien zou zijn. In totaal is er uiteindelijk op 27 criteria getest; daarvan gaven er vier een positiefresultaat. In het artikel in JAACAP zijn deze vier vermeld naast vier van de oorspronkelijke criteria. Jureidini c.s. noemt dit ‘data torturing’ omschreven als ‘a form of confirmation bias in which information is sought to support pre-conceived beliefs'’. 
+
+
+
+
+2.13. 	In 2015 verscheen in het British Medical Journal een heranalyse van Study 329 door Joanna Le Noury en anderen. In deze heranalyse hebben de onderzoekers strikt het vooraf opgestelde protocol van Study 329 gevolgd:
+
+“The a priori protocol and blinding are the bedrock of a randomised controlled trial guaranteeing that there is not even the possibility of the HARK phenomenon (“hypothesis after results known”).”
+ Bij de heranalyse is dus alleen getoetst aan de vooraf opgestelde criteria en dat leidde tot de conclusie dat paroxetine niet effectiever was dan een placebo. Daarnaast zijn de ongewenste neveneffecten (‘adverse effects’) opnieuw gecodeerd hetgeen aanzienlijk meer negatieve effecten liet zien. 
+
+
+
+2.14.
+2.14. 	Het is niet de bedoeling van de rechtbank om hieruit nu conclusies te trekken. Dat zal. voor zover nodig gebeuren bij de stellingen waarop [eiser] zijn vordering baseert.”
+
+
+2.6
+
+De rechtbank is het met [eiser] eens dat GSK wist dat paroxetine niet of nauwelijks effectief is voor kinderen en jongeren:
+ “2.15. 	De eerste stelling houdt in dat GlaxoSmithKline wist dat paroxetine voor kinderen en jongeren niet of nauwelijks effectief is. Dat staat inderdaad grotendeels vast. Ook als GlaxoSmithKline niet direct betrokken was bij het onderzoek of het schrijven van het artikel moet worden aangenomen dat zij in 2000 de resultaten van Study 329 kende. Sommige van de coauteurs (Rosemary Oakes James P. MacCafferty) waren bij haar in dienst en GlaxoSmithKline betwist ook niet dat zij het materiaal kende. Zij moet dus geweten hebben dat paroxetine zoals gezegd op slechts vier criteria enig positief effect liet zien en op 23 andere criteria helemaal niet. GlaxoSmithKline kende bovendien Study 377. Dat onderzoek werd in dezelfde periode afgesloten als Study 329 maar niet gepubliceerd. Uit Study 377 bleek geen enkel effect van paroxetine. De conclusie kan worden getrokken dat GlaxoSmithKline alle reden had om ten minste te vermoeden dat het effect van paroxetine bij jongeren op zijn best beperkt was.”
+
+
+
+2.7
+De rechtbank heeft ook de tweede stelling van [eiser]  inhoudende dat GSK wist dat paroxetine voor jongeren risico’s had gegrond bevonden:
+“2.16. 	De tweede stelling houdt in dat GlaxoSmithKline wist dat paroxetine voor jongeren risico's had. Dat is onderbouwd voor zover het gaat om kortetermijnrisico's met name waar het gaat om ‘zelfmoordgedrag’ namelijk suïcide(pogingen) zelfbeschadiging en gedachten daaraan. 
+
+
+2.17. 	Deze risico’s blijken niet uit de conclusies van het artikel in JAACAP. De conclusie in de tekst luidt: 
+
+ The findings of this study provide evidence of the efficacy and safety of the SSRI paroxetine in the treatment of adolescent depression. Additional studies are called for to define the optimal length of therapy and dose of SSRIs in this population.
+ En in de ‘Abstract’ (samenvatting): 
+ Paroxetine is generally well tolerated and effective for major depression in adolescents. 
+ De tekst van het artikel bevat echter een tabel 3 met ‘adverse effects’. Deze tabel noemt een groot aantal bijwerkingen waaronder hoofdpijn (32 van de 93 patiënten die met paroxetine behandeld werden) emotionele labiliteit (6) en vijandigheid (7). Een bladzijde verder gaat de tekst in op ‘serious adverse effects’ die optraden bij 11 van de 93: 
+ The serious adverse effects in the paroxetine group consisted of headache (...) (1 patient) and various psychiatric events (10 patients): worsening depression (2); emotional lability (e.g.. suicidal ideation/gestures [5]); conduct problems or hostility (e.g. aggressiveness behavioural disturbance in school [2]); and euphoria/expansive mood (1). (...) Of the 11 patients only headache (1 patient) was considered by the treating investigator to be related to paroxetine treatment.
+ Een toelichting waarom de andere ‘serious adverse effects’ geen verband zouden hebben met de behandeling wordt niet gegeven. Omdat het gaat om zo ernstige problemen als onder andere zelfmoordgedrag mocht GlaxoSmithKline als de producent die verantwoordelijk is voor de veiligheid van het middel dat zij in de handel brengt daarop niet zonder meer vertrouwen. 
+
+
+
+
+2.18. 	GlaxoSmithKline had bovendien toegang tot het onderzoeksmateriaal zoals hierboven besproken. Uit dat materiaal blijkt dat er meer problemen waren. Jureidini verwijst in het artikel van 2008 naar een intern rapport van november 1998:
+ Just a few minutes’ reading of the serious adverse events narratives in this final report (pp. 276-307) would have revealed three more cases of suicidal ideas or self-harm that had not been classified as emotional lability. So the authors should have known that at least eight adolescents in the paroxetine group had self-harmed or reported emergent suicidal ideas compared to only one in the placebo group.
+
+
+
+2.19. 	In de relevante periode ongeveer 2000 wist GlaxoSmithKline dus dat het gebruik van paroxetine in elk geval op de korte termijn meer risico's had dan uit de conclusie en de samenvatting van het artikel in JAACAP zou blijken waaronder ernstige risico's als zelfmoordgedrag.”
+
+
+2.8
+De rechtbank is tot de slotsom gekomen dat GSK haar waarschuwingsplicht heeft geschonden en onrechtmatig heeft gehandeld jegens [eiser] :
+“2.20. 	Dat een verhoogd zelfmoordrisico een ernstige bijwerking is hoeft niet te worden beargumenteerd. Bij een zo ernstige bijwerking moeten gebruikers en voorschrijvende artsen gewaarschuwd worden zodat zij kunnen afzien van gebruik of begeleidende maatregelen kunnen nemen. Dat geldt ook als nog geen zekerheid bestaat maar alleen aanwijzingen of als het causaal verband met het gebruik nog niet vaststaat. Bovendien geldt dit ook als de bijwerking optreedt bij een groep voor wie het middel formeel niet op de markt gebracht is. Artsen kunnen het voor die groep immers toch voorschrijven (off-label gebruik). Met Seroxat gebeurde dat ook en GlaxoSmithKline stelt niet dat zij dat niet wist. 
+
+
+
+2.21. 	Daarbij heeft de producent een eigen verantwoordelijkheid. GlaxoSmithKline voert aan dat zij alleen in overleg met College ter Beoordeling van Geneesmiddelen (CBG) bijsluiters mag aanpassen. Voor zover dit juist is. betekent dat dat GlaxoSmithKline zich met de informatie over de genoemde bijwerkingen onverwijld tot het CBG had kunnen en moeten wenden. Dat zij dat gedaan heeft blijkt uit niets. 
+
+
+
+
+
+2.22. 	GlaxoSmithKline heeft ondanks haar kennis van het onderzoeksmateriaal van Study 329 (en naar mag worden aangenomen van Study 377) niet eerder dan in 2003 gewaarschuwd voor mogelijke (zelfmoord-)risico's van paroxetine. Ook bij het verschijnen van het artikel in JAACAP heeft zij geen kanttekeningen gemaakt hoewel zij wist of moest weten dat dit artikel en zeker de samenvatting de resultaten vertekend weergaf. Dit kan aan haar worden toegerekend ook aan de Nederlandse vennootschap. GlaxoSmithKline voert niet aan dat de Nederlandse vennootschap niet over alle informatie beschikte of dat die wel tijdig heeft gewaarschuwd. 
+
+
+
+
+2.23. 	De conclusie is dat GlaxoSmithKline gehandeld heeft in strijd met de zorgvuldigheid die volgens ongeschreven recht in het maatschappelijk verkeer betaamt en dus onrechtmatig. Dit is onrechtmatig tegenover de gebruikers van Seroxat. die (zonder waarschuwing) aan de risico's werden blootgesteld dus ook tegenover [eiser] . De verklaring voor recht kan daarom worden toegewezen.”
+
+
+2.9
+
+De rechtbank heeft GSK veroordeeld tot vergoeding van de door [eiser] geleden schade op te maken bij staat (rov. 2.24. en rov. 3.2.). Volgens de rechtbank is de mogelijkheid dat [eiser] schade heeft geleden door de onzorgvuldigheid van GSK voldoende aannemelijk maar staat dit nog niet vast. Hierbij heeft de rechtbank van belang gevonden dat “Study 329” alleen ging over kortetermijngevolgen van het gebruik van Seroxat. Of ook de langetermijnschade die [eiser] ontegenzeggenlijk lijdt gezien kan worden als gevolg van het gebruik van Seroxat en van de nalatigheid van GSK om te waarschuwen voor de kortetermijngevolgen moet volgens de rechtbank in de schadestaatprocedure beoordeeld worden.
+
+Hoger beroep
+
+
+
+
+2.10
+GSK is bij het gerechtshof Arnhem-Leeuwarden in hoger beroep gekomen van het vonnis van de rechtbank. [eiser] heeft op zijn beurt voorwaardelijk incidenteel hoger beroep ingesteld gericht tegen de overweging van de rechtbank in rov. 2.7. van het vonnis dat [eiser] al langer dan vijf jaar bekend is met zijn schade en dat hij kon weten dat GSK de producent was van het middel waarvan hij bijwerkingen had.
+
+
+2.11
+Het hof is tot het oordeel gekomen dat het door GSK ingestelde hoger beroep slaagt. Het hof heeft het vonnis vernietigd en de vorderingen van [eiser] alsnog afgewezen. Aan een beoordeling van het voorwaardelijk ingestelde incidenteel hoger beroep van [eiser] is het hof niet toegekomen (rov. 4.11 en 5.1).
+
+
+2.12
+
+Het hof heeft eerst vastgesteld dat de grieven/bezwaren van GSK vier onderwerpen betreffen (rov. 4.1). Volgens GSK heeft de rechtbank ten onrechte geoordeeld dat:
+a. zij op basis van “Study 329” in 1998 wetenschap had van een verhoogd suïciderisico bij gebruik van Seroxat door jongeren;
+b. zij in 2001 meer wetenschap had van de risico’s dan uit het al genoemde artikel in JAACAP blijkt;
+c. zij op basis van “Study 329” gebruikers en voorschrijvend artsen eerder dan in 2003 had moeten waarschuwen;
+d. de verjaringstermijn van art. 3:310 lid 1 BW niet is verstreken.
+
+
+
+Daarnaast heeft GSK aangevoerd dat de door [eiser] vermelde klachten zoals depressie/depressieve stoornis met vitale kenmerken suïcidaliteit/suïcidale gedachten en verlies van realiteitszin ook het gevolg kunnen zijn van de ziekte depressie zelf.
+
+
+
+2.13
+Onder het kopje “De kern van de zaak en de beoordeling door het hof” heeft het hof de te beantwoorden rechtsvraag geformuleerd (rov. 4.2 eerste alinea). Het gaat volgens het hof om de vraag of GSK onrechtmatig in de zin van art. 6:162 BW heeft gehandeld tegenover [eiser]  in het bijzonder wat betreft de verwijten onder a. tot en met c. (randnummer 2.12 hiervoor). Hierbij heeft het hof het standpunt van [eiser] ter zake beschreven (rov. 4.2 tweede alinea). Volgens [eiser] had GSK al tijdens het onderzoek “Study 329” en dus in ieder geval voordat hij medio 2001 Seroxat voorgeschreven kreeg voorschrijvende artsen en het publiek moeten waarschuwen voor het gebruik van Seroxat bij jongeren. In het bijzonder had GSK moeten wijzen op de ernstige bijwerkingen bestaande in onder meer agressie en suïcide. Daarnaast had GSK ook moeten wijzen op het ontbreken van de genezende werking voor kinderen en jongeren. 
+
+
+2.14
+In de derde alinea van rov. 4.2 heeft het hof al geoordeeld dat GSK haar waarschuwingsplicht niet heeft geschonden en dus niet onrechtmatig heeft gehandeld tegenover [eiser] . Dat oordeel heeft het hof in de daaropvolgende overwegingen (rov. 4.3 e.v.) gemotiveerd waarbij het hof eerst in rov. 4.3 tot en met 4.6 is ingegaan op het gebruik van paroxetine (Seroxat) door minderjarigen in het algemeen en door [eiser] in het bijzonder.
+
+
+2.15
+
+In dit kader heeft het hof in rov. 4.3 aandacht besteed aan de aanvankelijke productinformatie in 1991 en op diverse relevante ontwikkelingen nadien op het vlak van informatie over bijwerkingen en werkzaamheid:
+“4.3	Vanaf het moment dat Seroxat op de markt kwam in 1991 is in de productinformatie opgenomen dat het gebruik van Seroxat bij kinderen wordt afgeraden omdat “de veiligheid en werkzaamheid” hiervan niet is vastgesteld bij “deze patiëntengroep”. Deze waarschuwing is in de productinformatie voor artsen (augustus) 1999 herhaald en tevens is daarin gewezen op mogelijk suïcidaal gedrag bij inname van Seroxat (onder het kopje ‘speciale waarschuwingen en bijzondere voorzorgen bij gebruik’). Eveneens is vermeld dat een suïcidepoging inherent is aan het ziektebeeld depressie en ook dat de (andere) bijwerkingen van Seroxat lijken op de symptomen die voortkomen uit de ziekte zelf. De klinische studies die zijn gedaan naar de werking van SSRI’s met de werkzame stof paroxetine bij minderjarigen hebben in 2003 geleid tot de conclusie dat in deze leeftijdsgroep een hogere frequentie van suïcidaal gedrag en agressiviteit is geconstateerd en dat bovendien de werkzaamheid van paroxetine bij deze leeftijdsgroep niet voldoende was aangetoond. Daarna in april 2004 heeft het Europees geneesmiddelenagentschap besloten een waarschuwing te publiceren over het gebruik van paroxetine bij de behandeling van kinderen en adolescenten onder de 18 jaar welke waarschuwing is overgenomen door het CBG.”
+
+
+
+2.16
+Het hof heeft vastgesteld dat bij [eiser] sprake was van zogenoemd off-label gebruik van Seroxat waarvoor de voorschrijvend arts verantwoordelijk is. Het was in 2001 niet ongebruikelijk dat kinder- en jeugdpsychiaters SSRI’s waaronder paroxetine (de werkzame stof van Seroxat randnummer 1.7 hiervoor) voorschreven aan kinderen en jeugdigen met een depressie: 
+“4.4	Een geneesmiddel zoals Seroxat kan ook door een arts worden voorgeschreven aan een patiënt voor een andere toepassing dan waarvoor het (goedgekeurde) geneesmiddel op de markt is gebracht. Men spreekt dan van “off label” gebruik. Uit de hiervoor genoemde productinformatie uit 1991 en 1999 volgt genoegzaam dat Seroxat niet bedoeld was voor gebruik door kinderen/jeugdigen. Over het voorschrijven van antidepressiva aan kinderen en jeugdigen heeft prof. dr. W.A. Nolen in zijn rapport van 30 juni 2017 geschreven: Samenvattend werd in 2001 in de richtlijnen over depressie de toepassing van antidepressiva bij kinderen en jeugdigen niet afgeraden. Het was in 2001 niet ongebruikelijk dat kinder- en jeugdpsychiaters SSRI's waaronder paroxetine voorschreven aan kinderen en jeugdigen met een depressie. Hierbij was dan wel sprake van zogenoemd off-label gebruik. Pas in 2009 werd voor het eerst in de richtlijnen over depressie het gebruik van antidepressiva afgeraden bij kinderen en jeugdigen. Ingeval de arts toch (off-label) een antidepressiva wilde voorschrijven werd de SSRI fluoxetine als eerste stap en de SSRI's sertraline of citalopram als tweede stap aangeraden. De SSRI paroxetine werd niet meer aangeraden enerzijds vanwege het ontbreken van bewijs van werkzaamheid bij kinderen en jeugdigen en anderzijds vanwege de bijwerkingen waaronder het risico van suicidaliteit. Deze conclusie/samenvatting in het rapport van Nolen is door [eiser] niet (gemotiveerd) bestreden.
+
+
+4.5	Aan [eiser] is door diens huisarts op 26 juni 2001 (hij was toen ruim 15 jaar) Seroxat voorgeschreven in de (voor volwassenen) gebruikelijke dosering van 20 mg. De huisarts is daarbij afgegaan op de diagnose van de schoolpedagoog en de psychiater dat sprake was van een (reactieve) depressie. Er is sprake geweest van “off label” gebruik nu [eiser] Seroxat voorgeschreven heeft gekregen terwijl in de productinformatie (voor de arts) was opgenomen dat gebruik van Seroxat bij kinderen wordt afgeraden. Bij “off label” gebruik is de arts verantwoordelijk voor het buiten de goedgekeurde registratievoorwaarden voorschrijven van een geneesmiddel aldus schrijft drs. A.P. Meiners (senior medisch adviseur farmacovigilantie) onbestreden in het deskundigenrapport van 30 januari 2019. (…).”
+
+
+2.17
+Het hof heeft de stellingen van [eiser] dat hij Seroxat voorgeschreven heeft gekregen tot 2004 en dat de dosering van 20 mg is verhoogd verworpen. Uit het huisartsenjournaal blijkt volgens het hof dat [eiser] in de tweede helft van 2001 bijna vijf maanden Seroxat voorgeschreven heeft gekregen van de huisarts dat hij na 16 november 2001 andere SSRI’s dan Seroxat heeft voorgeschreven gekregen met de werkzame stoffen paroxetine en fluvoxamine en dat [eiser] zijn eerste zelfmoordpoging op 28 oktober 2001 ondernam toen hij vier maanden Seroxat gebruikte:
+
+ “4.5 (…) 
+ Uit het huisartsenjournaal blijkt voorts dat tot 16 november 2001 door de huisarts Seroxat is voorgeschreven; dit betreft dus een gebruik van bijna vijf maanden. [eiser] stelt weliswaar dat hij Seroxat heeft voorgeschreven gekregen/gebruikt tot eind 2004 maar dat blijkt in ieder geval niet uit het huisartsenjournaal; zijn stelling is daarmee niet onderbouwd. Hetzelfde geldt voor zijn stelling dat de dosering (van 20 mg) is verhoogd: ook dat blijkt niet uit het huisartsenjournaal. Wél is de dosering van fluvoxamine opgehoogd na het gebruik van Seroxat. Andere medische gegevens dan het uittreksel uit het huisartsenjoumaal heeft [eiser] niet overgelegd ook niet in hoger beroep zodat het hof voorbijgaat aan deze niet onderbouwde stellingen. Onbetwist staat vast dat [eiser] na 16 november 2001 andere SSRI’s dan Seroxat heeft voorgeschreven gekregen met de werkzame stoffen paroxetine en fluvoxamine.
+
+
+
+4.6
+4.6	Uit het huisartsenjournaal blijkt dat [eiser] op 28 oktober 2001 (toen hij net 16 jaar was geworden) een (eerste) zelfmoordpoging wilde doen; hij gebruikte toen vier maanden Seroxat. De psychiater heeft dat nadien beschreven als “serieus suïcidaal”. [eiser] heeft ter comparitie bij de rechtbank op 20 maart 2018 verklaard dat hij zich vergist heeft in zijn leeftijd (14 jaar) toen hij de eerste zelfmoordpoging ondernam maar dat het in ieder geval na het gebruik van Seroxat was en niet daarvóór. Zijn verklaring strookt in ieder geval met het huisartsenjournaal.”
+
+
+2.18
+Na deze overwegingen gewijd aan het gebruik van paroxetine (Seroxat) door minderjarigen in het algemeen en [eiser] in het bijzonder is het hof vervolgens in rov. 4.7 tot en met 4.10 ingegaan op de vraag of GSK een op haar rustende waarschuwingsplicht heeft geschonden en daarmee onrechtmatig heeft gehandeld jegens [eiser] . Volgens het hof is dat zoals het ook al aankondigde in de derde alinea van rov. 4.2 (randnummer 2.14 hiervoor) niet het geval.
+
+
+2.19
+In de eerste alinea van rov. 4.7 heeft het hof hierbij als vertrekpunt genomen dat sprake is van een schending van de waarschuwingsplicht als GSK heeft nagelaten te waarschuwen wat betreft werkzaamheid en bijwerkingen van Seroxat hoewel dat op grond van de (eerste) uitkomsten van de studies wel geboden was. GSK zou dan in strijd hebben gehandeld met hetgeen volgens ongeschreven regels in het maatschappelijk verkeer betaamt.
+
+
+2.20
+In de tweede alinea van rov. 4.7 heeft het hof eerst overwogen dat in de eerste versie van de productinformatie (in 1991) en in de productinformatie van 1999 bepaalde waarschuwingen waren opgenomen en vervolgens geoordeeld dat er voor GSK geen reden was om al tijdens of kort na afronding van “Study 329” (1994-1998) de artsen en/of het publiek nader te waarschuwen voor het gebruik van Seroxat door kinderen/jongeren ook niet indien GSK al vóór de JAACAP-publicatie in 2001 bekend was met de uitkomsten van het onderzoek:
+
+ “4.7 (…)
+ Bij het op de markt brengen van Seroxat in 1991 is in de eerste versie van de productinformatie (SPC) opgenomen dat het gebruik door kinderen wordt afgeraden aangezien de veiligheid en werkzaamheid hiervan bij deze patiëntengroep niet is vastgesteld. In de productinformatie van 1999 wordt deze waarschuwing herhaald en wordt ook aangeraden om de kleinst mogelijke hoeveelheid tabletten voor te schrijven in verband met mogelijk suïcidaal gedrag. Ook wanneer GSK al vóór de JAACAP publicatie in 2001 bekend was met de uitkomsten van het onderzoek hetgeen door GSK wordt betwist was er naar het oordeel van het hof geen reden voor GSK om al tijdens of kort na afronding van “Study 329” (1994-1998) de artsen en/of het publiek nader te waarschuwen voor het gebruik van Seroxat door kinderen/jongeren vanwege de toename van de kans op suïcidaliteit en de geringe werking van Seroxat. (…).”
+
+
+
+2.21
+In rov. 4.8 tot en met 4.10 is dit oordeel nader uitgewerkt. 
+
+
+2.22
+
+In de eerste alinea van rov. 4.8 is het hof ingegaan op kort gezegd de betrouwbaarheid van de door GSK mogelijk gemaakte studies in de jaren 1994-2002 en dan in het bijzonder van “Study 329” uitgevoerd in 1994-1998 waarover in 2001 is gepubliceerd in JAACAP (randnummer 1.11 hiervoor). Volgens het hof is niet gebleken dat deze onderzoeken niet onafhankelijk zijn uitgevoerd door de (door GSK gefinancierde) wetenschappers:
+ “4.8	Juist omdat de werking van paroxetine (Seroxat) niet klinisch onderzocht was op gebruik door minderjarigen/adolescenten heeft GSK in de jaren 1994-2002 hiernaar onderzoek laten verrichten. Het gegeven dat GSK deze studies mogelijk maakte door financiering hiervan (een niet ongebruikelijk gegeven) maakt niet dat deze onderzoeken daarom niet onafhankelijk werden uitgevoerd door de wetenschappers. Dat kan onder omstandigheden anders zijn maar zodanige omstandigheden zijn in deze procedure onvoldoende naar voren gebracht. De vermelding in de kritische studie uit 2008 dat sprake is van “suspicions” van “selective reporting” door GSK acht het hof niet toereikend om tot een ander oordeel te komen. In “Study 329” wordt naast de melding van “adverse effects” ook melding gemaakt van “serious adverse effects” bij elf deelnemers waaronder emotionele labiliteit (bijvoorbeeld in vijf gevallen suïcidale gedachten/gedragingen en in twee gevallen gedragsproblemen). In het artikel zelf wordt hieraan geen verdere aandacht besteed en/of worden hieraan geen conclusies verbonden; de focus van het onderzoek (en het artikel) ligt vooral op de effectiviteit van het gebruik van paroxetine door minderjarigen/adolescenten in vergelijking met het gebruik van imipramine (een tricyclisch antidepressivum) zo begrijpt het hof.”
+
+
+
+2.23
+In de tweede alinea van rov. 4.8 is het hof ingegaan op de bevinding uit “Study 329” dat bij vijf deelnemers aan het onderzoek sprake is geweest van suïcidale gedachten/gedragingen (randnummer 1.13 hiervoor). Die enkele constatering geeft volgens het hof onvoldoende aanknopingspunten voor het aannemen van een waarschuwingsplicht van GSK:
+
+ “4.8 (…)
+ Zelfs al zou GSK al vóór de publicatie van het onderzoek in juli 2001 kennis hebben genomen van de resultaten van het onderzoek dan geeft de (enkele) constatering dat bij vijf deelnemers sprake is geweest van suïcidale gedachten/gedragingen onvoldoende aanknopingspunten voor het aannemen van een waarschuwingsplicht van GSK waarbij het hof ook betrekt het gegeven dat suïcidale gedachten/gedrag ook het gevolg kunnen zijn van de onderliggende ziekte zelf en dat in de productinformatie een speciale waarschuwing werd gegeven voor mogelijk suïcidaal gedrag (bij volwassenen). (…)”
+
+
+
+2.24
+De uitkomsten van “Study 377” en “Study 701” (randnummers 1.17 en 1.18 hiervoor) zagen volgens het hof niet op een verhoogd suïciderisico. Pas eind 2002 na de meta-analyse (randnummer 1.19 hiervoor) bleek van een verhoogd suïciderisico bij minderjarigen. [eiser] had daarvoor al Seroxat voorgeschreven gekregen van juni tot november 2001. In die periode hoefden naar het oordeel van het hof de artsen die Seroxat mogelijk ook off-label voorschreven niet door GSK te worden gewaarschuwd:
+
+ “4.8 (…)
+ (…) De uitkomsten van de andere studies (“Study 377” en “Study 701”) zagen op de (niet)werkzaamheid van Seroxat bij kinderen en adolescenten en niet op een verhoogd suïciderisico althans dat is niet gesteld of gebleken. Pas na de meta-analyse van de verschillende studies (eind 2002) bleek wel van een verhoogd suïcide risico bij minderjarigen zoals GSK ook erkent en deze uitkomst (naast de niet duidelijk effectieve werking voor minderjarigen) heeft ertoe geleid dat GSK in mei 2003 de Britse toezichthouden (MHRA) hiervan op de hoogte heeft gesteld. [eiser] heeft Seroxat voorgeschreven gekregen tot medio november 2001 dat was voordat uit de meta-analyse bleek van een verhoogd suïcide risico. In die periode (juni-november 2001) behoefden ook de artsen die Seroxat mogelijk ook “off label” voorschreven niet door GSK gewaarschuwd te worden.”
+
+
+
+2.25
+
+Daar komt volgens het hof bij dat in de productinformatie in 1999 gebruik van Seroxat door kinderen werd afgeraden (randnummer 1.9 hiervoor). Reeds in 1999 werd gewaarschuwd voor het risico op suïcidaliteit (bij volwassenen). Een ‘extra’ generieke waarschuwing naast de al bestaande waarschuwing in de productinformatie zoals [eiser] die voorstaat was volgens het hof niet geboden zodat het nalaten hiervan niet als onrechtmatig kan worden gekwalificeerd:
+ “4.9	Daar komt bij dat in de productinformatie in 1999 gebruik van Seroxat door kinderen werd afgeraden omdat de veiligheid (waaronder ook het verhoogde suïcidegevaar begrepen kan worden volgens het hof) en werkzaamheid (waaronder ook de niet-werkzaamheid begrepen kan worden volgens het hof) voor gebruik door kinderen/adolescenten niet vastgesteld kon worden. Seroxat was immers alleen voorgeschreven voor gebruik door volwassenen en er werd al in 1999 de waarschuwing gegeven voor het risico op suïcidaliteit (bij volwassenen) alhoewel niet bekend of niet zeker was of het (verhoogde) suïciderisico een gevolg was van de medicatie (bijwerking) of een gevolg van de ziekte (depressie) zelf. Een ‘extra’ generieke waarschuwing zoals [eiser] die voorstaat naast de al bestaande waarschuwing in de productinformatie was voor GSK niet geboden (nog steeds ervan uitgaande dat GSK in die periode op de hoogte was van de uitkomsten van het onderzoek voordat deze in juli 2001 gepubliceerd werden); het nalaten van deze door [eiser] gewenste waarschuwing kan daarom niet als onrechtmatig worden gekwalificeerd.”
+
+
+
+2.26
+In rov. 4.10 volgt dan de conclusie dat GSK niet gehouden was om in verband met de uitkomsten van “Study 329” en de andere afgeronde studies in 2001 (in de periode juni-november 2001 toen [eiser] Seroxat gebruikte) of eerder een ‘extra’ generieke waarschuwing af te geven voor de mogelijke risico’s voor het gebruik door minderjarigen (dan wel dat Seroxat geen effectieve werking had). Seroxat werd immers in de productinformatie voor artsen in 1991 en in 1999 al uitdrukkelijk afgeraden voor deze patiëntengroep omdat de veiligheid en werkzaamheid niet was vastgesteld. 
+
+
+2.27
+
+Met betrekking tot de stelling van [eiser] dat GSK het off-label voorschrijven van Seroxat heeft gepromoot heeft het hof het volgende overwogen:
+ “4.10 (…) Dat (een onderneming van) GSK in de Verenigde Staten (in 2001) promotionele activiteiten heeft verricht voor het “off label” voorschrijven van Seroxat aan minderjarigen kan in deze procedure niet tegengeworpen worden aan de Nederlandse dochteronderneming GSK die in deze procedure partij is. Gesteld noch gebleken is dat deze promotionele activiteiten in de Verenigde Staten invloed hebben gehad op het “off label” voorschrijven in Nederland meer in het bijzonder het “off label” gebruik van de huisarts van [eiser] bij het overgaan tot het voorschrijven van Seroxat aan [eiser] . Dat de huisarts van [eiser] hem “off label” Seroxat heeft voor[ge]schreven kan dan ook niet tegengeworpen worden aan GSK nu dit voorschrijven een eigen verantwoordelijkheid is van de voorschrijvend arts. (…)”
+
+
+
+2.28
+
+Volgens het hof is sprake van voortschrijdend inzicht dat niet met terugwerkende kracht aan GSK kan worden tegengeworpen:
+ “4.10 (…) Dat voortschrijdend inzicht naar aanleiding van verdergaand onderzoek naar de werking en het gebruik van SSRI’s (waaronder Seroxat) hebben [lees: heeft A-G] geleid tot meer specifieke waarschuwingen wat betreft het gebruik door kinderen/adolescenten onder de 18 jaar kan niet met terugwerkende kracht aan GSK worden tegengeworpen.”
+
+
+
+2.29
+Het beroep van GSK op verjaring van de vordering van [eiser] heeft het hof onbesproken gelaten omdat GSK geen onrechtmatig handelen kan worden verweten (rov. 4.11).
+
+
+2.30
+In rov. 4.13 tot en met 4.16 is het hof gelet op het voorgaande dus eigenlijk ten overvloede ingegaan op het door [eiser] aangenomen causaal verband tussen de gestelde klachten (de blijvende levenslange schade) van [eiser] en de (vermeende) schending van de waarschuwingsplicht van GSK. Ervan uitgaande dat GSK haar waarschuwingsplicht zou hebben geschonden is volgens het hof de vraag wat hiervan het gevolg zou zijn geweest voor (i) het off-label voorschrijven van Seroxat door artsen en (ii) het gebruik van Seroxat door [eiser] en de door hem ondervonden klachten (rov. 4.13 tweede alinea).
+
+
+2.31
+
+Met betrekking tot kwestie (i) heeft het hof overwogen dat het in het dossier geen enkel aanknopingspunt heeft gevonden voor de stelling van [eiser] dat de Nederlandse artsen (onder wie zijn huisarts) Seroxat niet off-label zouden hebben voorgeschreven als zij van de uitkomsten van “Study 329” (en “Study 377” en “Study 701”) op de hoogte zouden zijn geweest:
+ “4.14	Ad 1) [eiser] stelt (inleidende dagvaarding onder 73) dat hij Seroxat niet zou hebben voorgeschreven gekregen als de arts (en hijzelf) op de hoogte was geweest van de bijwerkingen en dat de dosering dan ook niet verhoogd zou zijn geweest. “Hij zou dan door het gebruik van Seroxat geen blijvend lichamelijk of geestelijk letsel hebben opgelopen” aldus [eiser] . Uit het niet (gemotiveerd) bestreden rapport van Nolen leidt het hof het navolgende af. Het was in 2001 niet ongebruikelijk dat psychiaters SSRI’s waaronder paroxetine voorschreven aan kinderen/jongeren met een depressie. In Nederland bestond er in 2001 nog geen richtlijn depressie voor kinderen en jeugdigen (die is er pas in 2009 gekomen). Behandelaren (onder wie huisartsen en psychiaters) baseerden zich vooral op de aanbevelingen voor volwassenen (onder meer de NHG-standaard depressie van 1994) waarin geen concrete aanbevelingen voor SSRI’s werden gegeven. Het gebruik van antidepressiva door kinderen werd in ieder geval niet afgeraden. Het hof vindt in het dossier geen enkel aanknopingspunt voor de stelling van [eiser] dat de Nederlandse artsen (onder wie zijn huisarts) Seroxat niet (“off label”) zouden hebben voorgeschreven als zij van de uitkomsten van “Study 329” (en “Study 377”en “Study 701”) op de hoogte zouden zijn geweest mede gelet op de afwezigheid van richtlijnen voor kinderen/jongeren met een depressie en de reeds in de productinformatie opgenomen waarschuwing. Het hof gaat dan ook voorbij aan deze niet onderbouwde stelling van [eiser] .”
+
+
+
+2.32
+
+Met betrekking tot kwestie (ii) heeft het hof overwogen dat het niet mogelijk is om met een redelijke mate van zekerheid vast te stellen dat de door [eiser] met Seroxat in verband gebrachte schade niet zou zijn opgetreden als hij het middel niet had gebruikt:
+ “4.15	Ad 2) Gezien de gepresenteerde feiten in het huisartsenjournaal heeft [eiser] gedurende ongeveer vijf maanden Seroxat gebruikt. Na vier maanden is sprake geweest van een suïcidepoging (toen hij met een mes in zijn hand van huis wegliep). [eiser] heeft niet (gemotiveerd) betwist dat een zelfmoordpoging ook voorkomt bij depressie/depressieve klachten dat de bijwerkingen van Seroxat lijken op de symptomen die samenhangen met de ziekte zelf en dat het daarom ook moeilijk is te bepalen waarvandaan die symptomen komen: van Seroxat of van de ziekte. [eiser] voert weliswaar aan dat er toen geen sprake was van een depressie maar van rouwverwerking en/of stressklachten maar dat laat onverlet dat hij Seroxat kreeg voorgeschreven op basis van de eerste diagnose (reactieve) depressie die in het huisartsenjournaal staat vermeld. Het is dan ook niet mogelijk om met redelijke zekerheid vast te stellen dat de symptomen de door [eiser] met Seroxat in verband gebrachte schade niet zouden zijn opgetreden als hij het middel niet had gebruikt (het condicio sine qua non verband). (…).”
+
+
+
+2.33
+
+Hierbij heeft het hof betrokken dat [eiser] na vijf maanden Seroxat is overgegaan op andere medicatie waarin de werkzame stof paroxetine ook voorkomt:
+ “4.15 (…) Na vijf maanden Seroxat is [eiser] overgegaan op andere medicatie; niet (gemotiveerd) is betwist dat de werkzame stof paroxetine ook voorkomt in de nadien door hem gebruikte SSRI Paroxetin Dumex. [eiser] is er echter van overtuigd dat de door hem ondervonden bijwerkingen/klachten enkel samenhangen met het gebruik van Seroxat in 2001 en dat het gebruik van Seroxat destijds er tevens toe heeft geleid dat hij nu blijvende gezondheidsklachten heeft. [eiser] heeft niet uitgelegd of toegelicht dat en waarom de werkzame stof paroxetine in Seroxat een andere werking zou hebben dan de paroxetine in de nadien door hem gebruikte medicatie. Beide geneesmiddelen bevatten immers dezelfde werkzame stof en zullen dan ook zo moet het hof aannemen nu het tegendeel niet is gesteld of gebleken dezelfde bijwerkingen en risico’s (voor jongeren) hebben. In december 2003 is door het CBG een (eerste) generieke waarschuwing gegeven voor het gebruik van paroxetine door minderjarigen en niet speciaal voor het gebruik van Seroxat. (…).”
+
+
+
+2.34
+
+De stelling van [eiser] dat het causaal verband tussen het gebruik van Seroxat en zijn klachten is gegeven omdat toen hij in 2012 “wederom aan de paroxetine werd gezet” zijn klachten een stuk heviger werden en hij acuut suïcidaal werd is door het hof verworpen:
+ “4.15 (…) [eiser] stelt verder dat in 2012 toen hij “wederom aan de paroxetine werd gezet” zijn klachten een stuk heviger werden waaronder acute suïcidaliteit. Daarmee is volgens [eiser] het causaal verband met zijn (eerdere en levenslange) klachten gegeven. Met dit betoog verliest [eiser] uit het oog dat hij naast en na het gebruik van Seroxat in de periode vanaf november 2001 tot aan juli 2002 (in ieder geval) andere SSRI’s heeft gebruikt met dezelfde werkzame stof paroxetine. [eiser] heeft geen inzicht gegeven in de medicatie die hij vanaf 2003 tot heden heeft voorgeschreven gekregen. Niet onaannemelijk is zoals GSK in navolging van prof. Nolen schrijft dat ook een onderliggende ziekte de door [eiser] ervaren klachten kan veroorzaken dan wel dat deze het gevolg zijn van de doorgemaakte life events (seksueel misbruik op jeugdige leeftijd en de hartstilstand van zijn vader waarbij hij aanwezig was). [eiser] heeft geen enkele informatie verschaft over de behandelingen/diagnoses van zijn klachten in de periode vanaf 2003 tot heden. Hij meldt (enkel) dat hij meerdere suïcidepogingen heeft gedaan en dat hij zes zware depressies achter de rug heeft. De onderbouwing van zijn stelling dat al deze narigheid het gevolg is van het gebruik van (vijf maanden) Seroxat is ten enenmale onvoldoende. (…).”
+
+
+
+2.35
+
+Het hof is ook voorbijgegaan aan de stelling van [eiser] dat zelfs eenmalig gebruik van Seroxat kan leiden tot het ziektebeeld “tardive dysphoria” (therapieresistentie en chronische depressie):
+ “4.15 (….) Zijn stelling dat zelfs eenmalig gebruik van Seroxat kan leiden tot het ziektebeeld “tardive dysphoria” (therapieresistentie en chronische depressie) heeft [eiser] onderbouwd met een verwijzing naar een artikel van El-Mallakh e.a. in het tijdschrift Medical Hypothesis in 2011. Deze stelling is weersproken door GSK met verwijzing naar het rapport van prof. Nolen die onbestreden heeft opgemerkt dat het artikel van El-Mallakh geen onderzoeksverslag is maar een (interessante) hypothese; El Mallakh is ook de enige die hierover (met verschillende co-auteurs) heeft gepubliceerd aldus Nolen. Het hof passeert en verwerpt dan ook de niet verder onderbouwde stelling van [eiser] dat hij door gebruik van Seroxat chronisch depressief is geworden en dat hij de door hem gestelde klachten heeft gekregen omdat hij in 2001 een antidepressivum heeft voorgeschreven gekregen terwijl hij niet depressief was.”
+
+
+
+2.36
+Het hof is tot het oordeel gekomen dat het causaal verband tussen de blijvende levenslange schade van [eiser] en de door hem gestelde schending van de waarschuwingsplicht door GSK (randnummer 2.31 hiervoor) dan wel het gebruik van Seroxat (randnummer 2.32 hiervoor) niet is komen vast te staan. Dat betekent aldus het hof dat de vordering van [eiser] ook daarop strandt (rov. 4.16).
+
+
+2.37
+
+Het hof heeft als gezegd (randnummer 2.11 hiervoor) het bestreden vonnis vernietigd en de vorderingen van [eiser] alsnog afgewezen (dictum).
+
+Cassatieberoep
+
+
+
+
+2.38
+
+        [eiser] heeft bij procesinleiding van 15 september 2021 derhalve tijdig cassatieberoep ingesteld tegen het bestreden arrest. GSK heeft een verweerschrift ingediend. Vervolgens hebben beide partijen hun standpunten schriftelijk toegelicht waarna [eiser] nog op de schriftelijke toelichting van GSK heeft gereageerd met een repliek.
+
+
+
+
+3Bespreking van het cassatiemiddel
+
+3.1
+In cassatie gaat het om het oordeel van het hof dat GSK haar waarschuwingsplicht niet heeft geschonden en dus niet onrechtmatig in de zin van art. 6:162 BW heeft gehandeld tegenover [eiser] en om het zo bekeken ten overvloede gegeven oordeel van het hof dat niet is komen vast te staan dat er een causaal verband is tussen de schade van [eiser] en de (vermeende) onrechtmatige daad van GSK. In cassatie stelt [eiser] dus beide gronden die ieder de afwijzende beslissing van het hof kunnen dragen aan de kaak. 
+
+
+3.2
+
+Daarbij zien de onderdelen 1 en 2 op het oordeel van het hof dat GSK geen waarschuwingsplicht heeft geschonden en niet onrechtmatig heeft gehandeld jegens [eiser] . De onderdelen 3 en 4 zijn gericht tegen het oordeel van het hof dat als GSK wél haar waarschuwingsplicht had geschonden het causaal verband tussen die schending en de schade van [eiser] niet is komen vast te staan.
+
+Onderdeel 1 – productaansprakelijkheid ex art. 6:162 BW en causaal verband
+
+
+
+
+3.3
+Onderdeel 1 bestaat uit twee subonderdelen.
+
+
+3.4
+
+
+Subonderdeel 1.1 klaagt dat het hof heeft miskend dat [eiser] aan zijn vordering ex art. 6:162 BW ook ten grondslag heeft gelegd dat GSK ten onrechte Seroxat in het verkeer heeft gebracht voor gebruik door de doelgroep waartoe [eiser] behoorde. In dit verband verwijst [eiser] naar de inleidende dagvaarding waar hij heeft gesteld dat: 
+- het in het verkeer brengen van een product dat bij normaal gebruik voor het doel waarvoor het bestemd is schade veroorzaakt onrechtmatig is jegens de gebruikers van het product;
+- Seroxat als gebrekkig product dient te worden beschouwd omdat het niet de veiligheid biedt die het publiek daaronder begrepen [eiser]  redelijkerwijs mocht verwachten;
+- de omstandigheid dat GSK het geneesmiddel in het verkeer heeft gebracht op zichzelf al een onrechtmatige daad oplevert jegens [eiser]  doch dat GSK bovendien ook de jonge gebruikers onvoldoende heeft gewaarschuwd voor de ernstige bijwerkingen zoals deze niettemin wel bij GSK bekend waren; en
+- GSK heeft verzuimd het gebrekkige medicijn terug te roepen dan wel inspanningen te verrichten om het gebruik onder kinderen en adolescenten te laten beëindigen hetgeen een zelfstandige onrechtmatige daad van GSK jegens [eiser] oplevert.
+Volgens [eiser] heeft het hof de devolutieve werking van het appel miskend door deze grondslagen van de vorderingen in hoger beroep volledig onbesproken te laten. Het oordeel van het hof dat GSK niet aansprakelijk is voor de schade van [eiser] is onbegrijpelijk. Het hof zou niet hebben gemotiveerd waarom GSK met het in het verkeer brengen van Seroxat terwijl dat middel niet de veiligheid biedt die het publiek redelijkerwijs mocht verwachten en door het geneesmiddel niet terug te roepen dan wel inspanningen te verrichten om het gebruik onder kinderen en adolescenten te laten beëindigen niet onrechtmatig jegens [eiser] zou hebben gehandeld.
+
+
+
+3.5
+Deze klacht faalt. In de memorie van antwoord van [eiser] gaat het vooral in reactie op de grieven van GSK (samengevat in rov. 4.1 van het bestreden arrest (randnummer 2.12 hiervoor)) over hetgeen GSK wist over de risico’s van Seroxat bij gebruik door jongeren. Het hof mocht dan ook in navolging van de rechtbank (zie rov. 2.7. tot en met 2.9. van het vonnis) de subsidiaire vordering van [eiser] zo opvatten dat [eiser] hieraan ten grondslag heeft gelegd: het niet-waarschuwen door GSK waar dat wel geboden was. Ik wijs er in dit verband op dat [eiser] in hoger beroep geen bezwaar heeft gemaakt tegen de lezing die de rechtbank heeft gegeven aan de grondslag van zijn subsidiaire vordering. Met zijn voorwaardelijk incidenteel hoger beroep heeft [eiser] enkel gegriefd tegen de overweging van de rechtbank in rov. 2.7. van het vonnis dat [eiser] al langer dan vijf jaar bekend was met zijn schade en hij kon weten dat GSK de producent was van het middel waarvan hij bijwerkingen had (randnummer 2.10 hiervoor).
+
+
+3.6
+Daar komt bij dat uit rov. 4.4 blijkt dat volgens het hof sprake was van off-label gebruik (ook bij [eiser] (rov. 4.5)): uit de productinformatie uit 1991 en 1991 zou genoegzaam volgen dat Seroxat niet bedoeld was voor gebruik door kinderen/jeugdigen. Hierin ligt besloten dat het hof de stellingen van [eiser] op dit punt (die er juist van uitgaan dat GSK ten onrechte Seroxat in het verkeer heeft gebracht voor gebruik door de doelgroep waartoe [eiser] behoorde) heeft verworpen. Ook om deze reden faalt de klacht.
+
+
+3.7
+
+Subonderdeel 1.2 klaagt over de overweging van het hof in rov. 4.10 dat de omstandigheid dat de huisarts van [eiser] hem off-label Seroxat heeft voorgeschreven niet kan worden tegengeworpen aan GSK nu dit voorschrijven een eigen verantwoordelijkheid is van de voorschrijvend arts. Volgens [eiser] is deze overweging onbegrijpelijk in het licht van de vaststelling van het hof dat het in 2001 niet ongebruikelijk was dat kinder- en jeugdpsychiaters SSRI’s waaronder paroxetine voorschreven aan kinderen en jeugdigen met een depressie. Het hof zou hebben verzuimd te motiveren waarom in dat geval niet GSK maar de voorschrijvend arts aansprakelijk zou zijn. Het hof is daarbij uitgegaan van een onjuiste rechtsopvatting nu de opvatting dat in geval van een gebrekkig product slechts de voortschrijvend arts aansprakelijk is geen steun vindt in het recht.
+
+
+3.8
+Het subonderdeel mist feitelijke grondslag waar het ervan uitgaat dat het hof heeft overwogen dat bij het off-label voorschrijven van een medicijn de voorschrijvend arts aansprakelijk is (voor eventuele gezondheidsschade). Dat heeft het hof niet overwogen. Het hof heeft het in de bestreden overweging niet over aansprakelijkheid maar over de “eigen verantwoordelijkheid (…) van de voorschrijvend arts”. Ik wijs ook nog op rov. 4.5 waarin het hof heeft overwogen dat drs. A.P. Meiners (senior medisch adviseur farmacovigilantie) onbestreden in het deskundigenrapport van 30 januari 2019 schrijft dat bij off-label-gebruik de arts verantwoordelijk is voor het buiten de goedgekeurde registratievoorwaarden voorschrijven van een geneesmiddel.
+
+
+3.9
+Van een ontoereikende motivering door het hof is geen sprake. De bestreden overweging vormt het sluitstuk van de redenering van het hof met betrekking tot de stelling van [eiser] dat GSK het off-label voorschrijven van Seroxat heeft gepromoot. Het hof heeft deze stelling verworpen. Dat (een onderneming van) GSK in de Verenigde Staten (in 2001) promotionele activiteiten heeft verricht voor het off-label voorschrijven van Seroxat aan minderjarigen kan volgens het hof in deze procedure niet worden tegengeworpen aan de Nederlandse dochteronderneming GSK die in deze procedure partij is. Gesteld noch gebleken is dat deze promotionele activiteiten in de Verenigde Staten invloed hebben gehad op het off-label voorschrijven in Nederland meer in het bijzonder het off-label gebruik van de huisarts van [eiser] bij het voorschrijven van Seroxat aan [eiser] . Niet onbegrijpelijk is dat het hof specifiek in dit kader heeft meegewogen dat GSK niet kan worden tegengeworpen dat de huisarts van [eiser] hem off-label Seroxat heeft voorgeschreven.
+
+
+3.10
+
+De bestreden overweging is ook niet onbegrijpelijk in het licht van de vaststelling van het hof dat het in 2001 niet ongebruikelijk was dat kinder- en jeugdpsychiaters SSRI’s waaronder paroxetine voorschreven aan kinderen en jeugdigen met een depressie. Ik zie althans niet in waarom deze vaststelling zou botsen met de bestreden overweging. Het subonderdeel maakt dat niet duidelijk en de schriftelijke toelichting evenmin.
+
+Onderdeel 2 – onrechtmatige daad
+
+
+
+
+3.11
+Onderdeel 2 kent een inleiding en drie subonderdelen. Blijkens de inleiding is het onderdeel gericht tegen verschillende overwegingen van het hof in rov. 4.7 tot en met 4.10 en tegen de slotsom in rov. 4.11 dat het hoger beroep van GSK slaagt.
+
+
+3.12
+
+Het door het onderdeel bestreden oordeel van het hof komt erop neer dat GSK niet heeft nagelaten te waarschuwen waar dat wel geboden was en dus geen onrechtmatige daad heeft begaan (rov. 4.7). Het hof is er veronderstellenderwijs van uitgegaan dat GSK al vóór de publicatie in JAACAP in 2001 bekend was met de uitkomsten van “het onderzoek” (bedoeld is: “Study 329” en met de uitkomsten is dan bedoeld: de uitkomsten zoals die blijken uit de publicatie in JAACAP). Het hof heeft geoordeeld dat er ook daarvan uitgaande geen reden was voor GSK om de artsen en/of het publiek nader – dat wil zeggen bovenop of naast de reeds in de productinformatie van 1991 en 1999 (randnummers 1.8 en 1.9 hiervoor) opgenomen waarschuwingen – te waarschuwen voor het gebruik van Seroxat door kinderen/jongeren vanwege de toename van de kans op suïcidaliteit en de geringe werking van Seroxat (rov. 4.7). Aan dit oordeel heeft het hof ten grondslag gelegd dat: 
+- niet gebleken is dat “Study 329” niet door onafhankelijke onderzoekers is uitgevoerd (rov. 4.8 eerste alinea); 
+- de enkele constatering dat bij vijf deelnemers aan het onderzoek sprake is geweest van suïcidale gedachten/gedrag onvoldoende is voor het aannemen van een waarschuwingsplicht van GSK waarbij van belang is dat suïcidale gedachten/gedrag ook het gevolg kunnen zijn van de onderliggende ziekte (depressie) zelf en dat in de productinformatie een speciale waarschuwing werd gegeven voor suïcidaal gedrag (bij volwassen) (rov. 4.8 tweede alinea); 
+- de uitkomsten van de andere studies (“Study 377” en “Study 701” randnummers 1.17 en 1.18 hiervoor) betrekking hadden op de (niet-)werkzaamheid van Seroxat bij kinderen en adolescenten en niet op een verhoogd suïciderisico (rov. 4.8 tweede alinea) en dat 
+- pas na de meta-analyse in 2002 bleek van een verhoogd suïciderisico bij minderjarigen (rov. 4.8 tweede alinea). 
+	Hier komt bij volgens het hof dat in de productinformatie in 1999 gebruik van Seroxat door kinderen werd afgeraden omdat de veiligheid en de werkzaamheid voor gebruik door kinderen/adolescenten niet vastgesteld was. Volgens het hof kan onder ‘veiligheid’ ook het verhoogde suïcidegevaar begrepen worden en onder ‘werkzaamheid’ ook de niet-werkzaamheid. Seroxat was alleen voorgeschreven voor gebruik door volwassenen en er werd al in 1999 gewaarschuwd voor het risico op suïcidaliteit (bij volwassenen) alhoewel niet bekend of niet zeker was of het (verhoogde) suïciderisico een gevolg was van Seroxat of een gevolg van de ziekte (depressie) zelf. Een ‘extra’ generieke waarschuwing zoals [eiser] die voorstaat was ook daarom niet geboden volgens het hof (rov. 4.9). Het hof is tot de conclusie gekomen dat GSK niet gehouden was om in verband met de uitkomsten van “Study 329” en de andere afgeronde studies in 2001 (in de periode juni-november 2001 toen [eiser] Seroxat gebruikte) of eerder een ‘extra’ generieke waarschuwing af te geven voor de mogelijke risico’s van het gebruik door minderjarigen dan wel dat Seroxat geen effectieve werking had (rov. 4.10).
+
+
+
+3.13
+Kort samengevat betekent dit dat volgens het hof GSK in 2001 toen [eiser] Seroxat kreeg voorgeschreven niet hoefde uit te gaan van een verhoogd suïciderisico en dat de waarschuwingen in de productinformatie van 1991 en 1999 (randnummers 1.8 en 1.9 hiervoor) volstonden.
+
+
+3.14
+Aan het slot van de inleiding bij het onderdeel wordt aangevoerd dat het hof in rov. 4.8 4.9 en 4.10 niet of nauwelijks aandacht heeft besteed aan de wetenschap van GSK omtrent de (niet-)werkzaamheid van Seroxat bij gebruik door minderjarigen. Voor zover hierin een zelfstandige klacht besloten ligt faalt deze. Dat in de overwegingen van het hof de nadruk ligt op het in 2002 gebleken verhoogd suïciderisico bij minderjarigen (randnummers 2.23 en 2.24 hiervoor) is begrijpelijk nu vooral dit risico als bijwerking pleit voor een eventuele nadere waarschuwingsplicht van GSK. Daar komt bij dat het hof in verband met de vraag of vanwege deze bijwerking een nadere waarschuwingsplicht aan orde was wel degelijk ook aandacht heeft besteed aan kort gezegd de wetenschap van GSK omtrent de (niet)werkzaamheid van Seroxat. Ik verwijs in dit verband naar de voorlaatste zin van rov. 4.7 (“en de geringe werking van Seroxat”) de tweede alinea van rov. 4.8 (“(naast de niet duidelijk effectieve werking voor minderjarigen)”) de eerste zin van rov. 4.9 (“waaronder ook de niet-werkzaamheid begrepen kan worden volgens het hof”) en rov. 4.10 (“dan wel dat Seroxat geen effectieve werking had”).
+
+
+3.15
+
+
+Subonderdeel 2.1 houdt vervolgens de klacht in dat drie oordelen van het hof in rov. 4.7 4.8 en 4.9 laatste volzin onbegrijpelijk zijn. Samengevat komen deze drie oordelen van het hof erop neer dat GSK ervan uitgaande dat GSK al vóór de JAACAP-publicatie in 2001 bekend was met de uitkomsten van het onderzoek (ook dan) niet gehouden was om nader te waarschuwen voor het gebruik van Seroxat door kinderen/jongeren vanwege de toename van de kans op suïcidaliteit en de geringe werking van Seroxat. Volgens [eiser] zijn deze oordelen onbegrijpelijk omdat:
+a. hij heeft aangevoerd dat uit een memo van oktober 1998 naar aanleiding van “Study 329” blijkt dat GSK om commerciële redenen besloten heeft om (tijdens een Europees congres) niet te verklaren dat de werkzaamheid niet is aangetoond omdat dit het profiel van paratoxine (de werkzame stof van Seroxat randnummer 1.7 hiervoor) zou ondermijnen; en
+b. hij aan de hand van interne e-mails van 3 november 2000 en 5 maart 2001 van GSK die betrekking hebben op “Study 329” de stelling heeft ingenomen dat het GSK bekend was dat Seroxat geen effectieve werking had bij adolescenten en dat GSK dit niet wilde publiceren/niet met de buitenwereld wilde delen.
+Volgens [eiser] heeft het hof deze stellingen onbesproken gelaten en geldt daarom in cassatie als hypothetisch feitelijke grondslag dat deze stellingen inhoudelijk juist zijn. Daarom zou het oordeel van het hof dat in het midden kan worden gelaten of GSK al voor de JAACAP-publicatie in 2001 bekend was met de uitkomsten van “Study 329” onbegrijpelijk zijn.
+
+
+
+3.16
+Het subonderdeel faalt. Het hof heeft de door subonderdeel aangehaalde stellingen van [eiser] onbesproken mogen laten omdat deze te weinig concreet zijn en daardoor niet als essentieel kunnen worden aangemerkt. In cassatie hoeft er dan ook niet van te worden uitgegaan dat deze stellingen inhoudelijk juist zijn. In de memorie van antwoord wordt bijvoorbeeld niet duidelijk gemaakt in welke context het memo van oktober 1998 geplaatst moet worden. In de memorie van antwoord wordt de volgende naar het Nederlands vertaalde zin in het memo geciteerd “Het is commercieel gezien niet acceptabel om dan ook te verklaren dat de werkzaamheid niet is aangetoond want dat zou het profiel van paroxetine ondermijnen” maar niet de daaraan voorafgaande tekst terwijl de betreffende zin ook niet goed naar het Nederlands is vertaald. De zin die [eiser] geciteerd heeft maakt deel uit van de volgende tekst in het memo: 
+“PROPOSALS
+ Based on the current data from Studies 377 and 329 and following consultation with SB country regulatory and marketing groups no regulatory submissions will be made to obtain either efficacy or safety statements relating to adolescent depression at this time. However data (especially safety date) from the studies may be included in any future regulatory submissions provided that we are able to go on and generate robust approvable efficacy data. The rationale for not attempting to obtain a safety statement at this time is as follows;
+ i) regulatory agencies would not approve a statement indicating that there are no safety issues in adolescents as this could be seen as promoting off-label use
+
+
+ii) it would be commercially unacceptable to include a statement that efficacy has not been demonstrated as this would undermined the profile of paroxetine. 
+
+
+
+(…).”
+Heb ik het goed dan stelt de opsteller van het memo hiermee in de eerste plaats voor om geen “regulatory submissions” in te dienen bij de bevoegde autoriteiten voor gebruik van Seroxat/paroxetine door adolescenten omdat de werkzaamheid daarvan niet is aangetoond door de onderzoeken die in het memo genoemd worden (“Studies 377 and 329”). Zie ook p. 1 van het memo (onder “Executive summary”: “Data from these 2 studies are insufficiently robust to support a label change and will therefore not be submitted to the regulatory authorities.” Een “label change” zit er dus vooralsnog niet in. In de tweede plaats stelt de opsteller voor om “at this time” ook geen safety statement (als in: Seroxat is veilig voor gebruik door adolescenten) aan te vragen omdat de bevoegde autoriteiten daarin de promotie van off-label gebruik zouden kunnen zien en omdat dan ook medegedeeld moet worden dat de werkzaamheid van paroxetine (naar ik begrijp: bij adolescenten) niet is aangetoond hetgeen vanuit een commercieel oogpunt onwenselijk is. Zo gelezen is het memo minder negatief dan in de memorie van antwoord naar voren wordt gebracht: de opsteller van het memo stelt niet zozeer voor om relevante informatie onder het tapijt te vegen maar om te wachten met het doen van bepaalde aanvragen bij de bevoegde autoriteiten juist gelet op hetgeen uit “Studies 377 and 329” is gebleken.
+
+
+
+3.17
+Met betrekking tot de “interne e-mails” van GSK waarop [eiser] een beroep heeft gedaan merk ik op dat in productie 3 bij de memorie van antwoord foto’s van een beeldscherm zijn opgenomen. Op die foto’s zijn in grote letters bepaalde zinnen zichtbaar kennelijk afkomstig uit e-mails. Op die foto’s is niet te zien wie de betreffende zinnen heeft gestuurd en aan wie; wanneer die zinnen zijn verstuurd of de tekst van de kennelijke e-mails volledig is weergegeven in welk verband de tekst is verstuurd enzovoorts. Van een deugdelijk bewijsmiddel is mijns inziens geen sprake. Het is dan ook niet onbegrijpelijk dat het hof aan deze foto’s voorbij is gegaan.
+
+
+3.18
+
+Subonderdeel 2.2 refereert aan de al door subonderdeel 2.1 onder a. en b. genoemde stellingen van [eiser] (randnummer 3.15 hiervoor) en voert opnieuw aan dat als hypothetisch feitelijke grondslag geldt dat deze stellingen juist zijn.
+
+
+3.19
+
+        [eiser] klaagt vervolgens dat het hof is uitgegaan van een onjuiste rechtsopvatting indien en voor zover het hof deze stellingen heeft betrokken bij zijn oordeel in rov. 4.7 4.8 4.9 en 4.10 dat GSK haar waarschuwingsplicht zoals geformuleerd in rov. 4.7 niet heeft geschonden. De waarschuwingsplicht van een farmaceutisch bedrijf dat geneesmiddelen op de markt brengt houdt immers in dat dat bedrijf de hem bekende niet-werkzaamheid althans het niet-aantoonbaar gebleken zijn van werkzaamheid al dan niet voor bepaalde doelgroepen expliciet in de bijsluiter/productinformatie opneemt zeker in het geval van ernstige bekende bijwerkingen zoals suïcidaliteit.
+
+
+3.20
+Deze klacht mist feitelijke grondslag waar deze ervan uitgaat dat het hof de genoemde stellingen van [eiser] bij zijn oordeel heeft betrokken. Dat heeft het hof niet gedaan (randnummer 3.16 hiervoor). In cassatie geldt ook niet als hypothetisch feitelijke grondslag dat de genoemde stellingen van [eiser] inhoudelijk juist zijn (randnummer 3.16 hiervoor).
+
+
+3.21
+Ook voor het overige mist de klacht feitelijke grondslag. Het hof is er veronderstellenderwijs van uitgegaan dat GSK al vóór de JAACAP-publicatie in 2001 bekend was met de uitkomsten van het onderzoek (randnummer 3.12 hiervoor) en heeft geoordeeld dat GSK ook dan niet nader hoefde te waarschuwen voor het gebruik van Seroxat door kinderen/jongeren vanwege de kans op suïcidaliteit en de geringe werking van Seroxat. Het hof is er niet van uitgegaan dat GSK bekend was met de niet-werkzaamheid van Seroxat (bij gebruik door kinderen/jongeren). Uit geen van de overwegingen van het hof onder het kopje ‘De waarschuwingsplicht van GSK’ (rov. 4.7 tot en met 4.11) kan dit worden afgeleid. De klacht brengt ook niet naar voren uit welke overwegingen van het hof dit dan wel kan worden afgeleid. In plaats daarvan doet de klacht vergeefs (randnummers 3.16 en 3.20 hiervoor) een beroep op de stellingen van [eiser] met betrekking tot het memo van oktober 1998 en de interne e-mails van 3 november 2000 en 5 maart 2001 (randnummer 3.15 hiervoor). 
+
+
+3.22
+Het subonderdeel houdt verder de klacht in dat indien het hof heeft geoordeeld dat GSK ondanks haar kennis van de niet-werkzaamheid mocht volstaan met het afraden van het gebruik van Seroxat bij kinderen en adolescenten met de woorden “aangezien de veiligheid en werkzaamheid van dit middel bij die patiëntengroep niet is vastgesteld” het hof is uitgegaan van een onjuiste rechtsopvatting omtrent de waarschuwings- en zorgplicht van GSK. In het bijzonder heeft het hof dan door in rov. 4.9 (het niet kunnen vaststellen van) de werkzaamheid gelijk te schakelen met de niet-werkzaamheid het rechtens relevante verschil miskend tussen het geval dat de werkzaamheid van een medicijn (voor een bepaalde doelgroep) (nog) niet is vastgesteld en het geval dat in een (eerste) onderzoek de niet-werkzaamheid is vastgesteld. Volgens [eiser] doet zich het tweede geval voor: GSK zou hebben geweten dat Seroxat niet werkte bij kinderen/adolescenten. Daarom mocht zo begrijp ik het subonderdeel GSK niet volstaan met de waarschuwing als weergegeven in rov. 2.5 (randnummer 1.9 hiervoor) waaraan het hof refereert in rov. 4.9.
+
+
+3.23
+Ook deze klacht mist feitelijke grondslag. Het hof is er niet van uitgegaan dat GSK bekend was met de niet-werkzaamheid van Seroxat (bij gebruik door kinderen/jongeren) (randnummer 3.21 hiervoor).
+
+
+3.24
+Aan het slot van het subonderdeel voert [eiser] aan dat de overwegingen van het hof in rov. 4.7 4.8 4.9 en 4.10 die volgens hem samengevat erop neerkomen dat GSK haar waarschuwingsplicht niet heeft geschonden onbegrijpelijk zijn in het licht van een aantal door hem genoemde (deels op grond van de hypothetisch feitelijke grondslag als vaststaand aan te nemen) omstandigheden waaronder de inhoud van het memo van oktober 1998 (randnummer 3.15 hiervoor) en de inhoud van de al genoemde interne e-mails van GSK van 3 november 2000 en 5 maart 2001 (randnummer 3.15 hiervoor). 
+
+
+3.25
+Volgens [eiser] valt niet in te zien waarom GSK niet op basis van de (eerste) onderzoeken bij adolescenten (“Study 329” en “Study 377”) die geen werkzaamheid aantoonden behoefde te waarschuwen terwijl zij wist van het algemene risico op suïcidaal gedrag en het off-label gebruik bekend was. Er bestaat volgens [eiser] een levensgroot verschil tussen enerzijds “We weten niet of het werkt” en “We weten dat het niet werkt” zeker als bekend is dat er risico’s aan het medicijn verbonden zijn.
+
+
+3.26
+
+Ook deze klacht neemt als uitgangspunt dat volgens het hof GSK in 2001 toen [eiser] Seroxat kreeg voorgeschreven bekend was met de niet-werkzaamheid van Seroxat bij gebruik door kinderen/jongeren. Ook deze klacht mist derhalve feitelijke grondslag (randnummers 3.21 en 3.23 hiervoor).
+
+Subonderdeel 2.3
+
+
+
+
+3.27
+
+Dit subonderdeel bouwt voort op de klachten die in subonderdelen 2.1 en 2.2 naar voren zijn gebracht en die niet tot cassatie leiden. Deze voortbouwklacht faalt dus ook.
+
+Tussenconclusie
+
+
+
+
+3.28
+
+Het voorgaande betekent dat onderdelen 1 en 2 falen. Het oordeel van het hof dat GSK geen waarschuwingsplicht heeft geschonden en niet onrechtmatig heeft gehandeld jegens [eiser]  blijft overeind staan. Hoewel dit oordeel van het hof diens afwijzing van de vordering van [eiser] zelfstandig kan dragen zal ik hierna voor het geval Uw Raad anders denkt over de merites van onderdelen 1 en/of 2 nog ingaan op onderdelen 3 en 4. 
+
+Onderdeel 3 – ontoelaatbare verrassingsbeslissing
+
+
+
+
+3.29
+Volgens [eiser] is sprake van een ontoelaatbare verrassingsbeslissing omdat uit het proces-verbaal van comparitie van partijen in hoger beroep onmiskenbaar zou blijken dat partijen er steeds van uitgingen dat het hof tot benoeming van een deskundige zou overgaan voor het vaststellen van het condicio sine qua non-verband. Volgens het onderdeel verlangde de goede procesorde dat het hof in plaats van meteen eindarrest te wijzen bekend zou maken waarom het ervan afzag een deskundige te benoemen en dat het hof partijen de gelegenheid zou bieden zich daarover uit te laten.
+
+
+3.30
+De klacht faalt. Van een (ontoelaatbare) verrassingsbeslissing is geen sprake. Uit het proces-verbaal blijkt niet dat [eiser] erop mocht vertrouwen dat het hof zich niet zelf zou uitspreken over het (niet vaststaan van het) causaal verband en/of dat het vaststellen hiervan aan een (nog door het hof te benoemen) deskundige zou worden overgelaten. Uit het proces-verbaal blijkt (enkel) dat de voorzitter van het hof (de advocaat van) [eiser] duidelijk heeft willen maken dat er bij het hof twijfels bestonden op het punt van het causaal verband dat anders dan de advocaat van [eiser] bepleit heeft de vraag naar het condicio sine qua non-verband niet kan worden doorgeschoven naar de schadestaatprocedure en dat misschien nog een deskundige nodig zou kunnen zijn. Rekening houdend met die mogelijkheid heeft het hof aan [eiser] en GSK de vraag voorgelegd welke soort deskundige dan wat hen betreft zou moeten worden benoemd (een psychiater of een farmacoloog?) zodat in dat opzicht een verrassingsbeslissing zou worden voorkomen. [eiser] moest er dus rekening mee houden dat het hof zich in het eindarrest zelf zou uitspreken over het (niet vaststaan van het) causaal verband.
+
+
+3.31
+Uit de woorden “Ik ga nu geen concrete vragen stellen. Het zou fijn zijn als een deskundige hier iets over kan zeggen.” te vinden op p. 17 van het proces-verbaal uitgesproken door de voorzitter van het hof valt mijns inziens geen toezegging van het hof te lezen dat in elk geval een deskundige zal worden benoemd. [eiser] heeft ook niet uit deze woorden mogen afleiden dat een deskundige zou worden benoemd. Deze wat ongelukkig gekozen woorden zijn door de voorzitter van het hof gebezigd in het kader van de vraag welke soort deskundige zou moeten worden benoemd – een psychiater of een farmacoloog – als daaraan zou worden toegekomen. Dit laatste was voor het hof geen vanzelfsprekendheid. Aan de betreffende woorden gaan dan ook vooraf “Een deskundige die er iets van kan vinden kan nog nodig zijn (…)” en “Misschien moet er nog iemand komen die verstand heeft van de gevolgen van zo’n medicijn voor de geest (…)” (p. 16 van het proces-verbaal) (onderstrepingen zijn van mij A-G). En nadien heeft de voorzitter van het hof nog opgemerkt dat er veel mogelijkheden zijn om de zaak juridisch op te lossen.
+
+
+3.32
+
+Ik wijs er in dit verband ook nog op dat de advocaat van GSK het hof tijdens de comparitie van partijen duidelijk heeft willen maken dat het benoemen van een deskundige welke dan ook (psychiater of farmacoloog) geen zin zou hebben omdat noch uitgesloten noch bevestigd kan worden dat “één pil Seroxat de schade van [eiser] heeft veroorzaakt”. Die advocaat had ook het laatste woord in het gedeelte van de comparitie waarin het over het causale verband ging. De advocaat van GSK suggereerde ter afsluiting dat als een deskundige zou worden benoemd het hof een voorspelbaar antwoord zou krijgen (als in: de schade van [eiser] kan wel maar kan ook niet door Seroxat zijn veroorzaakt). Dit betekent dat ook het nut van het benoemen van een deskundige onderdeel is geweest van de comparitie van partijen. [eiser] moest er dan ook rekening mee houden dat het hof tot de slotsom zou komen dat benoeming van een deskundige niet opportuun is.
+
+Onderdeel 4 – de omkeringsregel
+
+
+
+
+3.33
+Onderdeel 4 bestaat uit drie subonderdelen. Aan deze subonderdelen gaat een inleiding vooraf waarin [eiser] stelt dat hij zowel in eerste aanleg als in hoger beroep een beroep heeft gedaan op de zogeheten omkeringsregel. [eiser] geeft aan te hebben bepleit dat GSK een ongeschreven veiligheidsnorm heeft geschonden die inhoudt dat data over bijwerkingen resulterend uit klinisch onderzoek openbaar moeten worden gemaakt en dat nadelige onderzoeksgegevens niet mogen worden achtergehouden. Deze veiligheidsnorm voorkomt volgens [eiser] dat de medische wereld een onjuiste weergave en conclusie van het klinisch onderzoek voorgeschoteld krijgt. Deze veiligheidsnorm bevordert volgens [eiser] de zuivere en correcte meningsvorming in de medische wereld ten aanzien van zowel bruikbaarheid als veiligheid van een bepaald middel zoals Seroxat. 
+
+
+3.34
+Volgens [eiser] is in casu nadrukkelijk sprake van schending van deze veiligheidsnorm. Hij is van mening dat hij Seroxat niet voorgeschreven zou hebben gekregen als zijn arts eerder op de hoogte was geweest van de bijwerkingen. De door hem geleden schade door het gebruik van Seroxat op jonge leeftijd komt overeen met de bijwerkingen die in het heroverwogen onderzoek (randnummer 1.25 hiervoor) aan het licht zijn gekomen. De schade is volgens [eiser] het kenmerkende gevolg van het niet openbaar maken van de daadwerkelijke onderzoeksgegevens. Indien GSK de onderzoeksresultaten niet had achtergehouden waren deze ernstige bijwerkingen reeds in 2000 opgenomen in de productbeschrijving en bijsluiter. GSK is derhalve aansprakelijk voor de schade die door het gebruik van Seroxat is veroorzaakt bij [eiser]  tenzij GSK aannemelijk maakt dat deze schade ook zonder het gebruik van Seroxat zou zijn opgetreden en/of wanneer GSK alle data bij de publicatie van “Study 329” had vrijgegeven.
+
+
+3.35
+In subonderdeel 4.1 betoogt [eiser] dat het hof in rov. 4.13 tot en met 4.16 ten onrechte althans zonder toereikende motivering is voorbijgegaan aan (het beroep van [eiser] op) de omkeringsregel. Volgens [eiser] valt niet in te zien waarom in dit geval niet is voldaan aan de vereisten voor toepasselijkheid hiervan. Op grond van de beslissingen van het hof staat vast dat het door [eiser] gestelde gevaar van Seroxat zich kan hebben verwezenlijkt. [eiser] heeft zes zware depressies en vijf pogingen tot zelfmoord achter de rug. Volgens [eiser] kon het hof onder die omstandigheden niet volstaan met afwijzing op de enkele grond dat ook andere medicatie de onderliggende ziekte of de door [eiser] doorgemaakte life events de klachten hebben kunnen veroorzaken.
+
+
+3.36
+In cassatie moet volgens [eiser] worden uitgegaan van schending van de door hem gestelde norm omdat het hof niet heeft geoordeeld dat die norm niet bestaat of niet is geschonden. Ik begrijp dit zo dat volgens [eiser] als hypothetisch feitelijk grondslag geldt dat de door hem voorgestane norm bestaat en dat die norm geschonden is door GSK.
+
+
+3.37
+De klacht faalt. In rov. 4.14 heeft het hof overwogen dat het in het dossier “geen enkel aanknopingspunt [vindt] voor de stelling van [eiser] dat de Nederlandse artsen (onder wie zijn huisarts) Seroxat niet (“off label”) zouden hebben voorgeschreven als zij van de uitkomsten van “Study 329” (en “Study 377” en “Study 701”) op de hoogte zouden zijn geweest mede gelet op de afwezigheid van richtlijnen voor kinderen/jongeren met een depressie en de reeds in de productinformatie opgenomen waarschuwing.” Het hof is daarom voorbijgegaan aan deze “niet onderbouwde stelling van [eiser]”. In deze overweging van het hof ligt besloten dat het hof geen aanleiding heeft gezien voor toepassing van de door [eiser] voorgestane omkeringsregel: al zou immers de door [eiser] voorgestane norm strekkende tot het openbaar maken van onderzoeksgegevens door bedrijven als GSK bestaan en al zou GSK zich aan deze norm hebben gehouden door de uitkomsten van “Study 329” “Study 377” en “Study 701” openbaar te maken dan nog is niet gezegd dat [eiser] Seroxat niet voorgeschreven zou hebben gekregen. Van een zich opdringend causaal verband waarmee de toepassing van de omkeringsregel kan worden gerechtvaardigd is dan ook geen sprake.
+
+
+3.38
+Ook wanneer in cassatie zou (moeten) worden uitgegaan van schending van de door [eiser] voorgestane norm met betrekking tot het publiceren van onderzoeksgegevens (randnummer 3.36 hiervoor) leidt dat gelet op het voorgaande niet tot toepassing van de omkeringsregel.
+
+
+3.39
+
+In subonderdeel 4.2 klaagt [eiser] over de zojuist genoemde overweging van het hof in rov. 4.14 dus over de overweging dat het in het dossier geen enkel aanknopingspunt vindt voor de stelling dat de Nederlandse artsen (onder wie de huisarts van [eiser] ) Seroxat niet (“off label”) zouden hebben voorgeschreven als zij van de uitkomsten van “Study 329” (en “Study 377” en “Study 701”) op de hoogte zouden zijn geweest mede gelet op de afwezigheid van richtlijnen voor kinderen/jongeren met een depressie en de reeds in de productinformatie opgenomen waarschuwing. [eiser] verwijst naar door hem ingenomen stellingen die er samengevat op neerkomen dat GSK als zij op een open en eerlijke wijze met de data verkregen in het kader van (onder meer) “Study 329” zou zijn omgegaan bekend zou zijn geworden dat Seroxat geen effectieve werking heeft bij kinderen/jongvolwassenen maar enkel ernstige bijwerkingen zoals agressie en suïcide. Het hof zou deze stellingen ten onrechte niet bij zijn oordeelsvorming hebben betrokken. Het is volgens [eiser] een feit van algemene bekendheid dat een geneesmiddel waarvan de fabrikant aangeeft dat het geen werking heeft niet wordt voorgeschreven door een arts.
+
+
+3.40
+De klacht treft geen doel. [eiser] wijst op door hem ingenomen stellingen. Daarin heeft het hof echter geen aanknopingspunten hoeven vinden. Met “aanknopingspunt” in rov. 4.14 zal het hof bedoeld hebben een meer objectieve bron zoals een rapport van een deskundige of een verklaring van een huisarts of een psychiater die kan dienen ter ondersteuning van de stelling van [eiser] dat de Nederlandse artsen (onder wie de huisarts van [eiser] ) Seroxat niet (off-label) zouden hebben voorgeschreven als zij van de uitkomsten van “Study 329” (en “Study 377” en “Study 701”) op de hoogte zouden zijn geweest. De stellingen waar [eiser] een beroep op doet zijn niet als zodanig aan te merken.
+
+
+3.41
+Met betrekking tot die stellingen merk ik verder op dat [eiser] inderdaad heeft aangevoerd dat in casu uiteraard geen off-label gebruik bij kinderen zoals [eiser] zou hebben plaatsgevonden “wanneer GSK althans op een open en eerlijke wijze met de data verkregen in het kader van (onder meer) Studie 329 zou zijn omgegaan”. Een objectieve bron ter onderbouwing van deze stelling – een aanknopingspunt – wordt echter niet geboden. De overige stellingen waarnaar [eiser] in cassatie verwijst houden geen verband met de stelling waarover het hof het heeft in de door [eiser] bestreden overweging.
+
+
+3.42
+
+Subonderdeel 4.3 is gericht tegen de overweging van het hof in rov. 4.15 dat [eiser] zijn stelling – dat de verschillende suïcidepogingen en de zes zware depressies die hij achter de rug heeft het gevolg zijn van het gebruik van (vijf maanden) Seroxat – onvoldoende heeft onderbouwd. Volgens [eiser] is het hof eraan voorbijgegaan dat hij heeft verwezen naar een publicatie van 18 september 2014 waaruit blijkt dat slechts één dosis al leidt tot onomkeerbare veranderingen in het brein.
+
+
+3.43
+
+Deze klacht faalt. In de memorie van antwoord wordt terloops en onder het weinig specifieke kopje “Varia en bewijsaanbod” aangevoerd dat één enkele dosis (van een middel als Seroxat) al leidt tot onomkeerbare veranderingen in het brein hetgeen zou worden toegelicht in één (Engelstalige) publicatie vindbaar op het internet via een hyperlink die wordt gegeven. Het hof was niet gehouden om in te gaan op deze terloopse niet nader uitgewerkte stelling van [eiser] . Uit het door [eiser] weergegeven citaat uit de publicatie blijkt ook niet dat volgens de publicatie één enkele dosis al leidt tot “onomkeerbare veranderingen in het brein”. Het woord “onomkeerbare” (irreversible in het Engels) wordt in het citaat niet gebezigd. Er staat “dramatic changes” en dat klinkt weliswaar serieus maar het betekent zoiets als “duidelijk zichtbare veranderingen”. Uit het citaat kan ook niet worden afgeleid dat de auteurs van de publicatie een onderzoek hebben verricht naar de langetermijneffecten van (bepaalde) antidepressiva. Daarentegen blijkt uit het citaat dat de onderzoekers hersenscans hebben gemaakt vóór en na de inname van (gebruikelijk voorgeschreven) SSRI’s. Het onderzoeksresultaat hield in dat (op de gemaakte foto’s) “changes in connectivity” in het brein te zien waren binnen drie uur na de inname van een dosis. Dat is niet per se negatief. Onder het kopje “Main Findings and Implications” valt dan ook niet te lezen dat (uit het onderzoek gebleken is dat) SSRI’s schadelijk zijn voor het brein.
+
+Slotsom
+
+
+
+
+3.44
+De slotsom luidt dat geen van de klachten doel treft. In cassatie blijven zowel het oordeel van het hof dat GSK geen onrechtmatige daad heeft begaan jegens [eiser] als het oordeel van het hof dat het causaal verband tussen de veronderstelde onrechtmatige daad en de schade van [eiser] niet is komen vast te staan overeind. Ieder van beide oordelen van het hof kan de afwijzing van de vordering van [eiser] zelfstandig dragen
+
+
+
+
+4Conclusie
+De conclusie strekt tot verwerping van het cassatieberoep.
+
+
+De Procureur-Generaal bij de
+Hoge Raad der Nederlanden
+
+
+
+A-G
+
+
+
+
+ 	Zie rov. 2.1 tot en met 2.12 van het bestreden arrest (hof Arnhem-Leeuwarden 15 juni 2021 ECLI:NL:GHARL:2021:5818 JA 2021/104 m.nt. Y Bosschaart en JGR 2021/22 m.nt. J.A. Lisman). Dit arrest wordt ook besproken in L.F. Dröge ‘De waarschuwingsplicht voor producenten: wanneer wetenschap tot waarschuwen moet leiden’ AV&S 2021 p. 209-212.
+
+
+ 	[eiser] is een van de twee oprichters van Stichting SeroxatClaim een stichting die de krachten van aangesloten individuele slachtoffers bundelt en voor hen een collectieve procedure zal gaan voeren tegen GSK. Zie https://www.letselverhalen.nl/stichting-seroxatclaim. De andere oprichter is Judith Dingemanse bestuurder van LetselVerhalen een bedrijf dat werk maakt van het verhalen van letselschade. De advocaat van de stichting is Ron Lensen die de procedure voor [eiser] heeft gevoerd bij de rechtbank en het hof. 
+
+
+ 	Productie 4 bij de inleidende dagvaarding.
+
+
+ 	Emergis is een instelling voor geestelijke gezondheidszorg.
+
+
+ 	Een specialist in christelijke gezondheidszorg.
+
+
+ 	Een kliniek van Emergis. Bedoeld zal zijn: Ithaka.
+
+
+ 	IBS staat voor inbewaringstelling.
+
+
+ 	De afkorting ‘an’ staat voor ante noctem Latijn voor ‘vóór de nacht’. Met ‘an’ zal dan dus bedoeld zijn: voor het slapen gaan. 
+
+
+ 	Productie 3 bij de inleidende dagvaarding.
+
+
+ 	Productie 2 bij de conclusie van antwoord.
+
+
+ 	Productie 10 bij de inleidende dagvaarding. De titel van dit artikel luidt “Efficacy of Paroxetine in the Treatment of Adolescent Major Depression: A Randomized Controlled Trial”. Het artikel is geschreven door Martin B. Keller and others.
+
+
+ 	Op de door het hof geciteerde zinnen volgt nog: “Seven patients were hospitalized: 2 with worsening depression 2 with emotional liability 2 with conduct problems and 1 with euphoria. Of the 11 patients only headache (1 patient) was considered by the treating investigator to be related to paroxetine treatment.”
+
+
+ 	De moedervennootschap van GSK zie randnummer 3.1.1 van haar memorie van grieven: “GSK als procespartij in deze procedure betreft een in Zeist gevestigde Nederlandse dochteronderneming van het (uiteindelijk) in Londen Verenigd Koninkrijk gevestigde GlaxoSmithKline (“GSK UK”). (…).”
+
+
+ 	Productie 17 bij de inleidende dagvaarding.
+
+
+ 	Productie 8 bij de memorie van grieven.
+
+
+ 	Productie 3 bij de conclusie van antwoord.
+
+
+ 	Productie 5 bij de conclusie van antwoord.
+
+
+ 	Productie 4 bij de conclusie van antwoord.
+
+
+ 	EMEA staat voor European Medicines Evaluation Agency en CPMP voor Committee for Proprietary Medicinal Products. Het European Medicines Evaluation Agency heet thans European Medicines Agency (EMA) in het Nederlands: het Europees Geneesmiddelenbureau. Het Committee for Proprietary Medicinal Products heet thans Committee for Medicinal Products for Human Use (CHMP).
+
+
+ 	Productie 5 bij de conclusie van antwoord.
+
+
+ 	Productie 18 bij de inleidende dagvaarding. Het gaat om het volgende artikel: J. Le Noury and others ‘Restoring Study 329: efficacy and harms of paroxetine and imipramine in treatment of major depression in adolescence’ British Medical Journal 2015 issue 8025 p. 1-16 (doi: 10.1136/bmj.h4320). Zie https://www.bmj.com/content/bmj/351/bmj.h4320.full.pdf.
+
+
+ 	Productie 7 bij de conclusie van antwoord.
+
+
+ 	Deze subsidiaire grondslag is in cassatie nog van belang. Dat geldt niet voor de primaire grondslag van zijn vordering (productaansprakelijkheid ex art. 6:185 BW) waaraan [eiser] ten grondslag heeft gelegd dat GSK een gebrekkig medicijn in het verkeer heeft gebracht alsmede schending van de informatieplicht door GSK over de haar bekende ernstige bijwerkingen van Seroxat bij gebruik door kinderen en adolescenten. Overigens is noch de rechtbank noch het hof inhoudelijk ingegaan op de primaire grondslag. Het hof heeft in rov. 4.12 van het bestreden arrest in navolging van de rechtbank aangenomen dat de vervaltermijn van art. 6:191 lid 2 BW reeds was verstreken en dat voor doorbreking ervan geen aanleiding bestaat. Zie in eerste aanleg Rb. Midden-Nederland (zittingsplaats Utrecht) 30 mei 2018 ECLI:NL:RBMNE:2018:2298 rov. 2.4. tot en met 2.6.
+
+
+ 	Zie Rb. Midden-Nederland (zittingsplaats Utrecht) 30 mei 2018 ECLI:NL:RBMNE:2018:2298 rov. 2.9. Vgl. randnummers 78. e.v. van de inleidende dagvaarding. In randnummer 80. staat het volgende: “(…) Het aspect van onrechtmatig handelen raakt zowel aan het feit dat GSK ten onrechte het geneesmiddel in het verkeer heeft gebracht voor gebruik door de doelgroep waartoe [eiser] behoorde als aan het gegeven dat GSK onvoldoende heeft gewaarschuwd voor de ernstige bijwerkingen waar GSK deze kende althans behoorde te kennen. (…).” Onderdeel 1 van het cassatiemiddel houdt onder meer de klacht in dat het hof heeft miskend dat [eiser] aan zijn vordering ex art. 6:162 BW ook ten grondslag heeft gelegd dat GSK ten onrechte Seroxat in het verkeer heeft gebracht voor gebruik door de doelgroep waartoe [eiser] behoorde.
+
+
+ 	In randnummer 7. van de inleidende dagvaarding heeft [eiser] gesteld dat hij op veertienjarige leeftijd Seroxat voorgeschreven heeft gekregen (zie in dit verband rov. 3.1 van het bestreden arrest) maar dat berust op een vergissing. [eiser] was vijftien jaar oud toen hij voor het eerst Seroxat kreeg voorgeschreven. Dit blijkt uit het huisartsenjournaal (productie 4 bij de inleidende dagvaarding). Zie verder ook rov. 4.6 van het bestreden arrest en p. 2 van het proces-verbaal van de comparitie van partijen in eerste aanleg (20 maart 2018).
+
+
+ 	Zie rov. 3.1 van het bestreden arrest.
+
+
+ 	Rb. Midden-Nederland (zittingsplaats Utrecht) 30 mei 2018 ECLI:NL:RBMNE:2018:2298.
+
+
+ 	Rov. 2.7. van het vonnis luidt als volgt: “Subsidiair beroept [eiser] zich op artikel 6:162 BW (onrechtmatige daad). Volgens GlaxoSmithKline is deze vordering verjaard. Hiervoor geldt een verjaringstermijn van vijfjaar nadat de benadeelde zowel met de schade als met de daarvoor aansprakelijke persoon bekend is geworden en in ieder geval door verloop van twintig jaren na de gebeurtenis waardoor de schade is veroorzaakt (3:310 lid 1 BW). Deze termijn is niet verstreken. [eiser] is al langer dan vijf jaar bekend met zijn schade en hij kon weten dat GlaxoSmithKline de producent was van het middel waarvan hij bijwerkingen had maar GlaxoSmithKline heeft niet onderbouwd dat [eiser] ook al meer dan vijf jaar weet dat GlaxoSmithKline vanwege onrechtmatig handelen aansprakelijk is of kan zijn voor die schade.”
+
+
+ 	Zie randnummers 67. e.v. van de memorie van antwoord.
+
+
+ 	Zie rov. 4.1 van het bestreden arrest.
+
+
+ 	Van off-label gebruik is sprake indien een geneesmiddel wordt voorgeschreven voor een andere toepassing dan waarvoor het door de autoriteiten is goedgekeurd. Zie J.A. Lisman J.R.A. Schoonderbeek & G. Klink ‘Off-label gebruik van geneesmiddelen: voorwaarden en aansprakelijkheid’ TvGR 2008 p. 245. Zie in dit verband art. 68 lid 1 van de Wet van 8 februari 2007 tot vaststelling van een nieuwe Geneesmiddelenwet (de Geneesmiddelenwet): ‘Het buiten de door het College geregistreerde indicaties voorschrijven van geneesmiddelen is alleen geoorloofd wanneer daarover binnen de beroepsgroep protocollen of standaarden zijn ontwikkeld. Als de protocollen en standaarden nog in ontwikkeling zijn is overleg tussen de behandelend arts en apotheker noodzakelijk.’ Zie ook de volgende webpagina van de Koninklijke Nederlandse Maatschappij tot bevordering der Geneeskunst: https://www.knmg.nl/advies-richtlijnen/dossiers/off-label-voorschrijven.htm.
+
+
+ 	In rov. 4.12 heeft het hof zich volledigheidshalve ook uitgesproken over de door [eiser] bij de rechtbank naar voren gebrachte primaire grondslag voor zijn vordering tot schadevergoeding (art. 6:185 BW). Het hof heeft zich aangesloten bij het oordeel van de rechtbank dat de vervaltermijn van tien jaren (art. 6:191 lid 2 BW) is verstreken en dat geen aanleiding bestaat voor doorbreking hiervan.
+
+
+
+ 	Meer precies: inleidende dagvaarding randnummers 80.-85.
+
+
+ 	Zie in dit verband ook randnummer 1. van de spreeknotities van de advocaat van [eiser] ter gelegenheid van de comparitie van partijen in hoger beroep van 4 maart 2021: “Kern: zwijgen waar spreken plicht was enkel uit winstbejag met daarbij willens en weten creëren van ernstige gezondheidsrisico’s.” Zie ook randnummer 8. van deze spreeknotities: “De schade kan ook redelijkerwijs worden toegerekend aan GSK: zij wist dat Seroxat voor kinderen niet effectief was en daarentegen ernstige risico’s aan het gebruik daarvan kleefden maar liet na daarvoor te waarschuwen en bevorderde integendeel het off label gebruik door kinderen.”
+
+
+ 	Zie randnummers 67. e.v. van de memorie van antwoord.
+
+
+ 	De tekst van het subonderdeel loopt niet. [eiser] verwijst (onder meer) naar rov. 4.9 een na laatste volzin van het bestreden arrest maar daarin is het hof niet ingegaan op off-label gebruik van Seroxat.
+
+
+ 	Zou de rechtsklacht niet feitelijke grondslag missen dan zou deze falen. Het hof zou dan niet een onjuiste rechtsopvatting kunnen worden toegedicht. Ervan uitgaande dat GSK in de productinformatie voldoende heeft gewaarschuwd voor de risico’s van Seroxat bij gebruik door kinderen/adolescenten zoals het hof heeft geoordeeld (rov. 4.10) ligt het voor de hand dat indien de huisarts van [eiser] tegen deze waarschuwing is ingegaan en Seroxat toch heeft voorgeschreven bijvoorbeeld op basis van een eigen inschatting of bij gebrek aan een beter medicijn dat niet kan worden toegerekend aan GSK. Dat komt dan immers voor rekening van de huisarts. Zie in dit verband ook J.A. Lisman J.R.A. Schoonderbeek & G. Klink ‘Off-label gebruik van geneesmiddelen: voorwaarden en aansprakelijkheid’ TvGR 2008 p. 253-254. Lisman Schoonderbeek & Klink lijken de aansprakelijkheid van de voorschrijvend arts voorop te stellen als het gaat om het off-label voorschrijven van medicijnen. Onder het kopje “Voorschrijvend arts” brengen zij naar voren: “Een arts is in beginsel aansprakelijk voor de door het off-label gebruik van een geneesmiddel ontstane schade indien hij niet heeft gehandeld conform de zorgvuldigheid die van een redelijk bekwaam en redelijk handelend vakgenoot onder vergelijkbare omstandigheden mag worden verwacht.” Voor aansprakelijkheid van de producent van het off-label voorgeschreven medicijn zien zij ruimte in het volgende geval dat hier niet aan de orde is: “Indien de producent wist of behoorde te weten dat zijn geneesmiddel door artsen wordt voorgeschreven voor andere ziektes dan waarvoor zijn geneesmiddel is geregistreerd (bijvoorbeeld omdat dit is neergelegd in de door de beroepsgroep opgestelde protocollen) én hij niet voor de daaraan verbonden risico’s (bijwerkingen) heeft gewaarschuwd is de producent voor de schadelijke gevolgen hiervan in beginsel aansprakelijk.” Zie ook de conclusie van de noot van J.A. Lisman bij het bestreden arrest (JGR 2021/22). Lisman geeft aan dat [eiser] wellicht beter zijn huisarts had kunnen aanspreken op grond van onrechtmatige daad of wanprestatie met betrekking tot de geneeskundige behandelingsovereenkomst. Daarbij maakt hij echter wel de kanttekening dat het ook dan de vraag was geweest of het causaal verband tussen de schade en het handelen van de huisarts vastgesteld had kunnen worden. 
+
+
+ 	Productie 9 bij de memorie van grieven.
+
+
+ 	Memorie van antwoord p. 19.
+
+
+ 	Productie 4 bij de memorie van antwoord.
+
+
+ 	Dit aspect ‘tijdens een Europees congres’ wordt niet genoemd op p. 6 van de procesinleiding. Vergelijk p. 19 van de memorie van antwoord waarin dit aspect wel genoemd wordt: “In het memo gedateerd oktober 1998 was verder te lezen dat Studie 329 zou worden gepresenteerd tijdens een Europees congres en men daar met het oog op de eigen commerciele belangen slechts gedoseerd informatie zou gaan verstrekken: (…)”.
+
+
+ 	Productie 3 bij de memorie van antwoord.
+
+
+ 	Memorie van antwoord p. 19 en randnummers 36. en 37.
+
+
+ 	Deze stellingen van [eiser] zijn wel nadrukkelijk aan de orde gekomen tijdens de comparitie van partijen in hoger beroep van 4 maart 2021. Zie het proces-verbaal p. 21-22.
+
+
+ 	Een betere vertaling is mijns inziens: “het zou vanuit een commercieel oogpunt onacceptabel zijn om daarbij [bij het verzoek aan de bevoegde autoriteiten om Seroxat/paroxetine goed te keuren voor gebruik door adolescenten A-G] een verklaring te voegen dat de werkzaamheid niet is aangetoond nu dit het profiel van paroxetine zou ondermijnen”.
+
+
+ 	SB staat waarschijnlijk voor SmithKline Beecham opgegaan in GlaxoSmithKline (GSK).
+
+
+ 	Zie ook p. 21-22 van het proces-verbaal van de comparitie van partijen in hoger beroep van 4 maart 2021 waaruit afgeleid kan worden dat tenminste een lid van het hof de afbeeldingen in productie 3 niet goed kan plaatsen: “Zijn dat mails?”
+
+
+ 	Zie de tweede alinea van subonderdeel 2.2 in de procesinleiding.
+
+
+ 	Zie de derde alinea van subonderdeel 2.2 in de procesinleiding.
+
+
+ 	Zie p. 8-9 van de procesinleiding.
+
+
+ 	Proces-verbaal van de comparitie van partijen in hoger beroep van 4 maart 2021.
+
+
+ 	Zie GS Burgerlijke Rechtsvordering art. 25 Rv (actueel tot en met 1 maart 2022) aant. 5 (T.F.E. Tjong Tjin Tai).
+
+
+ 	Proces-verbaal van de comparitie van partijen in hoger beroep van 4 maart 2021 p. 16-18 en p. 24 (bovenaan).
+
+
+ 	Zie p. 16 van het proces-verbaal van de comparitie van partijen in hoger beroep van 4 maart 2021: “(…) Je kunt ook achteraan beginnen staat het causaal verband vast? Het gaat dan over de korte en de lange termijn. Is door het korte gebruik van vijf maanden Seroxat alle schade veroorzaakt? (…).” Zie ook p. 18 bovenaan: “Er is nog een causaal probleem. Dat probeerde ik met de vergelijking uit te leggen. Is alle ellende van [eiser] veroorzaakt door een pilletje Seroxat of ook door gebeurtenissen en aanleg?”. Zie ook p. 14: “Het geeft juridisch een probleem voor het causaal verband. De vraag is of het toegerekend kan worden aan GSK of het veroorzaakt is door Seroxat of door die andere middelen.” En eveneens op p. 14: “(…) Ik geef u mee dat we daar juridisch gezien een grote causale hobbel zien. Er kan sprake zijn van multicausaliteit. (…).”
+
+
+ 	Proces-verbaal comparitie van partijen in hoger beroep van 4 maart 2021 p. 17: “In afdeling 6.1.9 BW gaat het om de vaststelling van de schade (het condicio sine qua non verband) in afdeling 6.1.10 gaat het om de omvang van de schade (toerekening naar redelijkheid en eigen schuld bijvoorbeeld). Dat kan wel bij de schadestaat beoordeeld worden andersom kan het niet.” De verwijzing van het hof naar afd. 6.1.9 BW (‘De gevolgen van het niet nakomen van een verbintenis’) is minder gelukkig. Het gaat hier immers niet om een vordering ex art. 6:74 BW maar om een vordering ex art. 6:162 BW en ex art. 6:185 BW. Die bepalingen zijn niet in afd. 6.1.9 BW opgenomen maar in afd. 6.3.1 respectievelijk afd. 6.3.3 BW.
+
+
+ 	Proces-verbaal comparitie van partijen in hoger beroep van 4 maart 2021 p. 16 (de onderstrepingen zijn van mij A-G): “(…) Een deskundige die er iets van kan vinden kan nog nodig zijn misschien zijn er nog extra rapporten nodig en het gehele huisartsjournaal. Misschien moet er nog iemand komen die verstand heeft van de gevolgen van zo’n medicijn voor de geest of Seroxat en andere SSRI’s de schade die [eiser] heeft kunnen veroorzaken.” Zie ook p. 18: “De mogelijkheden moeten besproken worden om een verrassingsbeslissing tegen te gaan. Er zijn veel mogelijkheden om de zaak juridisch op te lossen. Een farmacoloog kan niet met zekerheid het een of ander zeggen maar we kunnen vragen naar bepaalde studies die er iets over zeggen.” 
+
+
+ 	Proces-verbaal comparitie van partijen in hoger beroep van 4 maart 2021 p. 16: “Het is de vraag of die [een psychiater A-G] dat weet. Wie moet er dan benoemd worden? Ik vraag u daarover na te denken.” Zie ook p. 17: “(…) Een psychiater kan wellicht minder zeggen over de chemische samenstelling van het medicijn en dat is waar het om gaat. Ik ga nu geen concrete vragen stellen. Het zou fijn zijn als een deskundige hier iets over kan zeggen.”
+
+
+ 	Proces-verbaal comparitie van partijen in hoger beroep van 4 maart 2021 p. 18.
+
+
+ 	Proces-verbaal comparitie van partijen in hoger beroep van 4 maart 2021 p. 18.
+
+
+ 	Proces-verbaal comparitie van partijen in hoger beroep van 4 maart 2021 p. 18.: “Ik denk dat het onbetwist is dat het kan gebeuren. U gaat een antwoord krijgen dat we al kunnen voorspellen als ik heel eerlijk ben.”
+
+
+ 	Verwezen wordt naar randnummers 109. tot en met 115. van de inleidende dagvaarding in eerste aanleg naar p. 2 vijfde alinea van de spreekaantekeningen van de advocaat van [eiser] ter gelegenheid van de comparitie van partijen in hoger beroep van 4 maart 2021 en naar p. 3 en 13 van het proces-verbaal van die comparitie van partijen.
+
+
+ 	Hierbij verwijst [eiser] naar HR 10 januari 2020 ECLI:NL:HR:2020:27 NJ 2020/45 JBPr 2020/36 m.nt. F.E.G.A. van der Voort en JIN 2020/27 m.nt. M.A.J.G. Janssen (Vivat/ATF) rov. 3.3: “(…) Reaal heeft zich beroepen op schending van een uit de Machinerichtlijn en de ATEX-richtlijn voortvloeiende concrete norm die erop neerkomt dat de verwarmingselementen in een soldeermachine als deze moeten zijn afgeschermd tegen brandbare dampen. Deze norm strekt specifiek ertoe bescherming te bieden tegen het gevaar van een interne ontploffing. Het hof heeft niet geoordeeld dat deze norm niet bestaat of niet is geschonden zodat in cassatie van de schending daarvan moet worden uitgegaan. (…).”
+
+
+ 	Zie randnummers 3.11 tot en met 3.13 van mijn conclusie (ECLI:NL:PHR:2022:442) in het cassatieberoep naar aanleiding van hof Arnhem-Leeuwarden 15 juni 2021 ECLI:NL:GHARL:2021:5826. Uw Raad heeft in deze procedure nog geen uitspraak gedaan.
+
+
+ 	[eiser] verwijst in dit kader naar p. 21 van de memorie van antwoord in principaal appel naar p. 22 van het proces-verbaal van de comparitie van partijen in hoger beroep van 4 maart 2021 en naar randnummer 57. van de inleidende dagvaarding.
+
+
+ 	P. 21 van de memorie van antwoord.
+
+
+ 	In randnummer 57. van de inleidende dagvaarding wordt vooral aangevoerd dat het GSK niet vrijstond om Seroxat op de markt te brengen voor jongvolwassenen en kinderen gezien het ontbrekende nut van het medicijn en op p. 22 van het proces-verbaal van de comparitie van partijen in hoger beroep van 4 maart 2021 valt enkel te lezen dat de advocaat van [eiser] heeft aangevoerd dat GSK een middel in het verkeer heeft gebracht dat niet werkt maar wel gevaarlijk is voor jongeren.
+
+
+ 	Memorie van antwoord randnummer 63. te vinden op p. 59.
+
+
+ 	Deze publicatie betreft: A. Schaefer and others ‘Serotonergic Modulation of Intrinsic Functional Connectivity’ Current Biology 2014 issue 19 p. 2314-2318.
+
+
+ 	Memorie van antwoord randnummer 63. te vinden op p. 59.
+
+
+ 	In randnummer 63. van de memorie van antwoord wordt de volgende hyperlink gegeven: https://www.sciencedaily.com/releases/2014/09/140918121436.htm.
+
+
+ 	Onder het kopje “Main Findings and Implications” staat het volgende: “We demonstrate an acute and widespread decrease in functional connectivity across the whole brain following the oral intake of a single dose of escitalopram in healthy subjects as well as the change in connectivity not to be limited to a decrease but to be paralleled with localized increases in cerebellar and thalamic regions. These findings provide evidence for the particular relevance of serotonin for the modulation of intrinsic brain activity and also demonstrate its unique influence on the cerebello-thalamic tract. The observed link between rapid serotonin transporter blockade and such fundamental functional connectivity change across the whole brain suggests a very early initiation time for serotonin-induced modulation of functional connectivity architecture. While further research is needed to establish whether these serotonin-induced connectivity changes hold promise to translate into meaningful predictors for antidepressant response our findings represent a first step toward identifying an intrinsic functional connectome print for individual responsivity of the human brain to serotonergic modulation.”
+

@@ -1,0 +1,1593 @@
+
+
+Procureur-Generaal bij de Hoge Raad der Nederlanden
+
+
+
+C.M. Ettema
+
+
+Advocaat-Generaal
+
+
+
+
+
+Gemeenschappelijke bijlage bij de conclusies van 30 juni 2022 inzake:
+
+
+Nrs. 20/02581 20/02590 20/03777
+
+
+Derde Kamer A
+
+
+
+
+
+1Inhoudsindicatie gemeenschappelijke bijlage
+
+1.1
+De drie zaken waar deze gemeenschappelijke bijlage bij hoort hebben gemeen dat de belanghebbenden (primair) van mening zijn dat hun dienstverlening is vrijgesteld van omzetbelasting op de grond dat zij diensten van schuldhulpverlening verrichten. Het gerechtshof Arnhem-Leeuwarden heeft dat standpunt niet gevolgd (nrs. 20/02581 en 20/02590) het gerechtshof Den Haag wel (nr. 20/03777).
+
+
+1.2
+De belanghebbenden verlenen diensten op het gebied van budgetbeheer en/of inkomensbeheer budgetbegeleiding en budgetadvisering al dan niet met gebruikmaking van wettelijke beschermingsmaatregelen (curatele beschermingsbewind en mentorschap). Zij treden niet op als bewindvoerder in het kader van de wettelijke schuldsaneringsregeling (‘Wsnp-bewindvoerder’).
+
+
+1.3
+Op 24 maart 2016 heeft de staatssecretaris van Financiën naar aanleiding van een Wob-verzoek een standpunt van de Kennisgroep Omzetbelasting: Vrijstellingen Overheid en Landbouwregeling openbaar gemaakt over bewindvoering bij schuldhulpverlening (bindend advies van 21 oktober 2014) inhoudende dat de vrijstelling voor schuldhulpverlening niet van toepassing is op de diensten van de beschermingsbewindvoerder. De Kennisgroep acht redengevend dat het doel van beschermingsbewind (slechts) is het stabiliseren van de financiële situatie van de betrokkene en niet het oplossen van de schuldenproblematiek. Dat standpunt is het vertrekpunt geweest voor de procedures in deze zaken.
+
+
+1.4
+Voor een goed begrip van de vrijstelling voor schuldhulpverlening schets ik in onderdeel 2 van deze gemeenschappelijke bijlage allereerst het speelveld van de schuldhulpverlening in Nederland. Ik beoog niet een volledig overzicht van alle aspecten en nuances van het schudhulpverleningsstelsel te geven maar slechts een algemeen beeld waarmee de werkzaamheden van de belanghebbenden in perspectief kunnen worden geplaatst. Vervolgens bespreek ik in dat onderdeel de wettelijke beschermingsmaatregelen curatele bewind en mentorschap die kunnen samenlopen met schuldhulpverlening of die worden ingezet ter uitvoering van schuldhulpverlening en die zijn bedoeld om kwetsbare meerderjarigen te beschermen. In onderdeel 3 beschrijf ik het wettelijke kader van de vrijstelling voor maatschappelijk werk en sociale zekerheid in de Btw-richtlijn. Uiteraard behandel ik ook de jurisprudentie van het Hof van Justitie van de Europese Unie over de voorwaarden voor toepassing van de vrijstelling. In onderdeel 4 komen de relevante nationale vrijstellingsbepalingen aan bod. Tot slot onderzoek ik in onderdeel 5 of de belanghebbenden een vrijstelling van omzetbelasting kunnen toepassen.
+
+
+
+
+
+2Schuldhulpverlening in Nederland 
+
+2.1
+
+Het Nederlandse schuldhulpverleningsstelsel bestaat uit een minnelijk en een wettelijk traject. Ik sta bij beide trajecten op hoofdlijnen stil.
+
+Minnelijke traject 
+
+
+
+
+2.2
+
+Het minnelijke traject van schuldhulpverlening houdt in dat de gemeente of een lokale schuldhulpverleningsorganisatie met schuldeisers op basis van vrijwillige medewerking overeenstemming probeert te bereiken over het (gedeeltelijk) aflossen van de schuld(en) en het kwijtschelden van een resterend deel. De schuldeisers hoeven niet akkoord te gaan. In dat geval is het minnelijke traject mislukt. Vóór 1 juli 2012 bestond er geen wettelijke verplichting voor gemeenten om schuldhulpverlening aan te bieden na 1 juli 2012 wel. Omdat in een van de zaken waar deze bijlage bij hoort ook het jaar 2011 in geschil is belicht ik beide perioden.
+
+Minnelijke traject tot 1 juli 2012
+
+
+
+
+2.3
+
+Tot juli 2012 zijn de gemeenten eindverantwoordelijk voor het aanbieden van minnelijke schuldhulpverlening maar zijn zij niet wettelijk verplicht in schuldhulpverlening te voorzien. Dit betekent niet dat de overheid in die periode geen aandacht besteedt aan de (gemeentelijke) schuldhulpverlening integendeel. Vlak voor de invoering van de btw-vrijstelling voor instellingen op het gebied van schuldhulpverlening op 1 januari 2006 heeft de staatssecretaris van Sociale Zaken en Werkgelegenheid in zijn brief van 14 november 2005 mede namens de ministers van Financiën en Justitie en de staatssecretaris van Economische Zaken de nota ‘Het rijk rond schulden’ gepresenteerd. Deze nota laat zien hoe de inspanningen van de hiervoor genoemde ministeries op het gebied van de schuldenproblematiek op elkaar worden afgestemd. Het doel is de samenhang in de aanpak van problematische schuldsituaties in beeld te brengen en de integrale aanpak vanuit het kabinet te onderstrepen. De samenhangende aanpak bestaat zowel uit het voorkomen van problematische schuldsituaties als het oplossen van problematische schuldsituaties en nazorg:
+“De schuldhulpverleningsketen begint bij het voorkomen van het ontstaan van problematische schuldsituaties. In geval er desondanks toch problematische schulden ontstaan is er een curatief traject. Dit traject kan bestaan uit een minnelijk traject dat mogelijk gevolgd wordt door een wettelijk traject. Een positieve afloop van het minnelijke of het wettelijk traject resulteert in een schuldenvrije schuldenaar. De keten eindigt bij het voorkomen dat de (ex-) schuldenaar weer problematische schulden aangaat.” 
+
+
+
+2.4
+De nota legt niet uit wat onder een problematische schuldsituatie moet worden verstaan. Wel wordt in een voetnoot verwezen naar een onderzoeksrapport getiteld “Schulden: een (on)dragelijke last”. In dit rapport wordt geconstateerd dat in eerdere onderzoeken over problematische schulden en in de maatschappelijk discussie hierover steeds andere definities worden gebruikt en wordt vervolgens een voor het onderzoek te hanteren definitie geformuleerd. In dit onderzoek wordt een problematische schuld gedefinieerd als: “de maandelijkse betalingsverplichtingen (rente en aflossingen) voor lopende niet-hypothecaire leningen gelijk of hoger zijn dan de maandelijkse aflossingscapaciteit van het huishouden en tegelijkertijd er een achterstand van 6 maanden of meer bestaat bij de betalingsverplichtingen voor woonlasten (huur- of hypotheekbetalingen) lopende leningen en/of voor de kosten van energie en water ziekenfonds- of ziektekostenverzekering gemeentelijke en andere belastingen telefoonrekeningen en schoolgeld.”
+
+
+2.5
+De nota vermeldt dat gemeenten de schuldhulpverlening veelal integraal uitvoeren wat betekent dat naast het schuldregelen (het onderhandelen door de gemeente/schuldhulpverlener met de schuldeisers om op basis van vrijwillige medewerking overeenstemming te bereiken over het (gedeeltelijk) aflossen van de schuld(en) en kwijtschelding van het resterende deel) ook andere aanvullende hulp wordt geboden zoals budgetbegeleiding en psychosociale hulpverlening. Gemeenten zetten budgetbegeleiding en budgetbeheer in met het oog op preventie oplossen en nazorg. De nota wijst erop dat naast de gemeentelijke initiatieven ook wettelijke instrumenten bestaan om nazorg te verrichten of recidive te voorkomen bijvoorbeeld beschermingsbewind. Gemeenten kunnen de schuldhulpverlening zelf uitvoeren maar ze kunnen die ook uitbesteden bijvoorbeeld aan gemeentelijke kredietbanken aan het algemeen maatschappelijk werk of aan commerciële organisaties zoals banken of schuldbemiddelingsbureaus.
+
+
+2.6
+De nota verwijst naar de handreiking “Integrale Schuldhulpverlening een handreiking voor gemeenten.” Deze handreiking bevat een beschrijving van het basispakket integrale schuldhulpverlening dat geldt als de norm voor goede schuldhulpverlening. Het basispakket bevat elf diensten op het terrein van integrale schuldhulpverlening en ziet er als volgt uit:
+
+
+
+
+
+
+
+2.7
+
+Bij budgetbeheer wordt de zorg voor financiële zaken van de schuldenaar overgenomen door de budgetbeheerder (CE: originele voetnoten niet overgenomen):
+“Budgetbeheer
+Er zijn verschillende vormen van budgetbeheer. Deze vormen hebben gemeen dat de schuldenaar in beperkte mate over zijn inkomen kan beschikken. Het inkomen staat op een rekening die wordt beheerd door de instantie die het budgetbeheer uitvoert. Dat kan de rekening van de schuldenaar zelf zijn maar het kan ook gaan om een nieuwe rekening bij de beherende instantie. De schuldenaar machtigt de beherende instantie om het geld te reserveren voor aflossing en om rekeningen te betalen. De schuldenaar heeft een bankpas of chippas met een beperkte opnamemogelijkheid.
+
+
+
+
+Betaling van rekeningen door beheerder
+
+Er zijn vormen van budgetbeheer waarbij de beherende instantie zorgdraagt voor de betalingen van rekeningen van de cliënt. Deze vormen variëren van licht tot volledig. Bij licht budgetbeheer wordt een beperkt aantal vaste lasten (zoals huur gas water elektriciteit ziektekosten) betaald. Bij volledig budgetbeheer worden alle lasten betaald en reserveringen gemaakt voor toekomstige uitgaven.
+
+
+
+(…)
+
+
+
+
+Beheer en begeleiding
+
+Budgetbeheer is een administratief-technische activiteit. De verantwoordelijkheid van de schuldenaar om zelf zijn financiële zaken te regelen wordt uit handen genomen. Hierdoor hebben schuldeisers de garantie dat de afloscapaciteit ook daadwerkelijk wordt gebruikt om de schulden af te lossen. De schuldenaar krijgt met budgetbeheer de rust om eerst andere zaken in zijn persoonlijke leefsituatie op orde te brengen. Het ontnemen van de verantwoordelijkheid kan er echter toe leiden dat cliënten op de langere duur ontwennen om zelf hun financiële zaken te regelen. Het is dan ook noodzakelijk om de cliënt te begeleiden en hem te leren hoe de financiële administratie op orde kan worden gebracht en hoe op een verantwoorde manier uitgaven kunnen worden gedaan. Om dezelfde reden is het belangrijk om voortdurend te onderzoeken of het mogelijk is om het budgetbeheer af te bouwen en de cliënt steeds meer zelf verantwoordelijk te laten zijn voor zijn financiën. Deze vaardigheid wordt via budgetbegeleiding geleerd. Ook vanuit kostenperspectief is het wenselijk om budgetbeheer af te bouwen. Voor een aantal kwetsbare groepen is langdurige hulp en preventief beheer noodzakelijk. Het gaat dan om mensen die bijvoorbeeld wegens geestelijk onvermogen niet zelf verantwoordelijk kunnen zijn voor hun financiën. Afbouw is dan niet wenselijk.”
+
+
+
+2.8
+
+Door middel van budgetbegeleiding leren cliënten hoe zij verantwoordelijk met hun geld omgaan:
+“Met budgetbegeleiding leert de cliënt op een verantwoorde manier met zijn geld om te gaan. Budgetbegeleiding heeft tot doel het verkrijgen van inzicht in de inkomsten en uitgaven het voeren van een overzichtelijke administratie en het afstemmen van de uitgaven op het beschikbare budget. Er wordt dus ook gewerkt aan gedragsverandering. Zo wordt geprobeerd te voorkomen dat de cliënt in de toekomst opnieuw schulden gaat maken. (…)”
+
+
+
+2.9
+
+In het onderzoeksrapport “Schulden? De gemeente helpt!” uit 2008 wordt geconstateerd dat de effectiviteit van de gemeentelijke schuldhulpverlening te wensen overlaat. Dit is aanleiding geweest om de taak van gemeenten op het terrein van de integrale schuldhulpverlening wettelijk in te bedden. Uit het rapport kan verder worden opgemaakt dat ‘stabilisatie’ ook binnen het basispakket van de gemeentelijke schuldhulpverlening valt. Onder stabilisatie wordt verstaan het in evenwicht brengen en houden van inkomsten en uitgaven van een schuldenaar. Het wordt omschreven als een belangrijke activiteit om de financiële situatie van schuldenaren in balans te brengen en vanuit die positie de mogelijkheid te creëren om de schuldsituatie volledig op te lossen.
+
+Het minnelijke traject bij de gemeente vanaf 1 juli 2012
+
+
+
+
+2.10
+
+Per 1 juli 2012 is de verantwoordelijkheid van gemeenten voor het aanbieden van het minnelijke traject verankerd in de Wet gemeentelijke schuldhulpverlening (Wgs). De Wgs biedt het wettelijke kader voor de gemeentelijke schuldhulpverlening maar laat hierbij voldoende ruimte voor maatwerk door gemeenten. In artikel 1 Wgs wordt schuldhulpverlening gedefinieerd als:
+“het ondersteunen bij het vinden van een adequate oplossing gericht op de aflossing van schulden indien redelijkerwijs is te voorzien dat een natuurlijke persoon niet zal kunnen voortgaan met het betalen van zijn schulden of indien hij in de toestand verkeert dat hij heeft opgehouden te betalen alsmede de nazorg”
+
+
+
+2.11
+
+De artikelsgewijze toelichting op artikel 1 vermeldt dat schuldhulpverlening meer inhoudt dan alleen het vinden van een oplossing voor problematische schulden. Daaronder vallen ook preventie nazorg en stabilisatie:
+“Schuldhulpverlening omvat zowel het voorkomen van problematische schulden (preventie) het helpen van een schuldenaar bij het vinden van een oplossing voor zijn problematische schulden als het voorkomen van terugval in de oude situaties (nazorg). Schuldhulpverlening dient een integraal karakter te hebben. Zowel materiële als immateriële aspecten maken onderdeel uit van schuldhulpverlening. Integrale schuldhulpverlening is een samenhangend hulpaanbod van preventie tot en met zorg gericht op zowel de financiële- als psychosociale en andere oorzaken van schulden. Het kan daarbij bijvoorbeeld gaan om relatieproblemen de woonsituatie de gezondheid de verslaving en de gezinssituatie. Schuldhulpverlening is toegankelijk voor natuurlijke personen. Natuurlijke personen kunnen schuldhulpverlening krijgen voor zowel hun privé schulden als voor zakelijke schulden (zie dienaangaande hoofdstuk 3 van het algemeen deel van deze memorie van toelichting onder «Brede toegankelijkheid van de gemeentelijke integrale schuldhulpverlening»).”
+
+
+
+2.12
+De memorie van toelichting spreekt van een problematische schuldsituatie indien van een natuurlijke persoon redelijkerwijs is te voorzien dat hij niet zal kunnen voortgaan met het betalen van zijn schulden of waarin hij heeft opgehouden te betalen.
+
+
+2.13
+
+Voorts wordt in die memorie benadrukt dat de gemeentelijke schuldhulpverlening een integraal karakter heeft (CE: cursivering overgenomen):
+“Integrale schuldhulpverlening en de regierol van de gemeente
+Een belangrijk uitgangspunt van het wettelijk kader gemeentelijke schuldhulpverlening is dat de schuldhulpverlening een integraal karakter heeft. Dit betekent dat er bij de schuldhulpverlening niet alleen aandacht moet zijn voor het oplossen van de financiële problemen van een cliënt maar ook voor eventuele omstandigheden die op enigerlei wijze in verband kunnen staan met de financiële problemen van een cliënt. Het kan daarbij bijvoorbeeld gaan om psychosociale factoren relatieproblemen de woonsituatie de gezondheid de verslaving of de gezinssituatie. Het is van belang in het kader van de schuldhulpverlening de eventuele oorzaken die ten grondslag liggen aan het ontstaan van de schulden zo mogelijk weg te nemen. Het zelfde geldt uiteraard ook voor het wegnemen van omstandigheden die het oplossen van problematische schulden in de weg staan. Kortom het wegnemen van deze oorzaken of omstandigheden is in veel gevallen essentieel om de financiële problemen van de cliënt in structurele zin op te lossen. Dit betekent dat ook voor schuldeisers een integrale schuldhulpverlening van belang is.
+Het spreekt daarbij vanzelf dat deze vorm van integrale schuldhulpverlening toegesneden moet zijn op de individuele schuldenaar en dus er sprake is van maatwerk. In individuele gevallen kan het nodig zijn om voor het oplossen van het financiële probleem van een schuldenaar of zelfs voor groepen van schuldenaren eerst een ander probleem – bijvoorbeeld een verslaving – op te lossen. De integrale schuldhulpverlening moet zo worden vormgegeven dat deze ook adequaat is voor groepen als bijvoorbeeld dak- en thuislozen ex-gedetineerden en licht verstandelijk gehandicapten.
+Om integrale schuldhulpverlening succesvol te kunnen laten zijn geldt in algemene zin dat de medewerking van de schuldenaar een eerste vereiste is. Het is van belang dat de gemeente de schuldenaar ook actief aanspreekt op de eigen verantwoordelijkheid.
+Activiteiten gericht op preventie om problematische schulden zoveel mogelijk te voorkomen door bijvoorbeeld voorlichting vroegsignalering bestrijding van niet gebruik of budgetbegeleiding zijn onderdeel van integrale schuldhulpverlening. Dit geldt ook voor het verlenen van nazorg op individueel en collectief niveau. Dit om te voorkomen dat schuldenaren opnieuw met problematische schulden te maken krijgen. Het door de gemeenteraad vast te stellen plan voor integrale schuldhulpverlening zal dus ook op deze preventie en nazorg moeten ingaan.”
+
+
+
+2.14
+Op grond van artikel 2 lid 1 Wgs moet de gemeenteraad ten minste iedere vier jaar een plan vaststellen dat richting geeft aan de integrale schuldhulpverlening aan de inwoners van zijn gemeente. Volgens artikel 3 lid 1 Wgs heeft het college van burgemeesters en wethouders (college van B en W) de taak om het plan uit te voeren. Daarnaast bevat de Wgs bepalingen met betrekking tot de wacht- en doorlooptijd de inlichtingen- en medewerkingsplicht van de schuldenaar de gegevensuitwisseling tussen instanties en de informatievoorziening van het college van B en W aan de minister van Sociale Zaken en Werkgelegenheid. 
+
+
+2.15
+
+De Wgs schrijft niet voor hoe de schuldhulpverlening moet worden georganiseerd en uitgevoerd. Gemeenten bepalen zelf welke instrumenten zij gebruiken en of zij de schuldhulpverlening zelf of (gedeeltelijk) door derden (laten) uitvoeren. In de memorie van toelichting wordt gewezen op verschillende instrumenten die een gemeente kan gebruiken in het kader van schuldhulpverlening (CE: cursivering overgenomen):
+“Wettelijke gereedschapskist van de gemeentelijke schuldhulpverlening
+Dit wetsvoorstel biedt een wettelijk kader voor de gemeentelijke schuldhulpverlening. Dit wettelijk kader komt bovenop de wettelijke instrumenten die de gemeente desgewenst al dan niet na inschakeling van de rechter of andere instanties kan inzetten in het kader van de gemeentelijke schuldhulpverlening. Deze instrumenten zijn:
+• curatele;
+• beschermingsbewind;
+• afgifte Wsnp-verklaring;
+• dwangakkoord moratorium en de voorlopige voorziening in het kader van de Wsnp;
+• budgetbeheer in het kader van de WWB;
+• het opleggen van een sanctie indien een uitkeringsgerechtigde met een verplichting tot re-integratie niet meewerkt aan schuldhulpverlening en daardoor de re-integratie belemmert;
+• bescherming door de beslagvrije voet.”
+
+
+
+2.16
+Hoewel gemeenten veel vrijheid hebben bij het inrichten van het gemeentelijke schuldhulpverleningstraject maak ik uit literatuur op het gebied van schuldhulpverlening op dat de verschillende stappen in de gemeentelijke schuldhulpverlening niet wezenlijk verschillen van de periode voor 1 juli 2012. De volgende vijf fases kunnen worden onderscheiden: 1) preventie 2) aanvraag en intake 3) stabilisatie 4) schuldregelen 5) nazorg en/of afgifte van een zogenaamde Wsnp-verklaring (kort gezegd: een verklaring waarin staat waarom het minnelijk traject is mislukt). 
+
+
+2.17
+Artikel 4 Wgs schrijft voor dat binnen vier weken (of drie dagen in een crisissituatie) nadat een inwoner (‘verzoeker’) zich heeft gemeld bij de gemeente met een aanvraag voor schuldhulpverlening een intakegesprek plaatsvindt waarin de hulpvraag wordt vastgesteld. De verzoeker levert bij de melding informatie aan op basis waarvan de gemeente de aanvraag kan beoordelen. Het college van B en W neemt in beginsel ingevolge artikel 4:13 Awb binnen acht weken een beslissing over de aanvraag en geeft een beschikking af. In artikel 3 Wgs zijn weigeringsgronden opgenomen (bijvoorbeeld fraude en recidive). Daarnaast kan de gemeente in beleid extra weigeringsgronden opnemen of toelatingseisen stellen.
+
+
+2.18
+
+Na de aanvraag en intake volgt bij een positieve beslissing op de schuldhulpverleningsaanvraag doorgaans de stabilisatiefase (de Wgs bevat geen bepalingen over deze fase). Het doel van de stabilisatiefase is het in evenwicht brengen en houden van inkomsten en uitgaven van de schuldenaar. Hoe deze fase wordt ingericht en welke instrumenten worden ingezet is afhankelijk van de schuldenaar. Om de schulden te stabiliseren kan bijvoorbeeld gebruik worden gemaakt van beschermingsbewind budgetbeheer en/of budgetbegeleiding. Soms is het niet mogelijk om de stap naar de schuldregelingsfase te maken:
+“Als een schuldregeling niet mogelijk is vanwege de bestaande multiproblematiek of het ontbreken van financiële stabiliteit en/of niet-saneerbare schulden bekijkt de schuldhulpverlener of er mogelijkheden zijn voor een andere vorm van dienstverlening zoals de NVVK-module ‘Duurzame Financiële Dienstverlening’. Duurzame financiële dienstverlening is het in evenwicht brengen en houden van inkomsten en uitgaven van de schuldenaar. Op een later moment kan dan eventueel alsnog overgegaan worden tot een schuldregeling als de knelpunten wel zijn opgelost.”
+
+
+
+2.19
+
+In de memorie van toelichting bij de Wgs worden dergelijke situaties ook belicht:
+“Het is overigens ook mogelijk dat de gemeente een cliënt in het kader van de integrale schuldhulpverlening enigerlei vorm van hulp verleent zonder dat dit direct of zelfs op termijn leidt tot een traject gericht op het definitief oplossen van de problematische schulden van de schuldenaar. Deze situatie kan zich bijvoorbeeld voordoen ingeval de verslaving nog niet onder controle is bij zware psycho-sociale problemen of bij een licht verstandelijke beperking. De regering gaat ervan uit dat de gemeenten zich in dit soort gevallen ten minste zullen richten op het stabiliseren van de schulden om te voorkomen dat de omvang van de schulden toeneemt en het – bijvoorbeeld door budgetbeheer – zeker stellen dat de schuldenaar aan een aantal lopende verplichtingen voldoet om bijvoorbeeld huisuitzetting of het afsluiten van energie en water te voorkomen. Het is hierbij voor de motivatie van de schuldenaar en voor het behoud van de medewerking van de schuldeisers van belang om het perspectief op het oplossen van het schuldenprobleem zo veel mogelijk in beeld te houden. Het is in dit kader ook belangrijk dat de periode gedurende welke de schulden gestabiliseerd worden in afwachting van de oplossing van het schuldenprobleem zo kort mogelijk is.”
+
+
+
+2.20
+Nadat de schuldensituatie zoveel mogelijk is gestabiliseerd volgt de schuldregelingsfase. Ook over deze fase is niets geregeld in de Wgs. Desalniettemin vindt de wetgever het blijkens de parlementaire geschiedenis belangrijk dat sprake is van “gestandaardiseerd maatwerk” zodat de schuldeisers vertrouwen hebben in de wijze waarop de gemeentelijke schuldhulpverlening wordt uitgevoerd. De wetgever wijst hierbij op de normen waaraan schuldhulpverleners voor certificering moeten voldoen (NEN 8048) en de werkwijze voor leden van de NVVK (Vereniging voor schuldhulpverlening en sociaal bankieren). In deze fase probeert de schuldhulpverlener overeenstemming te bereiken met de schuldeisers over het (gedeeltelijk) aflossen van de schulden en eventueel kwijtschelden van het resterende deel. Afhankelijk van het aanbod van de gemeente kan dit plaatsvinden door middel van schuldbemiddeling of schuldsanering. Schuldbemiddeling houdt in dat alle inkomsten boven het zogenaamde vrij te laten bedrag (bedrag waarmee de vaste lasten kunnen worden betaald en om te leven op bijstandsniveau) maandelijks worden gereserveerd en jaarlijks aan de schuldeisers wordt betaald. Bij schuldsanering verstrekt de gemeentelijke kredietbank een saneringskrediet waarmee de schuldeisers het bedrag waarmee ze akkoord zijn gegaan ineens krijgen uitgekeerd. De schuldenaar heeft dan nog één schuldeiser aan wie hij terug moet betalen: de gemeentelijke kredietbank. Over het algemeen duurt een schuldregeling drie jaar waarbij na die periode finale kwijting door de schuldeisers volgt en de schuldenaar met een schone lei verder kan. 
+
+
+2.21
+
+Als niet alle schuldeisers akkoord gaan komt de gemeentelijke schuldregeling niet tot stand. In dit geval biedt artikel 287a Faillissementswet (Fw) de mogelijkheid dat de rechter de redelijkheid van de weigering door de schuldeisers toetst en hen dwingt alsnog mee te werken via een dwangakkoord. Kan geen dwangakkoord tot stand komen dan kan de rechter de schuldenaar onder voorwaarden toelaten tot het schuldsaneringstraject.
+
+Het schuldsaneringstraject 
+
+
+
+
+2.22
+Het schuldsaneringstraject bestaat sinds 1 december 1998 en is opgenomen in de derde titel van de Fw. Dit traject is bedoeld voor natuurlijke personen met problematische schulden die in het minnelijke traject geen regeling hebben kunnen treffen met hun schuldeisers. Artikel 284 lid 1 Fw spreekt net als de memorie van toelichting bij de Wgs van een problematische schuldsituatie indien redelijkerwijs is te voorzien dat een natuurlijke persoon niet zal kunnen voortgaan met het betalen van zijn schulden of indien hij in de toestand verkeert dat hij heeft opgehouden te betalen.
+
+
+2.23
+Artikel 285 lid 1 Fw schrijft voor dat bij de aanvraag een verzoekschrift en een zogenaamde Wsnp-verklaring moeten worden ingediend. De rechter toetst of de schuldenaar aan de toelatingseisen voldoet. Artikel 288 lid 2 Fw noemt een aantal afwijzingsgronden bijvoorbeeld de omstandigheid dat de schuldsaneringsregeling minder dan tien jaar geleden al op de schuldenaar van toepassing is geweest. Bij goedkeuring van het verzoek benoemt de rechter een door hem gekozen rechter-commissaris en bewindvoerder (artikel 287 lid 3 Fw). De rechter-commissaris houdt toezicht op de taakvervulling door de bewindvoerder (artikel 314 lid 1 Fw). 
+
+
+2.24
+Volgens artikel 316 lid 1 Fw is de bewindvoerder belast met het toezicht op de naleving door de schuldenaar van diens verplichtingen die uit de schuldsaneringsregeling voortvloeien en het beheer en de vereffening van de boedel. De Fw noemt een aantal concrete taken die de bewindvoerder in dit kader moet uitvoeren zoals het openen van de aan de schuldenaar gerichte post (artikel 287 lid 5 Fw). De taken zijn verder uitgewerkt in de Recofa-richtlijnen voor schuldsaneringsregelingen (onder meer afleggen huisbezoek openen boedelrekening vaststellen vrij te laten bedrag). De beloning van de bewindvoerder is geregeld in het Besluit vergoeding bewindvoerder schuldsanering en wordt ingevolge artikel 320 lid 7 Fw uit de boedel betaald.
+
+
+2.25
+
+De schuldsaneringsbewindvoerder is geen maatschappelijk werker of andersoortige hulpverlener. Mijn ambtgenoot Van Peursem merkt over de rol van de bewindvoerder in het kader van de schuldsaneringsregeling het volgende op [CE: voetnoten niet opgenomen]:
+“2.7 Wat mag in een dergelijke situatie van de bewindvoerder worden verlangd? In de parlementaire geschiedenis van de schuldsaneringsregeling natuurlijke personen tekenen zich twee uitersten af: een ruime sociaal-maatschappelijke begeleiding van de schuldenaar tegenover een beperkte juridisch-technische begeleiding. Vóór de herziening van de schuldsaneringsregeling in 2008 werd aangenomen dat de bewindvoerder een advies- en bijstandstaak had met betrekking tot budgetbeheer en een doorverwijzingsfunctie wat betreft integrale schuldhulpverlening. […]
+
+
+
+
+2.8
+Bij de herziening van de wettelijke schuldsaneringsregeling in 2008 is opnieuw nagedacht over de vormgeving van de schuldsaneringsregeling in het licht van de psychosociale problemen waar (aspirant) sanieten mogelijk mee te maken kunnen (en nogal eens plegen te) hebben. […]
+
+
+
+2.9
+Na de herziening lijkt de wetgever zodoende duidelijk van een beperktere benadering te zijn uitgegaan. In elk geval is duidelijk dat integrale schuldhulpverlening niet tot de wettelijke taken van de schuldsaneringsbewindvoerder behoort. Maar wat kan qua begeleiding en sturing van de bewindvoerder worden verwacht? Ik denk dat wat precies van een bewindvoerder mag worden verlangd ook (en misschien vooral) wanneer zijn toezichtstaak betrekking heeft op een schuldenaar die kampt met psychische problemen of persoonlijke problematiek steeds zal afhangen van alle bijzondere omstandigheden van het voorliggende geval. […]”
+
+
+2.26
+Door de uitspraak tot toepassing van de schuldsaneringsregeling verliest de schuldenaar de bevoegdheid om feitelijke handelingen en beschikkingshandelingen te verrichten ten aanzien van tot de boedel behorende goederen (artikel 296 lid 1 Fw). De schuldsaneringsregeling wordt gepubliceerd in de Staatscourant en het Centraal Insolventieregister om de schuldeisers op de hoogte te stellen (artikelen 293 lid 1 en 294a Fw). Daarnaast wordt de schuldsaneringsregeling doorgegeven aan de postvervoersbedrijven ten behoeve van de postblokkade (artikel 293 lid 2 Fw). Over het algemeen duurt het wettelijke traject net als het minnelijke traject drie jaar en kan de schuldenaar – als hij zich aan alle verplichtingen houdt – na afloop verder met een schone lei (artikel 349a Fw). 
+
+
+2.27
+
+Het kan voorkomen dat iemand niet wordt toegelaten tot het minnelijke traject en ook niet tot het schuldsaneringstraject bijvoorbeeld vanwege gepleegde fraude. In dat geval kan stabilisatie van de financiële situatie plaatsvinden door het beschermingsbewind budgetbeheer en/of budgetbegeleiding. Ik bespreek de figuur van beschermingsbewind hierna bij de beschermingsmaatregelen. 
+
+Beschermingsmaatregelen
+
+
+
+
+2.28
+
+Het Burgerlijk Wetboek bevat een drietal maatregelen waarmee een meerderjarige die niet zelfstandig zijn eigen belangen kan behartigen vanwege een psychische aandoening een verstandelijke beperking of vergelijkbare omstandigheid kan worden beschermd door de benoeming van een wettelijke vertegenwoordiger die zijn belangen waarneemt. Het gaat om curatele (geregeld in titel 1.16 BW) beschermingsbewind (geregeld in titel 1.19 BW) en mentorschap (geregeld in titel 1.20 BW). Aangezien een curator in feite de werkzaamheden van zowel een beschermingsbewindvoerder als een mentor verricht behandel ik eerst het beschermingsbewind en het mentorschap en daarna de curatele.
+
+Beschermingsbewind
+
+
+
+
+2.29
+Beschermingsbewind is blijkens artikel 1:431 lid 1 onderdeel a BW bedoeld voor meerderjarigen die (tijdelijk) niet in staat zijn hun vermogensrechtelijke belangen ten volle waar te nemen door hun lichamelijke of geestelijke beperking. Met de inwerkingtreding van de Wet wijziging curatele beschermingsbewind en mentorschap op 1 januari 2014 (Wcbm; hierin is een aantal bepalingen van boek 1 BW betrekking hebbend op de curatele beschermingsbewind en mentorschap gewijzigd) zijn verkwisting en het hebben van problematische schulden aan artikel 1:431 lid 1 BW toegevoegd als redenen voor het instellen van een beschermingsbewind (onderdeel b). Een bewind op deze laatste gronden wordt ook wel een ‘schuldenbewind’ genoemd. Uit artikel 1:391 lid 1 BW volgt dat een dergelijk bewind wordt gepubliceerd in het Centraal curatele en bewindsregister. Bewind vanwege lichamelijke of geestelijke beperking kan op verzoek of ambtshalve worden gepubliceerd. 
+
+
+2.30
+De kantonrechter spreekt het bewind uit over één of meer van de goederen en benoemt een (bij voorkeur door de rechthebbende gekozen) bewindvoerder. De bewindvoerder beheert de onder bewind staande goederen en vertegenwoordigt de rechthebbende in en buiten rechte (zie artikelen 1:438 lid 1 en 1:441 lid 1 BW). Het beschermingsbewind heeft blijkens artikel 1:438 BW als gevolg dat de rechthebbende onbevoegd is tot beheer van de onder bewind staande goederen (normale exploitatie van de goederen) en slechts met medewerking van de bewindvoerder of kantonrechter over de goederen kan beschikken (vervreemden of met enig recht verzwaren). 
+
+
+2.31
+Zo snel mogelijk na het instellen van het bewind moet de bewindvoerder een boedelbeschrijving maken en een beheerrekening openen die hij moet gebruiken voor het vervullen van zijn beheertaak (artikel 1:436 leden 1 en 4 BW). Voor de rechthebbende wordt een bankrekening aangehouden waarop de bewindvoerder het leefgeld stort (‘leefgeldrekening’). Een professionele bewindvoerder moet een plan van aanpak maken. Ingeval van problematische schulden moet een aanvullend plan worden gemaakt (zie artikel 5 lid 1 Besluit kwaliteitseisen curatoren beschermingsbewindvoerders en mentoren). De beschermingsbewindvoerder is niet verplicht om betalingsregelingen te treffen met schuldeisers maar het staat hem vrij dit wel te doen. De bewindvoerder heeft op grond van artikel 1:447 lid 1 BW recht op een beloning welke voor rekening van de rechthebbende komt. Voor zover de rechthebbende de kosten niet zelf kan betalen (wat bij een schuldenbewind vaak het geval is) komen die kosten in aanmerking voor vergoeding uit de bijzondere bijstand.
+
+
+2.32
+
+Tot 2015 regelde artikel 1:447 lid 1 BW dat de bewindvoerder 5% van de netto-opbrengst van de onder bewind staande goederen toekwam. In de praktijk werd niet of nauwelijks gebruik gemaakt van deze regeling. De praktijk sloot aan bij de aanbevelingen van het LOVCK&T (Landelijk Overleg Vakinhoud Civiel en Kanton & Toezicht). Assers vermeldt:
+“Indien er evenwel geen goederen waren die vruchten [CE: netto-opbrengsten] voortbrachten maar er slechts inkomen was – bijvoorbeeld een uitkering krachtens een wet (zie in verband met een AWW-uitkering HR 15 januari 1988 NJ 1988/888) – dan was de wettelijke maatstaf voor de beloning wel bijzonder karig. De regeling van art. 1:447 lid 1 BW (oud) werd daarom in de praktijk niet of nauwelijks toegepast; de praktijk bediende zich van de aanbevelingen van het LOVCK&T. Een bezwaar daarvan is evenwel dat deze aanbevelingen voor de individuele kantonrechter niet bindend zijn.”
+
+
+
+2.33
+
+Hoewel vóór 2014 de aanwezigheid van problematische schulden nog niet een wettelijke grond voor het instellen van beschermingsbewind was verzochten mensen die zich in een problematische schuldsituatie bevonden in de praktijk wel zelf om onderbewindstelling. Vanaf de versie van 30 mei 2013 van de aanbevelingen meerderjarigenbewind van het LOVCK&T wordt hulp met schulden als niet binnen de reguliere werkzaamheden van de bewindvoerder vallend aangemerkt waarvoor een additionele beloning kan worden gevraagd:
+“Niet tot de gewone intake werkzaamheden behoren:
+(…)
+werkzaamheden ten behoeve van het stabiliseren van problematische schuldsituaties in het voortraject en in het kader van de toeleiding tot een minnelijke- of wettelijke schuldenregeling.
+(…)
+Voor extra werkzaamheden die niet binnen het tarief vallen dient de bewindvoerder vooraf machtiging te vragen aan de kantonrechter. Deze werkzaamheden worden dan vergoed tegen het uurloon.”
+
+
+
+2.34
+
+Sinds de inwerkingtreding van de Wcbm heeft de bewindvoerder aanspraak op beloning overeenkomstig de regels die bij regeling van de minister van Veiligheid en Justitie zijn vastgesteld (artikel 1:447 lid 1 BW (nieuw)). De Regeling beloning curatoren bewindvoerders en mentoren (Regeling beloning cbm) is per 1 januari 2015 in werking getreden een jaar na de inwerkingtreding van de Wcbm. Voor het jaar 2014 wordt voor de beloning nog gewerkt met de aanbevelingen meerderjarigenbewind van het LOVCK&T waarin sinds de versie van 21 januari 2014 zeer gedetailleerde regels zijn opgenomen. Op basis van die regels kan de bewindvoerder aanspraak maken op een speciale beloning uitgaande van een forfaitair systeem:
+“TARIEF BEHANDELING SCHULDEN DOOR BESCHERMINGSBEWINDVOERDER
+Er geldt een apart beloningstarief voor rechthebbenden met diverse schulden. Van een bewindvoerder wordt verwacht dat hij zich inspant voor de afbetaling van schulden. 
+
+
+
+Maatstaf hierbij is dat de bewindvoerder tekort zou schieten in de zorg van een goed bewindvoerder indien hij de op sanering gerichte werkzaamheden achterwege zou laten (artikel 1:444 BW). De noodzaak van zijn optreden is daarmee gegeven.
+
+
+
+Tot de gewone werkzaamheden van de bewindvoerder behoort het treffen van enkele afbetalingsregelingen bij enkele betalingsachterstanden. Niet meer tot de gewone werkzaamheden van de bewindvoerder behoort het stabiliseren van problematische schuldsituaties in het kader van de toeleiding tot een minnelijke- of wettelijke schuldenregeling. Het hierna vermelde beloningssysteem gaat ervan uit dat de bewindvoerder extra uren in rekening mag brengen indien de rechthebbende zes of meer schuldeisers heeft met wie betalingsregelingen getroffen moeten worden en/of die aanleiding zijn om rechthebbende toe te leiden naar het minnelijk traject dan wel de wettelijke schuldsanering. Hetzelfde geldt voor acties die moeten worden ondernomen bij rechthebbenden die in een onoplosbare schuldensituatie verkeren.
+
+
+
+Omdat zowel het thans gebruikte beloningssysteem als het systeem dat naar verwachting zal worden ingevoerd als de Minister van Veiligheid en Justitie de beloning vaststelt uitgaat van een forfaitair systeem is voor een dergelijk systeem gekozen. Dat legt bewindvoerders de minste extra administratieve verplichtingen op en is door de griffies met de minste extra inspanning te controleren. De tarieven zijn tot stand gekomen door de tariefstructuur over te nemen die in de praktijk van enkele arrondissementen heeft voldaan. Het beloningssysteem sluit verder aan bij de bekende trajecten uit de praktijk (minnelijk traject WSNP onoplosbare schulden) en is dus niet uitsluitend bedoeld voor beschermingsbewinden die na 1 januari 2014 wegens problematische schulden worden uitgesproken. Mogelijk zal de Minister van Veiligheid en Justitie een ander tarief vaststellen dat wel daarbij aansluit. In dat geval vervalt het onderhavige tariefsysteem.
+
+
+
+Het voorgestelde systeem geldt alleen voor schulden die bestaan bij de aanvang van het bewind. Het regelen van schulden die tijdens het bewind ontstaan behoort tot de reguliere taak van de bewindvoerder die in de standaard jaarbeloning is begrepen.
+De beloning per uur wordt berekend door de standaardbeloning per jaar te delen door 16. Curatoren dienen hun jaarbeloning te delen door 24. De op basis van de vermelde uren berekende bedragen zijn zoals alle aanbevolen tarieven exclusief BTW.
+
+
+
+Verzoeken om een hogere beloning worden slechts in uitzonderlijke – te motiveren - gevallen gehonoreerd. In alle gevallen waarin extra uren wegens schulden worden opgenomen dient de rechthebbende die wilsbekwaam is de rekening en verantwoording mede te ondertekenen.
+
+
+
+Het beloningsschema is aldus:
+
+
+
+(1) extra werkzaamheden van de bewindvoerder in het kader van schulden
+De bewindvoerder inventariseert analyseert de schulden en stelt een schuldenoverzicht op. Tot de inwerkingtreding van de Wet wijziging curatele beschermingsbewind en mentorschap – 1 januari 2014 – zijn hiervan uitgesloten schulden uit afbetalingsovereenkomsten (artikel 47 WCK). Indien het totaal van de schulden binnen drie jaar is af te lossen en er sprake is van zes of meer schuldeisers regelt de bewindvoerder dat zelf met de schuldeisers en mag hij éénmalig 6 uur in rekening brengen.
+Bij de rekening en verantwoording over het jaar waarin de bewindvoerder deze beloningscomponent declareert dient hij een kopie van het schuldenoverzicht te voegen waarin hij aangeeft over welke schulden hij met de schuldeisers een betalingsregeling is overeengekomen. Vooraf behoeft geen machtiging voor het regelen van schulden te worden aangevraagd. Een overzicht van alle schulden en de verklaring van de bewindvoerder dat ten aanzien van elke schuld een betalingsregeling met de schuldeiser is overeengekomen als bijlage gevoegd bij de jaarlijkse R&V geeft recht op declaratie van deze beloning.
+
+
+
+(2) toeleiding naar minnelijk traject bij gemeente
+Indien de schulden wegens de beperkte aflossingscapaciteit niet door de bewindvoerder zelf in drie jaar geheel kunnen worden afgelost wordt de toeleiding naar de minnelijke regeling door de gemeente voorbereid. Ondanks de eigen bevoegdheden plegen gemeenten wegens krappe budgetten het voorbereidende werk voorafgaand aan het in behandeling nemen van een aanvraag voor minnelijke regeling van de bewindvoerder te verlangen.
+Ook hier analyseert de bewindvoerder de schulden en stelt hij een schuldenoverzicht op. Hij houdt één of meer gesprekken met de gemeente (aanmeld- intake- en vervolggesprekken). Hiervoor mag éénmalig 2 uur (naast de hiervoor vermelde 6 uur) in rekening worden gebracht op het moment dat de bewindvoerder de rechthebbende bij het intakegesprek met de gemeente begeleidt.
+Bij de rekening en verantwoording vermeldt de bewindvoerder deze speciale beloning en hij voegt bij de rekening en verantwoording een kopie van de uitnodiging voor het intakegesprek bij de gemeente.
+
+
+
+(3) WSNP-traject
+Het WSNP-traject kan op het minnelijk traject bij de gemeente volgen. De zitting op de rechtbank moet worden voorbereid en de bewindvoerder woont de zitting bij. Periodiek verschaft de bewindvoerder de WSNP-bewindvoerder informatie. De bewindvoerder mag voor het bijwonen van de zitting éénmalig 2 uur beloning in rekening worden gebracht. Indien de bewindvoerder op een vervolgzitting op de rechtbank verschijnt mag hij daarvoor nogmaals 2 uur in rekening brengen. Op de rekening en verantwoording over het jaar waarin de rechtszitting voor toelating tot de WSNP heeft plaats gehad vermeldt de bewindvoerder deze speciale beloning apart onder bijvoeging van de oproeping(en) voor de zitting(en) van de rechtbank.
+Hetzelfde geldt de vervolgzittingen.
+
+
+
+(4) onoplosbare schulden
+Er is een problematische schuldenlast die niet in een minnelijk of WSNP-traject kan worden gesaneerd. Rechthebbende voldoet niet aan de voorwaarden om tot deze trajecten te worden toegelaten of is uit de minnelijke regeling gezet dan wel is de WSNP beëindigd zonder schone lei verklaring. Vaak is sprake van sterk wisselende inkomsten. Het werk van de bewindvoerder komt neer op het zoveel mogelijk betalen van vaste lasten en bewaken van de beslagvrije voet.
+Ongeacht het aantal schuldeisers mag per geval 3 uur extra worden gedeclareerd voor het ongedaan maken van een beslag waarbij de beslagvrije voet niet wordt geëerbiedigd of wanneer een opgekomen CJIB-boete dan wel een schuld wegens uitkeringsfraude moet worden geregeld. Dit is een forfaitair bedrag voor alle werkzaamheden die verricht moeten worden om de betreffende kwestie af te handelen.
+Op de rekening en verantwoording maakt de bewindvoerder apart melding van deze beloning onder bijvoeging van een actueel schuldenoverzicht c.q. documenten betreffende de overmatige beslagen (kopie exploten) of CJIB-boetes.”
+
+
+
+2.35
+
+De Regeling beloning cbm kent ook een hogere beloning toe aan een schuldenbewindvoerder: 
+“Artikel 3
+1. De kantonrechter die de bewindvoerder bedoeld in artikel 435 zevende lid van Boek 1 van het Burgerlijk Wetboek benoemt stelt diens beloning vast overeenkomstig het bepaalde in het tweede tot en met vijfde lid.
+2. De jaarbeloning inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing bedraagt:
+a. voor een bewindvoerder € 1.105;
+b. voor een bewindvoerder in een bewind met problematische schulden € 1.430.”
+
+
+
+2.36
+
+In de artikelsgewijze toelichting bij artikel 3 lid 2 onderdeel a Regeling beloning cbm worden de standaardwerkzaamheden van de bewindvoerder als volgt omschreven:
+“Onder de wettelijke taak van een bewindvoerder wordt onder meer begrepen: het beheren van het vermogen het regelen van de financiële huishouding regelmatig contact met rechthebbende contact met mentor contact met instanties (gemeente belastingdienst UWV CJIB) het bijwonen van zittingen van de kantonrechter verstrekken van een maandelijks mutatieoverzicht belastingaangifte over afgelopen kalenderjaar het treffen van enkele afbetalingsregelingen het opmaken en afleggen van rekening en verantwoording. 
+
+
+
+Taak van de bewindvoerder is tevens om de zelfredzaamheid van de rechthebbende te bevorderen voor zover mogelijk; dit is één van de uitgangspunten van de Wet wijziging curatele beschermingsbewind en mentorschap. De bewindvoerder stelt daartoe een plan van aanpak op waarin de wederzijdse afspraken worden neergelegd. Daarin kan bijvoorbeeld staan welke uitgaven de rechthebbende zelf mag doen of wanneer weekgeld in plaats van maandgeld wordt uitgekeerd. (…)”
+
+
+
+2.37
+
+De artikelsgewijze toelichting bij artikel 3 lid 2 onderdeel b Regeling beloning cbm vermeldt over de additionele werkzaamheden van de bewindvoerder ingeval van problematische schulden:
+“Een bewindvoerder kan om een hogere jaarbeloning dan voor een standaardbewind verzoeken indien de rechthebbende ‘problematische schulden’ heeft.
+(…)
+In geval van problematische schulden gaat het in het bijzonder om werkzaamheden ten behoeve van het ongedaan maken van een of meer beslagen waarbij de beslagvrije voet niet wordt geëerbiedigd het stabiliseren van problematische schuldsituaties het toeleiden tot een minnelijke schuldhulpverlening of WSNP en schuldbemiddeling in het kader van artikel 47 van de Wet op het consumentenkrediet (hierna: ‘Wck’). In geval van schuldbemiddeling heeft de bewindvoerder geen aanspraak op een vergoeding conform artikel 48 tweede lid Wck nu hij voor die werkzaamheden reeds wordt beloond als bewindvoerder. 
+
+
+
+Voor de toeleiding naar de schuldhulpverlening stelt de bewindvoerder een schuldenoverzicht op en begeleidt hij de rechthebbende op het intakegesprek bij de gemeentelijke schuldhulpverlener. Voor de toeleiding naar de WSNP verschaft de bewindvoerder informatie aan de WSNP-bewindvoerder en woont hij de toelatingszitting bij. In de aanloop naar de schuldhulpverlening dan wel schuldsanering en ingeval de rechthebbende niet in aanmerking komt voor schuldhulpverlening en/of schuldsanering is het de taak van de bewindvoerder om de situatie te stabiliseren. Dat betekent dat de bewindvoerder de vaste lasten betaalt (huur water energie) de beslagvrije voet bewaakt en de contacten met schuldeisers onderhoudt.
+
+
+
+Het gaat erom dat de bewindvoerder vanwege de problematische schulden extra werkzaamheden verricht. Hoewel de meeste werkzaamheden zich in het eerste jaar zullen voordoen wordt deze jaarbeloning aangehouden totdat er geen problematische schulden meer zijn bijvoorbeeld indien de rechthebbende met een schone lei uit de WSNP komt. Van problematische schulden is zonder meer sprake in geval van:
+–(toeleiding naar) schuldhulpverlening;
+–(toeleiding naar) schuldsanering;
+–onoplosbare schulden.
+(…)”
+
+
+
+2.38
+
+Hoewel de schuldenbewindvoerder in het algemeen niet verplicht is om een betalingsregeling te treffen vermeldt de memorie van toelichting bij de Wcbm dat hij dit wel kan doen:
+“De bewindvoerder is niet verplicht om een betalingsregeling met schuldeisers te treffen. Dit is uitdrukkelijk de taak van schuldhulpverleners (zie het eerdergenoemde wetsvoorstel gemeentelijke schuldhulpverlening) en vloeit voort uit de WSNP. Aangezien deze beide regelingen beperkingen kennen in de termijn en in de personen die in aanmerking komen voor schuldhulpverlening en schuldsanering zullen er altijd personen zijn die problematische schulden hebben maar niet (langer) in aanmerking komen voor schuldhulpverlening of schuldsanering. Het behoort tot de taak van de beschermingsbewindvoerder om te bezien of de rechthebbende in aanmerking kan komen voor schuldhulpverlening of schuldsanering en hem zonodig te begeleiden om aan de daarvoor geldende eisen te voldoen. Indien de rechthebbende geen beroep kan doen op één van beide regelingen staat het zijn bewindvoerder vrij om (…) een betalingsregeling met crediteuren te treffen. De voornaamste taak van een bewindvoerder in een schuldenbewind is het stabiliseren van de financiële situatie.”
+
+
+
+2.39
+
+De memorie van toelichting bij de Wcbm noemt drie situaties waarin beschermingsbewind toegevoegde waarde heeft ten opzichte van het minnelijke schuldhulpverleningstraject (zie 2.10 e.v.) en het schuldsaneringstraject (zie 2.22 e.v.):
+(1) Het beschermingsbewind kan als «vangnet» fungeren voor mensen die niet kunnen worden toegelaten tot de Wsnp bijvoorbeeld omdat de schuldenaar niet te goeder trouw is geweest of omdat de schuldenaar reeds eerder gebruik heeft gemaakt van de schuldsaneringsregeling. Het beschermingsbewind kan dan een wenselijk en noodzakelijk alternatief zijn om de omvang van de problematische schulden te beperken en zo mogelijk te verminderen.
+(2)	Het beschermingsbewind kan voorafgaande aan en tijdens de Wsnp van nut zijn. Omdat een schuldsanering een min of meer technisch-juridische ingreep is in het leven van de betrokkene verdient het vaak aanbeveling dat de situatie van de betrokkene zich eerst stabiliseert voordat een (in beginsel eenmalig) beroep op de Wsnp wordt gedaan. Het per 1 januari 2008 ingevoerde artikel 288 lid 3 Faillissementswet gaat hier ook van uit. Een dergelijke stabilisering kan intreden op basis van een beschermingsbewind. De kans op een succesvol verloop van de schuldsaneringsprocedure wordt dan navenant groter.
+(3)	Beschermingsbewind kan nuttig zijn indien personen niet in aanmerking komen voor het minnelijke schuldhulpverleningstraject bij de gemeente. Gemeenten hebben de mogelijkheid om op basis van vastgesteld beleid een persoon niet in aanmerking te laten komen voor gemeentelijke schuldhulpverlening vanwege fraude of recidive. 
+
+Mentorschap 
+
+
+
+
+2.40
+
+Artikel 1:450 lid 1 BW geeft aan dat mentorschap bedoeld is voor mensen die (tijdelijk) niet in staat zijn hun niet-vermogensrechtelijke belangen waar te nemen door hun lichamelijke of geestelijke beperking. De rechter benoemt ingevolge artikel 1:452 BW tegelijk met of zo snel mogelijk na het instellen van het mentorschap een (bij voorkeur door de betrokkene gekozen) mentor. Het mentorschap heeft tot gevolg dat de betrokkene onbevoegd is rechtshandelingen te verrichten in aangelegenheden betreffende zijn verzorging verpleging behandeling en begeleiding (zie artikel 1:453 BW). Voor deze handelingen treedt de mentor in beginsel als wettelijk vertegenwoordiger op. De mentor heeft een regievoerende en raadgevende taak wat betreft niet-vermogensrechtelijke belangen. In de Regeling beloning cbm wordt het volgende opgemerkt over de taak van de mentor:
+“Een mentor neemt onder meer beslissingen aangaande de verzorging verpleging behandeling en begeleiding van de betrokkene (regiefunctie) keuze van de woonvorm heeft contact met betrokkene zorgaanbieders (wijzigingen zorgplan controle op naleving zorgplan) en met de bewindvoerder.”
+
+
+
+2.41
+
+De mentor mag bij de vervulling van zijn taak noodzakelijk gemaakte kosten aan de betrokkene in rekening brengen en heeft recht op een beloning (artikel 1:460 BW). De beloning is geregeld in de Regeling beloning cbm. Vóór 2015 regelde artikel 1:460 lid 2 BW dat de rechter aan de mentor ten laste van de betrokkene een beloning kon toekennen indien hij zulks redelijk achtte de financiële draagkracht van betrokkene in aanmerking genomen. Na 2015 is de beloning van de mentor geregeld in de Regeling beloning cbm. Net als bij de bewindvoerder komt de beloning voor rekening van de betrokkene die hiervoor bijzondere bijstand kan aanvragen als de betrokkene de kosten niet zelf kan dragen.
+
+Curatele 
+
+
+
+
+2.42
+Curatele is van de drie beschermingsmaatregelen de meest ingrijpende. Waar beschermingsbewind en mentorschap leidt tot handelingsonbevoegdheid van de betrokkene (bijzondere ongeschiktheid ten aanzien van bepaalde rechtshandelingen) leidt de curatele tot de handelingsonbekwaamheid van de betrokkene (in algemene zin ongeschikt rechtshandelingen te verrichten) (artikel 1:381 lid 2 BW). De betrokkene mag in beginsel niet zonder toestemming van de curator rechtshandelingen verrichten. 
+
+
+2.43
+Curatele is bedoeld voor mensen die (tijdelijk) niet in staat zijn hun belangen behoorlijk waar te nemen of hun veiligheid of die van anderen in gevaar brengen als gevolg van hun lichamelijke of geestelijke toestand dan wel gewoonte van drank- en drugsmisbruik en deze belangen niet met een meer passende en minder verstrekkende voorziening kan worden bewerkstelligd (artikel 1:378 lid 1 BW). Tot 2014 was verkwisting een reden om curatele in te stellen. Met de wetswijziging is dit als grond voor beschermingsbewind toegevoegd. De curatele wordt in de Staatscourant bekendgemaakt en ingeschreven in het centraal curatele- en bewindregister (zie artikelen 1:390 en 1:391 BW). 
+
+
+2.44
+Bij het instellen van de curatele wijst de kantonrechter een curator aan (artikel 1:383 lid 1 BW). De curator is de wettelijke vertegenwoordiger van de betrokkene en moet ervoor zorgen dat de vermogensrechtelijke en niet-vermogensrechtelijke belangen van de betrokkene worden beschermd. De werkzaamheden van de curator zijn grotendeels gelijk aan de werkzaamheden van de bewindvoerder en de mentor samen.
+
+
+2.45
+Net als voor de bewindvoerder gold voor de curator tot 2015 dat hem een beloning van 5% van de netto-opbrengst van de door hem beheerde goederen toekwam. Ook voor de beloning van de curator baseerden kantonrechters zich doorgaans op de aanbevelingen van het LOVCK&T.
+
+
+2.46
+
+Per 1 januari 2015 maakt de curator op grond van artikel 1:380 lid 5 BW aanspraak op een beloning overeenkomstig de regels opgenomen in de Regeling beloning cbm. De Regeling beloning cbm kent een hogere beloning toe wanneer sprake is van problematische schulden: 
+“Artikel 2
+1. De kantonrechter die de curator bedoeld in artikel 383 zevende lid van Boek 1 van het Burgerlijk Wetboek benoemt stelt diens beloning vast overeenkomstig het bepaalde in het tweede tot en met vijfde lid.
+2. De jaarbeloning inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing bedraagt:
+a. voor een curator € 1.989;
+b. voor een curator in een curatele met problematische schulden € 2.28150.”
+
+
+
+2.47
+
+In de toelichting op artikel 2 Regeling beloning cbm wordt over de werkzaamheden van de curator opgemerkt: 
+“Lid 2 
+Een curator verricht zowel de werkzaamheden van een bewindvoerder als die van een mentor. Voor een omschrijving van de werkzaamheden van een bewindvoerder en mentor wordt verwezen naar de toelichting bij artikel 3 tweede lid respectievelijk artikel 4 tweede lid.
+De forfaitaire jaarbeloning is inclusief onkostenvergoeding en exclusief BTW.
+Zoals uiteengezet in het algemene deel van deze toelichting is er sprake van efficiencyvoordelen wanneer de functies van bewindvoerder en mentor worden gecombineerd. De efficiencyvoordelen worden in de onderhavige regeling zo meegewogen dat de jaarbeloning van de curator wordt berekend door 90% van de jaarbeloning van de bewindvoerder te vermeerderen met 90% van de jaarbeloning van de mentor.
+Evenals voor de bewindvoerder worden voor de curator twee verschillende categorieën en daaraan gerelateerde forfaitaire jaarbeloningen geïntroduceerd: curatele waarin standaardwerkzaamheden worden verricht (onderdeel a) en curatele waarin sprake is van problematische schulden (onderdeel b). Dit laatste onderdeel zal naar verwachting steeds minder vaak voorkomen vanwege de omzetting van de curatele wegens verkwisting naar beschermingsbewind.
+
+
+
+Lid 2 onderdeel a 
+In dit geval is sprake van standaardwerkzaamheden van een bewindvoerder en van een mentor als omschreven in de toelichting bij artikel 3 tweede lid onderdeel a respectievelijk artikel 4 tweede lid onderdeel a. 
+De jaarbeloning voor standaardwerkzaamheden van een curator is samengesteld uit 90% de jaarbeloning voor standaardwerkzaamheden van 1) een bewindvoerder en 2) een mentor en bedraagt (09 * € 1.105 + 09 * € 1.105 =) € 1.989.
+
+
+
+Lid 2 onderdeel b 
+In dit geval is sprake van werkzaamheden in verband met problematische schulden van een bewindvoerder en standaardwerkzaamheden van een mentor als omschreven in de toelichting bij artikel 3 tweede lid onderdeel b respectievelijk artikel 4 tweede lid onderdeel a. 
+De jaarbeloning van een curator in geval van problematische schulden is samengesteld uit 90% van 1) de jaarbeloning in geval van problematische schulden van een bewindvoerder en 2) de jaarbeloning voor standaardwerkzaamheden van een mentor en bedraagt (09 * € 1.430 + 09 * € 1.105 =) € 2.28150.”
+
+
+
+2.48
+Zowel de professionele beschermingsbewindvoerder als de mentor en de curator moeten sinds 1 april 2014 aan diverse kwaliteitseisen voldoen.
+
+
+2.49
+In onderdeel 3 onderzoek ik of de Btw-richtlijn aanknopingspunten biedt voor de lidstaten om de werkzaamheden van bewindvoering mentorschap en curatorschap maar ook van de buiten de wettelijke beschermingsmaatregelen verrichte werkzaamheden van budgetbeheer en budgetbegeleiding vrij te stellen van btw.
+
+
+
+
+
+3De vrijstelling in de Btw-richtlijn
+Maatschappelijk werk en sociale zekerheid
+
+3.1
+
+In titel 9 van de Btw-richtlijn zijn de vrijstellingen van belasting opgenomen. Het tweede hoofdstuk van deze titel bevat de vrijstellingen voor bepaalde activiteiten van algemeen belang. Voor de zaken van de belanghebbenden is het bepaalde in artikel 132 lid 1 aanhef en onder g) Btw-richtlijn van belang. Ingevolge die bepaling verlenen de lidstaten vrijstelling voor diensten en leveringen van goederen die nauw samenhangen met maatschappelijk werk en sociale zekerheid mits verricht door publiekrechtelijke lichamen of instellingen die als organisatie van sociale aard worden erkend in de betrokken lidstaat. De bepaling luidt als volgt:
+“1. De lidstaten verlenen vrijstelling voor de volgende handelingen:
+(…)
+g. diensten en goederenleveringen welke nauw samenhangen met maatschappelijk werk en met de sociale zekerheid waaronder begrepen die welke worden verricht door bejaardentehuizen door publiekrechtelijke lichamen of door andere organisaties die door de betrokken lidstaat als instellingen van sociale aard worden erkend;”
+
+
+
+3.2
+
+Blijkens artikel 133 Btw-richtlijn kunnen de lidstaten de verlening van de vrijstelling van artikel 132 lid 1 onder g) Btw-richtlijn aan andere dan publiekrechtelijke instellingen van geval tot geval afhankelijk stellen van een of meer van de volgende voorwaarden:
+“(…)
+a) de instellingen mogen niet systematisch het maken van winst beogen; eventuele winsten mogen niet worden uitgekeerd maar moeten worden aangewend voor de instandhouding of verbetering van de diensten die worden verricht;
+
+
+
+b) het beheer en het bestuur van de instellingen moeten in hoofdzaak op vrijwillige basis en zonder vergoeding geschieden door personen die noch zelf noch via tussenpersonen enig rechtstreeks of zijdelings belang hebben bij de resultaten van de werkzaamheden van de instellingen;
+
+
+
+c) de instellingen moeten prijzen toepassen die zijn goedgekeurd door de overheid of prijzen die niet hoger liggen dan de goedgekeurde prijzen of voor handelingen waarvoor geen goedkeuring van prijzen plaatsvindt prijzen die lager zijn dan die welke voor soortgelijke aan de BTW onderworpen handelingen in rekening worden gebracht door commerciële ondernemingen;
+
+
+
+d) de vrijstellingen mogen niet tot verstoring van de mededinging leiden ten nadele van belastingplichtige commerciële ondernemingen.
+(…)”
+
+
+
+3.3
+
+Artikel 134 Btw-richtlijn beperkt de reikwijdte van artikel 132 lid 1 aanhef en onder g) Btw-richtlijn: 
+“Goederenleveringen en diensten zijn in de volgende gevallen van de in artikel 132 lid 1 punten b) g) h) i) l) m) en n) bedoelde vrijstellingen uitgesloten:
+
+
+
+a) wanneer zij niet onontbeerlijk zijn voor het verrichten van de vrijgestelde handelingen;
+
+
+
+b) wanneer zij in hoofdzaak ertoe strekken aan de instelling extra opbrengsten te verschaffen door de uitvoering van handelingen welke worden verricht in rechtstreekse mededinging met aan de BTW onderworpen handelingen van commerciële ondernemingen.”
+
+
+
+3.4
+Artikel 134 Btw-richtlijn heeft geen facultatief karakter zodat deze bepaling de lidstaten niet toestaat de vrijstelling toe te passen als sprake is van de onder a) en/of b) genoemde situaties.
+
+
+3.5
+
+Ik bespreek hierna de twee voorwaarden voor toepassing van artikel 132 lid 1 aanhef en onder g) Btw-richtlijn te weten de prestatie moet (i) naar de aard nauw samenhangen met maatschappelijk werk en met de sociale zekerheid en (ii) worden verricht door een erkende instelling van sociale aard. 
+
+Nauwe samenhang met maatschappelijk werk en sociale zekerheid (eerste voorwaarde)
+
+
+
+
+3.6
+Volgens vaste rechtspraak van het Hof van Justitie moeten de bewoordingen waarin de vrijstellingen van artikel 132 Btw-richtlijn zijn omschreven strikt worden uitgelegd. Deze uitleg moet echter in overeenstemming zijn met de door de vrijstellingen nagestreefde doeleinden en voldoen aan het beginsel van fiscale neutraliteit. De strikte uitleg mag dus niet zover gaan dat de bewoordingen van een bepaling geen effect meer sorteren.
+
+
+3.7
+Artikel 132 lid 1 aanhef en onder g) Btw-richtlijn heeft niet tot doel om alle activiteiten van algemeen belang vrij te stellen maar alleen de activiteiten die daarin worden opgesomd en zeer gedetailleerd worden omschreven. Door deze specifieke diensten van algemeen belang vrij te stellen van btw wordt beoogd de diensten goedkoper en dus toegankelijker te maken voor de particulieren die er recht op hebben. Het commerciële karakter van een activiteit sluit niet uit dat de activiteit ook het karakter van een activiteit van algemeen belang kan hebben.
+
+
+3.8
+Voor diverse vrijstellingen opgenomen in artikel 132 Btw-richtlijn geldt dat niet alleen de daarin genoemde (hoofd)prestatie van algemeen belang is vrijgesteld van belasting maar ook de daarmee nauw samenhangende prestatie. In de tekst van bijvoorbeeld de vrijstelling voor ziekenhuisverpleging van artikel 132 lid 1 aanhef en onder b) Btw-richtlijn worden de (hoofd)prestatie en de nauw samenhangende prestatie afzonderlijk genoemd: “ziekenhuisverpleging en medische verzorging alsmede de handelingen die daarmede nauw samenhangen”. Hetzelfde geldt voor de onderwijsvrijstelling van artikel 132 lid 1 aanhef en onder i) Btw-richtlijn: “onderwijs […] met inbegrip van de diensten en goederenleveringen welke hiermede nauw samenhangen”. De tekst van de hier van belang zijnde vrijstellingsbepaling artikel 132 lid 1 aanhef en onder g) Btw-richtlijn maakt dat onderscheid niet. Die bepaling stelt slechts één soort prestatie vrij te weten: leveringen en diensten die nauw samenhangen met maatschappelijk werk en met de sociale zekerheid. 
+
+
+3.9
+
+Volgens de rechtspraak van het Hof van Justitie moeten daaronder leveringen of diensten worden verstaan die onontbeerlijk zijn voor het verrichten van handelingen op het gebied van maatschappelijk werk en sociale zekerheid. Het Hof van Justitie overweegt in dit verband in Finanzamt D:
+“31 In de eerste plaats zij met betrekking tot de voorwaarde dat de diensten nauw samenhangen met maatschappelijk werk en met de sociale zekerheid opgemerkt dat deze voorwaarde moet worden gelezen in het licht van artikel 134 onder a) van de btw-richtlijn dat hoe dan ook vereist dat de betreffende leveringen van goederen of diensten onontbeerlijk moeten zijn voor het verrichten van de handelingen op het gebied van maatschappelijk werk en sociale zekerheid (zie in die zin arrest van 9 februari 2006 Stichting Kinderopvang Enschede C‑415/04 EU:C:2006:95 punten 24 en 25).”
+
+
+
+3.10
+In Kügler overweegt het Hof van Justitie dat (de voorloper) van artikel 132 lid 1 aanhef en onder g) Btw-richtlijn op voldoende nauwkeurige en onvoorwaardelijke wijze de werkzaamheden vaststelt die voor vrijstelling in aanmerking komen. In zoverre kan een belastingplichtige zich rechtstreeks op de richtlijnbepaling beroepen. 
+
+
+3.11
+De begrippen ‘maatschappelijk werk’ en ‘sociale zekerheid’ worden in de Btw-richtlijn niet gedefinieerd. In artikel 132 lid 1 aanhef en onder g) Btw-richtlijn zelf is wel uitdrukkelijk vermeld dat de diensten die worden verricht door bejaardentehuizen onder de vrijstelling vallen. In zijn rechtspraak heeft het Hof van Justitie de begrippen ‘maatschappelijk werk’ en ‘sociale zekerheid’ ingevuld. Uit die rechtspraak kan onder meer worden afgeleid dat bepaalde activiteiten die verband houden met zorg voor bijstand aan en bescherming van hulpbehoevende meerderjarigen van sociale aard zijn als bedoeld in artikel 132 lid 1 aanhef en onder g) Btw-richtlijn. In Kügler heeft het Hof van Justitie bijvoorbeeld geoordeeld dat algemene verzorging en huishoudelijke hulp die een ambulante verpleegdienst verstrekt aan personen die fysiek of economisch hulpbehoevend zijn in beginsel nauw samenhangen met maatschappelijk werk en met de sociale zekerheid in de zin van deze bepaling. 
+
+
+3.12
+
+In de zaak Finanzambt D heeft het Hof van Justitie geoordeeld dat bijstands- of verzorgingsdiensten niet per se rechtstreeks ten goede behoeven te komen aan de zorgbehoevende om onder de vrijstelling te worden geschaard. De diensten mogen ook aan een ander dan de zorgbehoevende zelf worden verricht als zij maar een onontbeerlijke stap vormen bij de uitvoering van maatregelen op het gebied van maatschappelijk werk en sociale zekerheid. In deze zaak ging het om adviezen die een gediplomeerd verpleegkundige heeft opgesteld over de zorgbehoefte die niet rechtstreeks aan de zorgbehoevenden zelf werden verricht maar aan de medische dienst van een ziektekostenverzekeraar. Het Hof van Justitie overweegt:
+“34 In dit verband is het ten eerste weliswaar juist dat de in artikel 132 lid 1 onder g) van de btw-richtlijn neergelegde vrijstelling onder meer geldt voor bijstands- en verzorgingsdiensten die rechtstreeks ten goede komen aan de personen voor wie de betreffende maatregelen op het gebied van maatschappelijk werk en sociale zekerheid zijn bedoeld – zoals blijkt uit het feit dat in de betreffende bepaling wordt verwezen naar diensten die worden verricht door bejaardentehuizen – maar kunnen noch aan de bewoordingen noch aan de doelstelling van die bepaling aanwijzingen worden ontleend waaruit blijkt dat die vrijstelling niet van toepassing is op diensten die niet rechtstreeks worden verricht ten behoeve van die personen doch even onontbeerlijk zijn voor het verrichten van handelingen op het gebied van maatschappelijk werk en sociale zekerheid. Dat laatste kan het geval zijn bij diensten als die welke in het hoofdgeding aan de orde zijn die het voor de met de uitvoering van die handelingen belaste entiteit mogelijk maken om vast te stellen of de betrokkenen recht hebben op diensten op het gebied van maatschappelijk werk en sociale zekerheid en om op dienstige wijze besluiten ter zake vast te stellen.
+
+
+
+35 Ten eerste wordt namelijk in artikel 132 lid 1 onder g) van de btw-richtlijn gelet op de bewoordingen van deze bepaling geen voorwaarde gesteld die verband houdt met de afnemer van de vrijgestelde handelingen maar wordt belang gehecht aan de intrinsieke aard van die handelingen en aan de hoedanigheid van de ondernemer die de diensten of leveringen in kwestie verricht (zie in die zin arrest van 21 januari 2016 Les Jardins de Jouvence C‑335/14 EU:C:2016:36 punt 46).
+
+
+
+36 Ten tweede pleit – zoals de Duitse regering heeft benadrukt – de doelstelling van de in het hoofdgeding aan de orde zijnde vrijstelling die erin bestaat de in die bepaling bedoelde handelingen goedkoper te maken voor de uitlegging dat de btw-vrijstelling voor diensten als die welke in het hoofdgeding aan de orde zijn niet afhangt van het antwoord op de vraag te wiens behoeve die diensten worden verricht voor zover zij een onontbeerlijke stap vormen bij de uitvoering van maatregelen op het gebied van maatschappelijk werk en sociale zekerheid zodat de onderwerping van die diensten aan de btw noodzakelijkerwijs zou leiden tot een verhoging van de kosten van die handelingen.
+
+
+
+37 Derhalve hoeven diensten die betrekking hebben op het opstellen van adviezen over de zorgbehoefte niet rechtstreeks aan de zorgbehoevenden te worden verleend opdat zij zouden worden geacht nauw samen te hangen met maatschappelijk werk en de sociale zekerheid (zie naar analogie arrest van 14 juni 2007 Horizon College C‑434/05 EU:C:2007:343 punten 31 en 32).”
+
+
+
+3.13
+Voor de beoordeling van de vraag of diensten nauw samenhangen met maatschappelijk werk of sociale zekerheid is op zich niet van belang welk beroep een ondernemer uitoefent. Die omstandigheid kan wel relevant zijn bij de beoordeling van de voorwaarde dat de prestatie moet worden verricht door een erkende instelling van sociale aard de tweede voorwaarde die geldt voor toepassing van artikel 132 lid 1 onder g) Btw-richtlijn (zie 3.5). Bij de beoordeling of aan de eerste voorwaarde is voldaan is - zo is ook in Fianzamt D geoordeeld - de aard van de diensten doorslaggevend. Zo kunnen ook de activiteiten van een advocaat onder het toepassingsbereik van artikel 132 lid 1 aanhef en onder g) Btw-richtlijn vallen als deze maar een onontbeerlijke stap vormen bij de uitvoering van maatregelen op het gebied van maatschappelijk werk en sociale zekerheid. 
+
+
+3.14
+Dit laatste volgt onder meer uit het arrest EQ. In de zaak die tot dat arrest heeft geleid vertegenwoordigt een Luxemburgse advocaat wettelijk handelingsonbekwame meerderjarigen als mandataris curator en voogdijbeheerder. Hij verricht zijn activiteiten voor personen die worden getroffen door een aantasting van hun geestelijke vermogen door ziekte gebrekkigheid of ouderdom in het kader van verschillende beschermingsregelingen die het mogelijk maken de bedoelde personen te adviseren te controleren of te vertegenwoordigen bij burgerlijke handelingen en aan derden bevoegdheden inzake beheer en vertegenwoordiging toe te kennen. Zijn prestaties betreffen onder meer: 1) het afleggen van bezoek aan huis bij de dienstenontvangers om zich van hun welzijn te verzekeren en kennis te nemen van hun behoeften; 2) het onderhouden van contact met het gezin maatschappelijk werkers en zorgpersoneel; 3) het kiezen van de woonplaats; 4) het aanvragen van pensioenen en sociale bijstand; 5) het regelen van thuiszorg en 6) het betalen van facturen het declareren van ziektekosten het verzorgen van de belastingaangifte en het overdragen van geld voor dagelijkse uitgaven. Daarnaast komt het voor dat EQ diensten van juridische aard verricht die niet zijn voorbehouden aan advocaten. Tot slot kunnen de mandaten diensten omvatten die onder de exclusieve bevoegdheid van advocaten vallen. De vergoeding van de dienstverrichter wordt van geval tot geval vastgesteld door een rechterlijke instantie op basis van de vermogenstoestand van de persoon voor wie de maatregel wordt getroffen. De vergoeding wordt niet vooraf vastgesteld en verzekert niet in alle gevallen de dekking van de door deze dienstverrichter gemaakte bedrijfskosten.
+
+
+3.15
+Het Hof van Justitie oordeelt allereerst dat EQ een economische activiteit verricht. De omstandigheden dat (i) de bedoelde activiteit het in het algemeen belang verrichten van bij wet opgedragen en wettelijk geregelde taken betreft (ii) de vergoeding voor de diensten in voorkomende gevallen ten laste van de staat kan komen en (iii) in een aantal gevallen het door de rechter toegekende honorarium niet kostendekkend is doen hieraan niet af. In de zaken van de belanghebbenden is niet in geschil dat de diensten van de belanghebbenden economische activiteiten zijn zodat ik dit onderwerp verder laat rusten.
+
+
+3.16
+Het Hof van Justitie verdeelt de prestaties van EQ vervolgens onder in twee categorieën: (1) diensten in verband met burgerlijke handelingen die betrekking hebben op het beheer van het dagelijkse leven en het vermogen van de hulpbehoevende persoon en (2) meer algemene activiteiten van bijstand of juridisch financieel of ander advies.
+
+
+3.17
+
+De prestaties van de eerste categorie - die ik hierna kortweg ‘beschermingsbeheer(diensten)’ noem - vallen binnen het toepassingsbereik van artikel 132 lid 1 aanhef en onder g) Btw-richtlijn nu deze prestaties volgens het Hof van Justitie nauw samenhangen met maatschappelijk werk en de sociale zekerheid: 
+“62 Hoewel de btw-richtlijn geen definitie bevat van het begrip „maatschappelijk werk en […] sociale zekerheid” dat met name in artikel 132 lid 1 onder g) ervan wordt gebruikt heeft het Hof reeds geoordeeld dat algemene verzorging en huishoudelijke hulp welke een ambulante verpleegdienst verstrekt aan personen die fysiek of economisch hulpbehoevend zijn in beginsel nauw samenhangen met maatschappelijk werk en met de sociale zekerheid in de zin van deze bepaling (zie in die zin arrest van 10 september 2002 Kügler C‑141/00 EU:C:2002:473 punt 44).
+
+
+
+63 Dat geldt ook voor diensten die worden verricht ten behoeve van personen in een situatie van mentale hulpbehoevendheid en ertoe strekken hen te beschermen bij burgerlijke handelingen wanneer deze personen hier zelf niet in kunnen voorzien zonder het risico te lopen dat hun eigen financiële of andere belangen worden geschaad welk risico juist de vaststelling van hun wettelijke handelingsonbekwaamheid heeft gerechtvaardigd.
+
+
+
+64 Zoals ook de advocaat-generaal in wezen heeft opgemerkt in de punten 63 en 64 van zijn conclusie zijn dergelijke diensten immers onontbeerlijk om hen te beschermen tegen handelingen die schadelijk kunnen zijn voor hen of zelfs de waardigheid van hun bestaan in gevaar kunnen brengen aangezien zij ertoe strekken een dergelijk risico tegen te gaan door het mogelijk te maken de alledaagse activiteiten van deze personen daaronder begrepen die van financiële aard met de nodige voorzichtigheid te beheren.
+
+
+
+65 Bijgevolg vallen diensten die worden verricht ten behoeve van wettelijk handelingsonbekwame meerderjarigen en ertoe strekken hen te beschermen bij burgerlijke handelingen onder het begrip „diensten die nauw samenhangen met maatschappelijk werk en met de sociale zekerheid” in de zin van artikel 132 lid 1 onder g) van de btw-richtlijn.”
+
+
+
+3.18
+
+De meer algemene activiteiten van bijstand of juridisch financieel of ander advies zoals die welke verband kunnen houden met de specifieke bevoegdheden van een advocaat financieel adviseur of vastgoedmakelaar zijn niet vrijgesteld zelfs niet wanneer deze prestaties worden verricht in het kader van de vertegenwoordiging van de hulpbehoevende persoon:
+“66 Wanneer dergelijke diensten echter worden verricht door een dienstverrichter die in het kader van de in punt 60 van het onderhavige arrest bedoelde mandaten ook meer algemene activiteiten van bijstand of juridisch financieel of ander advies verricht zoals die welke verband kunnen houden met de specifieke bevoegdheden van een advocaat financieel adviseur of vastgoedmakelaar moet worden gepreciseerd dat de in het kader van deze laatste activiteiten verrichte diensten in beginsel niet onder de in artikel 132 lid 1 onder g) van de btw-richtlijn bedoelde vrijstelling vallen zelfs indien die activiteiten worden verricht in het kader van bijstand aan een persoon die wettelijk handelingsonbekwaam is. Gelet op de strikte uitlegging die aan deze vrijstelling moet worden gegeven kunnen dergelijke handelingen immers niet geacht onontbeerlijk en nauw verbonden met maatschappelijk werk te zijn.”
+
+
+
+3.19
+
+Het uitsluiten van die ‘meer algemene activiteiten’ van de vrijstelling is volgens het Hof van Justitie in lijn met het beginsel van fiscale neutraliteit. Het Hof verwijst naar het bepaalde in artikel 134 onder b) Btw-richtlijn:
+“67 Deze vaststelling is overigens ook geboden op met het oog op de naleving van het beginsel van fiscale neutraliteit dat specifiek uitdrukking vindt in artikel 134 onder b) van de btw-richtlijn en zich ertegen verzet dat soortgelijke diensten die dus met elkaar concurreren uit het oogpunt van de btw ongelijk worden behandeld (zie in die zin arrest van 4 mei 2017 Brockenhurst College C699/15EU:C:2017:344 punt 35). Dit beginsel zou worden geschonden indien wanneer met een beschermingsmandaat belaste dienstverrichters als die welke in het hoofdgeding aan de orde zijn niet alleen handelingen verrichten die inherent zijn aan de bescherming van personen die wettelijk handelingsonbekwaam zijn maar ook handelingen die soortgelijk zijn aan die welke buiten dergelijke mandaten worden verricht deze laatste handelingen van de btw zouden worden vrijgesteld op de enkele grond dat zij worden verricht in het kader van het uitvoeren van dergelijke mandaten.”
+
+
+
+3.20
+Het Hof van Justitie hanteert in navolging van A-G Pitruzzella dus een strikte scheiding tussen de belaste en vrijgestelde diensten van de advocaat financieel adviseur of andere dienstverrichter. Voor zover het gaat om beschermingsbeheerdiensten (zie 3.16 en 3.17: diensten in verband met burgerlijke handelingen die betrekking hebben op het beheer van het dagelijkse leven en het vermogen van een persoon die niet in staat is zelfstandig zijn eigen belangen te behartigen zonder het risico te lopen dat zijn eigen financiële of andere belangen worden geschaad) worden deze diensten beschouwd als nauw samenhangend met maatschappelijk werk en met de sociale zekerheid in de zin van artikel 132 lid 1 onder g) Btw-richtlijn. Dergelijke diensten voldoen aan de ‘onontbeerlijkheidstoets’. De meer algemene activiteiten van bijstand of juridisch financieel of ander advies vallen niet onder het toepassingsbereik van de richtlijnbepaling.
+
+
+3.21
+Uit het voorgaande volgt dat de lidstaten een vrijstelling van btw moeten verlenen voor diensten die onontbeerlijk zijn voor het verrichten van handelingen op het gebied van maatschappelijk werk en sociale zekerheid. De lidstaten hebben niet de bevoegdheid de begrippen maatschappelijk werk of sociale zekerheid zelf in te vullen. Wel mogen de lidstaten voor niet-publiekrechtelijke lichamen regels stellen met betrekking tot de erkenning als instelling van sociale aard waarover hierna meer en voorwaarden als bedoeld in artikel 133 Btw-richtlijn. 
+
+
+
+Erkende instelling van sociale aard (tweede voorwaarde)
+
+
+
+
+3.22
+Om voor de vrijstelling van artikel 132 lid 1 onder g) Btw-richtlijn in aanmerking te komen moet de nauw met maatschappelijk werk en met de sociale zekerheid samenhangende dienst worden verricht door een publiekrechtelijk lichaam of door een organisatie die door de lidstaat als instelling van sociale aard is erkend. De term ‘organisatie’ is ruim genoeg om niet alleen rechtspersonen te omvatten maar ook particuliere entiteiten met een winstoogmerk daaronder begrepen natuurlijke personen die een onderneming exploiteren.
+
+
+3.23
+Nu de Btw-richtlijn niet aangeeft hoe de erkenning dient plaats te vinden is het aan de nationale lidstaten te bepalen volgens welke regels dergelijke organisaties kunnen worden erkend. De lidstaten hebben hierbij een beoordelingsbevoegdheid. Zolang de lidstaten de grenzen van hun beoordelingsbevoegdheid eerbiedigen kunnen belastingplichtigen niet op basis van artikel 132 lid 1 onder g) Btw-richtlijn de erkenning als organisatie van sociale aard afdwingen. Andersom kunnen zij dat wel als een lidstaat die grenzen overschrijdt.
+
+
+3.24
+Ingeval een belastingplichtige verzoekt te worden erkend als instelling van sociale aard en de bevoegde autoriteit weigert de erkenning dan moeten de nationale rechterlijke instanties onderzoeken of de bevoegde instanties de grenzen van hun beoordelingsbevoegdheid hebben geëerbiedigd door te toetsen of aan de beginselen van Unierecht en met name het gelijkheidsbeginsel is voldaan. Als de grenzen zijn overschreden moet de rechter de erkenning als instelling van sociale aard verlenen.
+
+
+3.25
+Uit vaste rechtspraak van het Hof van Justitie volgt dat de nationale rechter diverse factoren in aanmerking kan nemen bij de beoordeling van de sociale aard van een instelling: het bestaan van specifieke bepalingen – ongeacht of het gaat om nationale of regionale bepalingen om wettelijke of bestuursrechtelijke bepalingen om fiscale voorschriften of voorschriften op het gebied van de sociale zekerheid – alsook het feit dat de activiteiten van de betrokken belastingplichtige het algemeen belang dienen het feit dat andere belastingplichtigen die dezelfde activiteiten verrichten reeds een soortgelijke erkenning hebben verkregen en het feit dat de kosten van de prestaties in kwestie mogelijkerwijs grotendeels worden gedragen door ziekenfondsen of andere socialezekerheidsinstellingen met name wanneer particuliere ondernemers contractuele betrekkingen met die instellingen onderhouden.
+
+
+3.26
+
+In Ordre des barreaux heeft het Hof van Justitie de vraag beantwoord of de diensten van advocaten verleend in het kader van een nationaal stelsel van rechtsbijstand onder de vrijstelling van artikel 132 lid 1 aanhef en onder g) Btw-richtlijn kunnen vallen. Onder verwijzing naar het arrest Commissie/Frankrijk waarin het verlaagde tarief van Bijlage III punt 15 Btw-richtlijn (levering van goederen en diensten door organisaties die door de lidstaten als liefdadige instellingen zijn erkend en die betrokken zijn bij activiteiten op het gebied van bijstand en sociale zekerheid voor zover deze handelingen niet krachtens de artikelen 132 135 en 136 vrijgesteld zijn) centraal stond benadrukt het Hof van Justitie dat voor toepassing van de vrijstelling van artikel 132 lid 1 onder g) Btw-richtlijn een dubbele voorwaarde geldt: de prestaties moeten van sociale aard zijn én de instelling moet worden erkend als instelling van sociale aard. Dat een instelling (ook) sociale prestaties verricht maakt de instelling niet meteen een instelling van sociale aard. Bij de beoordeling van de sociale aard van de instelling moet rekening worden gehouden met de doelstellingen die de instelling globaal beschouwd nastreeft en met de duurzaamheid van haar ‘sociaal engagement’. Het Hof van Justitie overweegt onder meer:
+“62 Bijgevolg heeft het Hof geoordeeld dat een lidstaat niet louter op basis van een beoordeling van de aard van de diensten die worden verricht door particuliere entiteiten met een winstoogmerk een verlaagd btw-tarief mag toepassen op deze diensten zonder rekening te houden met inzonderheid de doelstellingen die deze entiteiten globaal beschouwd nastreven en met de duurzaamheid van hun sociaal engagement. Gelet op haar algemene doelstellingen en op het ontbreken van enige duurzaamheid in haar eventuele sociale engagement kan de beroepsgroep van advocaten en procureurs in het algemeen niet worden aangemerkt als een liefdadige instelling (zie in die zin arrest van 17 juni 2010 Commissie/Frankrijk C492/08 EU:C:2010:348 punten 45 en 46).
+
+
+
+63 Deze rechtspraak geldt mutatis mutandis voor de vrijstelling waarin artikel 132 lid 1 onder g) van richtlijn 2006/112 voorziet aangezien de toepassing daarvan niet alleen onderworpen is aan een voorwaarde inzake de sociale aard van de desbetreffende diensten – die nauw moeten samenhangen met maatschappelijk werk en met de sociale zekerheid – maar tevens beperkt is tot diensten die worden verricht door organisaties die worden erkend als instellingen van sociale aard.”
+
+
+
+3.27
+
+Het Hof van Justitie heeft dit oordeel herhaald in punt 72 van EQ:
+“72 In casu moet gelet op de vragen van de verwijzende rechter ten eerste worden benadrukt dat de toepassing van de vrijstelling van artikel 132 lid 1 onder g) van de btw-richtlijn niet alleen is onderworpen aan een voorwaarde inzake de sociale aard van de betrokken diensten maar bovendien – zoals in punt 58 van het onderhavige arrest in herinnering is gebracht – beperkt is tot diensten verricht door organisaties die als instellingen van sociale aard zijn erkend. Het zou onverenigbaar zijn met deze dubbele voorwaarde wanneer het lidstaten vrij zou staan om particuliere entiteiten met winstoogmerk aan te merken als instellingen van sociale aard louter omdat deze entiteiten ook diensten van sociale aard verrichten (zie in die zin arrest van 28 juli 2016 Ordre des barreaux francophones et germanophone e.a. C‑543/14 EU:C:2016:605 punten 61 en 63).” 
+
+
+
+3.28
+
+Dit betekent echter niet dat bepaalde belastingplichtigen a priori kunnen worden uitgesloten van de vrijstelling omdat zij tot een bepaalde beroepsgroep behoren. Uit EQ volgt dat de lidstaten bij de beoordeling of een instelling van sociale aard is de concrete omstandigheden van het geval in aanmerking moeten nemen: 
+“76 Ten derde is de door de dienstverrichter gekozen exploitatievorm weliswaar niet irrelevant voor de erkenning van een dienstverrichter als instelling van sociale aard aangezien hij niet onverenigbaar mag blijken te zijn met de kwalificatie als „instelling van sociale aard” maar dat neemt niet weg dat de lidstaten een dergelijke erkenning niet kunnen weigeren zonder nauwkeurig onderzoek van de concrete omstandigheden van het geval teneinde na te gaan of die omstandigheden de sociale aard van de door een dergelijke dienstverrichter geëxploiteerde onderneming kunnen aantonen en dat indien deze sociale aard bewezen is en voor zover deze dienstverrichter diensten verricht die nauw verbonden zijn met maatschappelijk werk en met de sociale zekerheid zij bijgevolg vallen onder de vrijstelling van artikel 132 lid 1 onder g) van de btw-richtlijn.”
+
+
+
+3.29
+
+In een dergelijk geval geeft de algemene doelstelling van de beroepsgroep dus niet de doorslag maar enkel de omstandigheid dat de dienstverrichter blijk geeft van een duurzaam sociaal engagement: 
+“79 Ook al kan de beroepsgroep van advocaten in haar algemeenheid niet worden geacht een sociaal karakter te hebben is het immers niet uitgesloten dat in een concreet geval een advocaat die diensten verricht die nauw samenhangen met maatschappelijk werk en met de sociale zekerheid blijk geeft van een duurzaam sociaal engagement en zich gelet op de elementen die in aanmerking moeten worden genomen om de sociale aard van zijn onderneming aan te tonen zich alleen onderscheidt van andere natuurlijke of rechtspersonen die dergelijke diensten verrichten doordat hij als advocaat bij de balie is ingeschreven.
+
+
+
+80 In een dergelijk geval is de enkele hoedanigheid van advocaat van de dienstverrichter een louter formeel element dat geen afbreuk kan doen aan de sociale aard van zijn onderneming.”
+
+
+
+
+3.30
+
+Hoe de beoordeling van ‘duurzaam sociaal engagement’ in het geval van EQ moet plaatsvinden zet het Hof van Justitie in de punten 82 e.v. van zijn arrest:
+“81. Het staat derhalve aan de verwijzende rechter om gelet op alle andere relevante omstandigheden van het bij hem aanhangige geding te onderzoeken of het Groothertogdom Luxemburg de grenzen van zijn beoordelingsbevoegdheid heeft overschreden door niet te voorzien in de mogelijkheid voor een dienstverrichter die zich in een situatie als die van verzoeker in het hoofdgeding bevindt om voor zijn onderneming te worden erkend als instelling van sociale aard. Alleen indien deze lidstaat deze grenzen heeft overschreden staat het aan de verwijzende rechter om zelf een dergelijke erkenning te verlenen voor de periode die in het hoofdgeding aan de orde is door in voorkomend geval de materiële of procedurele bepalingen van nationaal recht die zich tegen die verlening verzetten buiten toepassing te laten.
+
+
+
+82 Om de verwijzende rechter een nuttig antwoord te geven moet worden opgemerkt dat onder voorbehoud van verificatie door deze rechter een aantal gegevens in het dossier waarover het Hof beschikt in zekere mate relevant lijken te zijn voor het onderzoek of verzoeker in het hoofdgeding ondanks zijn hoedanigheid van advocaat blijk heeft gegeven van een duurzaam sociaal engagement in het kader van de exploitatie van zijn onderneming tijdens de in het hoofdgeding aan de orde zijnde periode.
+
+
+
+83 In dit verband kan de omstandigheid in aanmerking worden genomen dat de betrokkene zijn handelingen waarvan in elk geval een deel van sociale aard lijkt te zijn heeft verricht in het kader van beschermingsmandaten die hem krachtens de diverse beschermingsregelingen waarin het Luxemburgse recht voorziet zijn toevertrouwd door een rechterlijke autoriteit die overigens toezicht uitoefent op de uitvoering ervan. Een dergelijke omstandigheid wijst er immers niet alleen op dat de betrokken dienstverrichter verplicht is deze handelingen te verrichten overeenkomstig de specifieke wettelijke bepalingen die dienaangaande in het Luxemburgse recht zijn vastgesteld maar ook dat hij pas kan optreden nadat de bevoegde rechterlijke autoriteit een uitdrukkelijke beslissing heeft genomen om de personen aan te wijzen die belast zijn met het verrichten van de diensten op het gebied van maatschappelijk werk en de sociale zekerheid.
+
+
+
+84 Voorts kan het eveneens relevant zijn dat de vergoeding voor de betrokken handelingen steeds wordt vastgesteld onder toezicht van deze rechterlijke autoriteit (zie in die zin arrest van 21 januari 2016 Les Jardins de Jouvence C‑335/14 EU:C:2016:36 punt 38) en dat deze vergoeding in geval van behoeftigheid van de begunstigde door de staat ten laste kan worden genomen.
+
+
+
+85 Tevens zij eraan herinnerd dat het Hof met betrekking tot het geval van een verpleegster met een eenmanszaak die zich beriep op de vrijstelling van artikel 132 lid 1 onder g) van de btw-richtlijn reeds heeft geoordeeld dat een lidstaat in beginsel zonder de grenzen van de hem in dat verband verleende beoordelingsbevoegdheid te overschrijden kan eisen dat de medische en farmaceutische kosten van een dergelijke belastingplichtige in ten minste twee derde van de gevallen geheel of gedeeltelijk worden gedragen door de wettelijke socialezekerheidsinstellingen en instellingen voor maatschappelijk werk opdat deze dienstverrichter erkend kan worden als instelling van sociale aard (zie naar analogie arrest van 15 november 2012 Zimmermann C‑174/11 EU:C:2012:716 punten 10 en 35‑37).
+
+
+
+86 Evenzo staat niets eraan in de weg dat de betrokken lidstaat de toekenning van een dergelijke erkenning afhankelijk stelt van de voorwaarde dat de dienstverrichter daartoe bepaalde procedurele stappen neemt aangezien dergelijke stappen de betrokken autoriteiten in staat kunnen stellen om na te gaan of deze dienstverrichter een sociaal karakter heeft. Het Luxemburgse recht lijkt geen dergelijke stappen voor te schrijven voor de vrijstelling waarin de nationale bepaling tot omzetting van artikel 132 lid 1 onder g) van de btw-richtlijn voorziet hetgeen evenwel aan de verwijzende rechter staat om na te gaan.
+
+
+
+87 Bij de toepassing van dergelijke voorwaarden moet echter het beginsel van fiscale neutraliteit in acht worden genomen. Derhalve moet in het hoofdgeding worden nagegaan of andere belastingplichtigen waaronder verenigingen zonder winstoogmerk in soortgelijke omstandigheden als de situatie van verzoeker in het hoofdgeding reeds een dergelijke erkenning genieten. Daarover hebben verzoeker in het hoofdgeding en de Luxemburgse regering in hun schriftelijke antwoorden op de vragen van het Hof uiteenlopende standpunten ingenomen.” 
+
+
+
+3.31
+De beoordeling van het sociale karakter van de instelling lijkt daarbij niet helemaal los te staan van de activiteiten van de instelling. 
+
+
+3.32
+
+De Redactie Vakstudie Nieuws leidt uit EQ af dat het begrip ‘erkende instellingen’ eigenlijk geen enkele betekenis meer heeft: 
+“Wij leiden uit de overwegingen over erkende instellingen af dat deze term eigenlijk geen enkele betekenis meer heeft. Het gaat om de dienst en niet om de uitvoerder van de dienst. Iedere ondernemer (belastingplichtige) die diensten verricht die vallen binnen de reikwijdte van de vrijstelling voor sociaal en maatschappelijk werk (of een andere vrijstelling waarin deze term voorkomt) wordt in zoverre als een dergelijke instelling erkend. De erkenning volgt de dienst en niet andersom. Zo hoort het ook in een objectieve belasting zoals de BTW. Wij hopen dat over dit onderwerp geen vragen meer worden gesteld aangezien het nu wel duidelijk is. De erkenning is eigenlijk geen echte voorwaarde of horde meer. Uiteraard moet wel aan de materiële voorwaarden van de vrijstelling worden voldaan.”
+
+
+
+3.33
+Uit de punten 72 en 81 e.v. van het arrest EQ wordt in mijn optiek duidelijk dat deze bewering niet juist is. De erkenning van de sociale aard van de instelling is wel degelijk een Unierechtelijke voorwaarde voor de toepassing van de vrijstelling. Een lidstaat kan dus voorwaarden stellen die verband houden met de wijze waarop een belastingplichtige zijn activiteiten inricht. 
+
+
+3.34
+
+Overigens liep er tot voor kort nog een zaak bij het Hof van Justitie naar aanleiding van prejudiciële vragen gesteld door het Oostenrijkse Verwaltungsgerichtshof over de uitleg van artikel 132 lid 1 onder g) Btw-richtlijn bij het Hof van Justitie (C-1/20 (B)). Net als in de zaak EQ heeft de verwijzende rechter in die zaak de vraag gesteld of de activiteiten van een advocaat in het kader van de vertegenwoordiging van handelingsonbekwame meerderjarigen onder de vrijstelling vallen. Naar aanleiding van het arrest in de zaak EQ heeft de verwijzende rechter deze vragen ingetrokken.
+
+Resumé
+
+
+
+
+3.35
+Een prestatie valt onder het toepassingsbereik van artikel 132 lid 1 aanhef en onder g) Btw-richtlijn indien die prestatie (i) naar de aard nauw samenhangt met maatschappelijk werk en met de sociale zekerheid en (ii) wordt verricht door een instelling van sociale aard. 
+
+
+3.36
+Wat voorwaarde (i) betreft moet het gaan om diensten die onontbeerlijk zijn voor het verrichten van handelingen op het gebied van maatschappelijk werk en sociale zekerheid. Zogenoemde beschermingsbeheerdiensten (zie 3.16 en 3.17) kunnen als zodanig worden beschouwd. De lidstaten hebben niet de vrijheid de begrippen ‘maatschappelijk werk’ en ‘sociale zekerheid’ in te vullen. 
+
+
+3.37
+Aan voorwaarde (ii) is voldaan indien de prestatie wordt verricht door publiekrechtelijke lichamen of door andere organisaties die door de betrokken lidstaat als instelling van sociale aard is erkend. Het is aan de lidstaten gelaten de erkenningsregels te bepalen voor niet-publiekrechtelijke lichamen. Zij beschikken over een zekere beoordelingsbevoegdheid. Bij de beoordeling van de sociale aard van de instelling moet met name rekening worden gehouden met ‘de duurzaamheid van het sociaal engagement’ van de dienstverrichter. Overtreedt een lidstaat de beoordelingsbevoegdheid dan kan de nationale rechter de erkenning van de sociale aard verlenen. 
+
+
+3.38
+In het volgende hoofdstuk licht ik toe hoe Nederland voor zover hier van belang invulling heeft gegeven aan de vrijstelling voor maatschappelijk werk en de sociale zekerheid.
+
+
+
+
+
+4De Nederlandse implementatie van artikel 132 lid 1 onder g) Btw-richtlijn 
+De vrijstelling in de Wet OB
+
+4.1
+
+In artikel 11 lid 1 aanhef en onderdeel f Wet OB is de zogenoemde sociaal-culturele vrijstelling opgenomen: 
+“1. Onder bij algemene maatregel van bestuur vast te stellen voorwaarden zijn van de belasting vrijgesteld:
+(…)
+f. de bij algemene maatregel van bestuur aan te wijzen leveringen en diensten van sociale of culturele aard mits de ondernemer geen winst beoogt en niet een verstoring van concurrentieverhoudingen optreedt ten opzichte van ondernemers die winst beogen;”
+
+
+
+4.2
+
+Artikel 11 lid 2 Wet OB luidt als volgt: 
+“2. De nauw samenhangende leveringen en diensten bedoeld in het eerste lid aanhef en onderdelen c e o en t zijn van de vrijstelling uitgesloten wanneer zij:
+
+
+
+a. niet onontbeerlijk zijn voor het verrichten van de vrijgestelde handelingen; of
+
+
+
+b. in hoofdzaak ertoe strekken aan de instelling extra opbrengsten te verschaffen door de uitvoering van handelingen welke worden verricht in rechtstreekse mededinging met aan de heffing van belasting onderworpen handelingen van commerciële ondernemingen.” 
+
+
+
+4.3
+In deze laatste bepaling wordt niet verwezen naar artikel 11 lid 1 aanhef en onderdeel f Wet OB. 
+
+
+4.4
+
+De sociaal-culturele vrijstelling is uitgewerkt in het Uitvoeringsbesluit omzetbelasting 1968 (hierna: Uitv.besl. OB). Artikel 7 lid 1 Uitv.besl. OB wijst als leveringen en diensten van sociale of culturele aard aan de in bijlage B bij het Uitvoeringsbesluit genoemde leveringen en diensten: 
+“1. Als leveringen en diensten van sociale of culturele aard als bedoeld in artikel 11 eerste lid onderdeel f van de wet worden aangewezen de leveringen en diensten genoemd in de bij dit besluit behorende bijlage B.”
+
+
+
+4.5
+
+Voor de onderhavige zaken zijn de posten b.29 en b.33 van bijlage B bij het Uitv.besl. OB van belang. Deze posten noemen de volgende leveringen en diensten: 
+“b. De leveringen en diensten als bedoeld in artikel 7 van het besluit die als zodanig worden verricht door de hierna genoemde instellingen:
+(…)
+29. instellingen voor algemeen maatschappelijk en bedrijfsmaatschappelijk werk;
+(…)
+33. instellingen die werkzaam zijn op het gebied van schuldhulpverlening met uitzondering van bewindvoering in het kader van de wettelijke schuldregeling voorzover de diensten niet reeds kunnen worden gerangschikt onder artikel 11 eerste lid onderdeel j van de wet;”
+
+
+
+4.6
+Door in artikel 11 lid 1 aanhef en onderdeel f Wet OB de voorwaarden op te nemen dat de ondernemer geen winst beoogt en niet een verstoring van concurrentieverhoudingen optreedt ten opzichte van ondernemers die winst beogen heeft de Nederlandse wetgever gebruik gemaakt van de bevoegdheid die artikel 133 aanhef en onder a) en d) Btw-richtlijn de lidstaten biedt. 
+
+
+4.7
+
+Uit de algemene aantekening bij Bijlage B bij het Uitv.besl. OB volgt echter dat de in artikel 11 lid 1 aanhef en onderdeel f Wet OB opgenomen voorwaarde dat instellingen niet het systematisch maken van winst mogen beogen onder meer niet geldt voor de instellingen genoemd in de posten b.29 en b.33 van Bijlage B: 
+“Algemene aantekening
+(…)
+De in onderdeel b bedoelde instellingen behoudens die bedoeld in de posten 9 voor zover betrekking hebbend op wijkverpleging 12 voor zover betrekking hebbend op gehandicapten die beschikken over een indicatiebesluit waaruit blijkt dat zij recht hebben op de daar bedoelde diensten 15 onder a 20 29 30 en 33 van onderdeel b mogen niet systematisch het maken van winst beogen en zo er wel winst wordt gemaakt mogen zij deze niet uitkeren maar moet die winst worden aangewend voor de instandhouding of verbetering van de leveringen en diensten die worden verleend.
+(…)”
+
+
+
+4.8
+Dat staat Nederland in mijn optiek vrij. Het begrip ‘andere organisaties die door de betrokken lidstaat als instellingen van sociale aard worden erkend’ in artikel 132 lid 1 onder g) Btw-richtlijn sluit een instelling met een winstoogmerk niet van de vrijstelling uit.
+
+
+4.9
+Voor de instellingen als bedoeld in post b.29 en b.33 en trouwens ook de andere instellingen die onder een in bijlage B onderdeel b bij het Uitv.besl. OB opgenomen post vallen geldt bovendien niet de in artikel 11 lid 1 aanhef en onderdeel f Wet OB genoemde voorwaarde dat niet een verstoring van concurrentieverhoudingen optreedt ten opzichte van ondernemers die winst beogen. Dat kan worden afgeleid uit artikel 11 lid 8 (tot 1 januari 2019: lid 6) Wet OB in samenhang met artikel 6b Uitvoeringsbeschikking OB en de parlementaire toelichting bij die bepalingen.
+
+
+4.10
+
+Artikel 11 lid 8 Wet OB regelt dat bepaalde in een ministeriële regeling aan te wijzen leveringen of diensten zijn uitgezonderd van de vrijstelling om te voorkomen dat concurrentievervalsing optreedt:
+“Tot de leveringen of diensten bedoeld in het eerste lid onderdelen f g onder 2° en onder 3° t u of v behoren niet de bij ministeriële regeling in verband met het voorkomen van een verstoring van concurrentieverhoudingen aan te wijzen leveringen of diensten.”
+
+
+
+4.11
+
+De bedoelde ministeriele regeling is de Uitvoeringsbeschikking omzetbelasting 1968 (Uitv.besch. OB). Artikel 6b luidt als volgt (cursivering CE):
+“Tot de leveringen en diensten bedoeld in artikel 11 eerste lid onderdeel f van de wet behoren niet behoudens voor zover in bijlage B bij het besluit anders is bepaald:
+a. het verstrekken van spijzen en dranken;
+b. het verrichten van onderzoek;
+c. het ter beschikking stellen van personeel;
+d. het verzorgen van loon- en salarisadministraties financiële administraties en grootboekadministraties.”
+
+
+
+4.12
+
+Artikel 11 lid 8 (destijds lid 6) en artikel 6b Uitv.besch. OB zijn op 1 januari 2016 ingevoerd. Uit de parlementaire toelichting bij artikel 11 lid 8 volgt dat geen inhoudelijke wijziging is beoogd (CE: voetnoot niet opgenomen):
+“Artikel VI onderdelen A en B (artikelen 8 en 11 van de Wet op de omzetbelasting 1968)
+Voor een aantal vrijstellingen van artikel 11 van de Wet op de omzetbelasting 1968 (Wet OB 1968) geldt de voorwaarde dat de toepassing van de vrijstelling niet tot een ernstige concurrentievervalsing mag leiden. Hierbij gaat het in het eerste lid van dat artikel om de sociaal-culturele vrijstelling bedoeld in onderdeel f de zorgvrijstellingen bedoeld in onderdeel g onder 2°en onder 3° de vrijstelling voor bepaalde instellingen zonder winstoogmerk bedoeld in onderdeel t de koepelvrijstelling bedoeld in onderdeel u en de vrijstelling voor fondswervende activiteiten bedoeld in onderdeel v. Met de onderhavige redactionele aanpassing van deze bepalingen en de toevoeging van een zesde lid aan genoemd artikel 11 van de Wet OB 1968 wordt het mogelijk om bij ministeriële regeling bepaalde aan te wijzen leveringen of diensten uit te zonderen van de toepassing van de vrijstelling om te voorkomen dat concurrentievervalsing optreedt. Daarnaast wordt hierbij de formulering meer in lijn gebracht met de formulering daarvan in de BTW-richtlijn 2006. Om de transparantie te vergroten en een en ander te stroomlijnen wordt ervoor gekozen de aanwijzing van de leveringen of diensten ter voorkoming van concurrentieverstoring bij ministeriële regeling te regelen. Hiermee wordt de aanwijzing van alle leveringen en diensten die van de toepassing van de diverse vrijstellingen ter voorkoming van een verstoring van concurrentieverhoudingen worden uitgezonderd op één plaats geregeld (negatieve lijst). In artikel 11 eerste lid onderdelen f en u van de Wet OB 1968 wordt het vereiste dat geen concurrentieverstoring mag optreden behouden om de grenzen van de delegatie bij het aanwijzen van de leveringen en diensten die onder de vrijstelling vallen (positieve lijst) in de wet aan te geven. Met de onderhavige aanpassingen wordt geen inhoudelijke wijziging beoogd.
+(…)”
+
+
+
+4.13
+Voor zover leveringen en diensten worden verricht door instellingen die onder een van de in bijlage B letter b bij het Uitv.besl. OB opgenomen posten vallen stelt Nederland niet de voorwaarde dat de leveringen en diensten niet mogen leiden tot een verstoring van de concurrentieverhoudingen met winstbeogende instellingen. De aanwijzing van alle leveringen en diensten die ter voorkoming van een verstoring van concurrentieverhoudingen met wel winstbeogende instellingen van de vrijstelling van artikel 11 lid 1 aanhef en onderdeel f Wet OB zijn uitgezonderd zijn op één plaats in een zogenoemde negatieve lijst geregeld.
+
+
+4.14
+
+Wel stelt Nederland de ingevolge artikel 134 onder b) Btw-richtlijn verplichte voorwaarde dat met de handelingen niet in concurrentie mag worden getreden met commerciële ondernemingen die aan de btw onderworpen handelingen verrichten. Die voorwaarde ligt besloten in de term ‘als zodanig’ die wordt genoemd in de aanhef van onderdeel b van bijlage B. In een brief van de staatssecretaris van Financiën van 4 mei 1990 WV 90/117 wordt uitgelegd om welke reden deze woorden in de aanhef terecht zijn gekomen:
+“I. Herziening sociaal-culturele vrijstelling (uitzonderingen)
+Bij de herziening van de vrijstelling voor prestaties van sociale of culturele aard per 1 juli 1989 is een aantal algemene uitzonderingen op die vrijstelling opgenomen. Het gaat om het verstrekken van spijzen en dranken het verrichten van onderzoek ten behoeve van derden het ter beschikking stellen van personeel alsmede het verzorgen van loon- en salarisadministraties financiële administraties en grootboekadministraties.
+In de praktijk was namelijk gebleken dat een aantal instellingen van sociale of culturele aard van mening was dat zij al hun prestaties waaronder de thans van de vrijstelling uitgezonderde met vrijstelling van btw konden verrichten omdat deze prestaties dienstbaar zouden zijn aan de primaire sociaal-culturele doelstelling. Deze opvatting werd gesteund door de jurisprudentie (HR 21 september 1988 nr. 25 072 en HR 1 november 1989 nr. 25 944). Het gaat in dezen echter om prestaties die hoewel wellicht dienstbaar aan de sociaal-culturele doelstelling van de instellingen in beginsel niet sociaal of cultureel van aard behoeven te zijn. Een vrijstelling voor deze activiteiten leidt zoals ook in de nota van toelichting op het wijzigingsbesluit is aangegeven tot een verstoring van concurrentieverhoudingen.
+Blijkens de ontstaansgeschiedenis van de sociaal-culturele vrijstelling is uitsluitend beoogd een vrijstelling te creëren voor prestaties die zelf van sociaal-culturele aard zijn. De woorden ‘als zodanig’ in de aanhef van bijlage B behorende bij het Uitvoeringsbesluit omzetbelasting 1968 waarin de vrijgestelde instellingen zijn opgesomd beogen die beperking aan te geven. Dit betekent dat de prestaties van de instellingen slechts zijn vrijgesteld voor zover die prestaties karakteristiek zijn voor de desbetreffende sociaal-culturele instelling en derhalve gewoonlijk niet door ondernemers in de belaste sfeer worden verricht. Zou dat wél het geval zijn dan zou dat een verstoring van de concurrentieverhoudingen tot gevolg kunnen hebben zoals in de praktijk diverse malen is gebleken. Zo hebben commerciële uitzendbureaus geklaagd over de concurrentie die zij van samenwerkende ziekenhuizen ondervonden bij het ter beschikking stellen van verplegend personeel. Laatstgenoemde instellingen deden dat met vrijstelling van omzetbelasting gebaseerd op de vrijstelling voor samenwerkingsverbanden terwijl de commerciële uitzendbureaus hun identieke prestaties belast zagen. De uitzendbureaus hebben toen door middel van civiele procedures bereikt dat ook hun prestaties buiten de heffing van omzetbelasting bleven (uitspraken van het Gerechtshof te Amsterdam 12 augustus 1985 nr. 1964/84 en nr. 1967/84). Aan die situatie is in 1986 een halt toegeroepen door te bepalen dat de vrijstelling voor samenwerkingsverbanden niet geldt voor het ter beschikking stellen van personeel. Door deze activiteit tevens uit te zonderen van de sociaal-culturele vrijstelling is beoogd een situatie als in de ziekenhuissector te voorkomen en zijn de beide vrijstellingen in hun uitwerking meer met elkaar in overeenstemming gebracht.
+Ook van concurrentieverstoring bij de overige uitgezonderde prestaties zijn voorbeelden voorhanden. Zo bleken instellingen voor jeugd- en jongerenwerk met vrijstelling van omzetbelasting spijzen en dranken te verstrekken omdat die prestatie dienstbaar zou zijn aan de eigenlijke sociaal-culturele taak en binnen de doelstelling van belanghebbende past. Daarmee werd de speciale regeling die juist voor dergelijke paracommerciële kantine-activiteiten in 1980 in het leven was geroepen en op grond waarvan de kantine-exploitatie alleen in de heffing wordt betrokken indien de jaaromzet hoger is dan ƒ 125 000 ter zijde gesteld. Om aan die situatie een eind te maken werd een algemene uitzondering voor het verstrekken van spijzen en dranken noodzakelijk geacht.
+Wat betreft het verrichten van onderzoek ten behoeve van derden was zelfs in ruime mate sprake van verstoring van de concurrentieverhoudingen ten opzichte van de vele commerciële voor de omzetbelasting belaste ondernemers die zich eveneens bezighouden met het verrichten van onderzoek. Daarbij verstoorden allerlei universitaire en para-universitaire instituten die zich eveneens met een beroep op een omzetbelastingvrijstelling op het onderhavige terrein waren gaan begeven de concurrentieverhoudingen nog meer. De klachten van commerciële onderzoekbureaus over de concurrentieverstoring zijn serieus genomen en hebben ook hier geleid tot het opnemen van een algemene uitzondering.
+Ten slotte is er een algemene uitzondering opgenomen voor het verzorgen van loon- en salarisadministraties en dergelijke omdat hier een vrijstelling van omzetbelasting sterk concurrentieverstorend is. Commerciële administratiekantoren verrichten dezelfde prestaties maar zijn daarover omzetbelasting verschuldigd. Door deze activiteiten uit te zonderen van de sociaal-culturele vrijstelling worden bovendien de vrijstelling voor sociale of culturele prestaties en de vrijstelling voor eerder genoemde samenwerkingsverbanden meer met elkaar in overeenstemming gebracht. Op de vrijstelling voor laatstgenoemde categorie was de uitzondering al eerder aangebracht in verband met de concurrentieverhoudingen.”
+
+
+
+4.15
+De Kennisgroep heeft voor de toepassing van post b.33 van bijlage B een standpunt ingenomen over de uitleg van het begrip ‘als zodanig’. Volgens de Kennisgroep moet dit begrip zo worden begrepen dat de in die post beschreven dienst (schuldhulpverlening) de essentiële activiteit is van de instelling. Uit het voorgaande citaat volgt dat deze uitleg niet juist is.
+
+
+4.16
+
+Op grond van artikel 7 lid 2 Uitv.besl. OB kunnen ook bepaalde handelingen van instellingen die niet zijn opgenomen in bijlage B onder de sociaal-culturele vrijstelling vallen indien de aangewezen leveringen en diensten worden verricht door een instelling die door de inspecteur als instelling van sociale of culturele aard is erkend. Voor die erkenning geldt de voorwaarde dat geen winst wordt beoogd en geen sprake is van concurrentievervalsing met winstbeogende ondernemers: 
+“2.	Voor zover niet vallend onder de bij dit besluit behorende bijlage B worden voorts als leveringen en diensten als bedoeld in artikel 11 eerste lid onderdeel f van de wet aangewezen:
+
+
+
+a. 	leveringen en diensten die nauw samenhangen met maatschappelijk werk met de sociale zekerheid en met de bescherming van kinderen en jongeren;
+
+
+
+en
+
+
+
+b.	diensten van culturele aard andere dan die genoemd in de bij de wet behorende tabel I onderdeel b alsmede nauw daarmee samenhangende leveringen;
+
+
+
+voor zover met deze leveringen en diensten geen winst wordt beoogd en niet een verstoring van concurrentieverhoudingen optreedt ten opzichte van ondernemers die winst beogen en welke worden verricht door een publiekrechtelijk lichaam of door een andere organisatie die na een daartoe gedaan schriftelijk verzoek door de inspecteur ter zake bij voor bezwaar vatbare beschikking is erkend als instelling van sociale of culturele aard. De inspecteur geeft in deze beschikking aan welke activiteiten van een instelling behoren tot dan wel niet behoren tot de aangewezen leveringen en diensten.”
+
+
+
+4.17
+De inspecteur beslist op dit verzoek met een voor bezwaar vatbare beschikking waarin hij ook aangeeft welke prestaties van de verzoekende instelling onder de vrijstelling vallen.
+
+
+4.18
+
+Vóór de invoering van post b.33 heeft de minister van Sociale Zaken en Werkgelegenheid mede namens de staatssecretaris van Financiën in zijn brief van 17 april 1998 medegedeeld dat de werkzaamheden van bewindvoerders kunnen worden vrijgesteld bij individuele aanwijzing:
+“Een andere situatie waarin geen omzetbelasting wordt geheven is als sociaal-maatschappelijke instellingen zonder winstoogmerk in het kader van hun dienstverlening ook activiteiten verrichten in de sfeer van schuldhulpverlening. Een voorbeeld hiervan vormen instellingen die zich op basis van bewindvoering bezighouden met het vermogensbeheer van personen die daartoe zelf niet geheel in staat zijn. Het gaat hierbij uitsluitend om instellingen die in het Uitvoeringsbesluit omzetbelasting 1968 zijn aangewezen voor de vrijstelling voor sociale en culturele prestaties.”
+
+
+
+4.19
+
+In hetzelfde wijzigingsbesluit van het Uitv.besl. OB waarin post b.33 wordt toegevoegd aan onderdeel b van bijlage B wordt de aanwijzingsprocedure voor de individuele aanwijzing gewijzigd (tot 2006 liep de individuele aanwijzingsprocedure niet via de inspecteur maar via het Ministerie van Financiën en werden erkende instellingen opgenomen in onderdeel a van Bijlage B bij het Uitv.besl. OB). In de nota van toelichting is opgemerkt dat met de wijziging van de aanwijzingsprocedure geen inhoudelijke wijziging wat betreft het toekenningsbeleid is beoogd. Daarbij wordt een aantal voorbeelden gegeven van instellingen die gebruik kunnen maken van de sociaal-culturele vrijstelling op grond van een individuele aanwijzing. Bewindvoerders worden hierbij als voorbeeld genoemd:
+“De inspecteur zal in lijn met dat gevoerde toekenningsbeleid beschikkingen afgeven op nieuwe verzoeken om toepassing van de vrijstelling. Teneinde eenheid in het beoordelingsbeleid te bewerkstelligen zal de toetsing centraal plaatsvinden en wel door de Belastingdienst/Oost-Brabant/kantoor Helmond. Om te verzekeren dat het bestaande toekenningsbeleid wordt bestendigd worden de daaraan ten grondslag liggende dossiers door het Ministerie van Financiën ter beschikking gesteld aan die dienst. Het gaat daarbij om een groot aantal verenigingen en stichtingen die op tal van terreinen – en al dan niet op basis van overheidsregelgeving – in de samenleving werkzaam zijn zoals instellingen die zich bezighouden met:
+
+
+
+[…]
+
+
+
+– het als bewindvoerder voeren van het beheer over inkomsten en vermogen van personen die daartoe vanwege hun lichamelijke of geestelijke gesteldheid niet in staat zijn;”
+
+
+
+4.20
+Een bewindvoerder kan dus ongeacht op welke grond het bewind is ingesteld in aanmerking komen voor een individuele erkenning.
+
+
+4.21
+Deze regeling van de individuele erkenning op de voet van artikel 11 lid 1 aanhef en onderdeel f Wet OB in samenhang met artikel 7 lid 2 Uitv.besl. OB volgt het stramien van de Btw-richtlijn.
+
+
+4.22
+Dat geldt niet voor de regeling die is neergelegd in artikel 11 lid 1 aanhef en onderdeel f Wet OB in samenhang met artikel 7 lid 1 Uitv.besl. OB en onderdeel b Bijlage B Uitv.besl. OB. Iedere instelling die ‘als zodanig’ diensten verricht die vallen binnen de omschrijving van de post van bijlage B wordt automatisch als erkende instelling aangemerkt. Een individuele erkenning is dan niet vereist. Nederland laat de ‘automatische erkenning’ van de sociale aard van een instelling in wezen afhangen van de aard van de diensten die bepaalde instellingen verrichten. Omdat een nationale lidstaat daar nu juist niets over te zeggen heeft (zie 3.19) rijst de vraag of Nederland wel heeft gehandeld binnen de grenzen van de door artikel 132 lid 1 aanhef en onder g) Btw-richtlijn geboden beoordelingsbevoegdheid. 
+
+
+4.23
+Enerzijds kan worden betoogd dat Nederland de bedoelde grenzen heeft overschreden voor zover bijlage B bij het Uitv.besl. OB bepaalde leveringen en diensten die onontbeerlijk zijn voor het verrichten van handelingen op het gebied van maatschappelijk werk en de sociale zekerheid niet specifiek noemt. Artikel 132 lid 1 aanhef en onder g) Btw-richtlijn bepaalt immers welke diensten moeten worden vrijgesteld en geeft de lidstaten niet de bevoegdheid de begrippen maatschappelijk werk of sociale zekerheid zelf in te vullen. De lidstaten hebben op grond van die bepaling slechts de bevoegdheid binnen zekere grenzen regels te stellen met betrekking tot de erkenning van de sociale aard van de instelling en dergelijke regels stelt Nederland met de automatische erkenning niet. 
+
+
+4.24
+Anderzijds zou kunnen worden betoogd dat bij de beoordeling of Nederland heeft gehandeld binnen de beoordelingsbevoegdheid van artikel 132 lid 1 aanhef en onder g) Btw-richtlijn de regeling van het eerste lid van artikel 7 Uitv.besl. OB niet op zichzelf moet worden bezien maar in samenhang met die van het tweede lid. Alsdan zou kunnen worden geconcludeerd dat Nederland met de in het tweede lid geregelde individuele erkenning heeft gehandeld binnen de hem toegekende beoordelingsbevoegdheid en dat de automatische erkenning van het eerste lid voor specifieke leveringen en diensten voor bepaalde gevallen een ruimhartiger regeling geeft dan waartoe Nederland volgens het Unierecht verplicht is en waarop een belastingplichtige zich wel kan beroepen. 
+
+
+4.25
+Mijns inziens kan niet in zijn algemeenheid voor alle in bijlage B genoemde posten worden gezegd dat de ene dan wel de andere benadering de juiste is. Omdat de bewoordingen van artikel 11 lid 1 aanhef en onderdeel f Wet OB in samenhang met artikel 7 Uitv.besl. OB niet (geheel) overeenstemmen met die van de corresponderende richtlijnbepalingen zal per post van bijlage B moeten worden nagegaan of Nederland heeft gehandeld binnen de grenzen van de door artikel 132 lid 1 aanhef en onder g) Btw-richtlijn geboden beoordelingsbevoegdheid en of de beginselen van Unierecht in acht zijn genomen.
+
+
+4.26
+
+Ik behandel hierna achtereenvolgens de posten b.29 en b.33 van bijlage B.
+
+Vrijstelling voor algemeen maatschappelijk en bedrijfsmaatschappelijk werk
+
+
+
+
+4.27
+
+Per 9 juni 1995 is post 29 toegevoegd aan onderdeel b van bijlage B bij het Uitv.besl. OB. De Nota van Toelichting bij het wijzigingsbesluit van het Uitv.besl. OB vermeldt niets over de toevoeging van de post. Bij de invoering luidde de post als volgt:
+“29. instellingen voor algemeen maatschappelijk werk aangesloten bij de Vereniging van Ondernemingen in de gepremieerde en gesubsidieerde sector sectie Algemeen Maatschappelijk werk;”
+
+
+
+4.28
+
+Met ingang van 1 januari 2006 luidt post 29 als volgt: 
+“29. instellingen voor algemeen maatschappelijk en bedrijfsmaatschappelijk werk;”
+
+
+
+4.29
+
+Over de wijziging van post b.29 per 1 januari 2006 is in de nota van toelichting bij het wijzigingsbesluit van het Uitv.besl. OB het volgende opgenomen:
+“De redactie van deze post is gewijzigd omdat door de betreffende instellingen feitelijk niet (meer) wordt voldaan aan de voorwaarde dat ze aangesloten moeten zijn bij de Vereniging van Ondernemingen in de gepremieerde en gesubsidieerde sector (VOG). Dit als gevolg van een naamswijziging van laatstgenoemde vereniging. Daarnaast is er reden tot wijziging van deze post vanwege het feit dat het onderscheid tussen de aard van de werkzaamheden van instellingen voor maatschappelijk werk en die van instellingen voor bedrijfsmaatschappelijk werk steeds lastiger te maken is. Uit praktisch oogpunt is het verschil in behandeling tussen deze instellingen – maatschappelijk werk was tot dusverre van rechtswege vrijgesteld op grond van post b.29 terwijl voor instellingen voor bedrijfsmaatschappelijk werk gold dat op basis van individuele verzoeken al dan niet werd besloten tot goedkeuring tot toepassing van de vrijstelling – niet langer wenselijk. Gelet op het feit dat vrijwel al deze instellingen voor een deel van hun activiteiten in meer of mindere mate winstbeogend zijn of worden is voorts de voorwaarde dat met de prestaties geen winst wordt beoogd vervallen (zie onderdeel E.8 derde alinea).”
+
+
+
+4.30
+De VOG is als werkgeversorganisatie op het gebied van maatschappelijke dienstverlening en sociaal cultureel werk in 1989 ontstaan. In 2002 heeft de VOG haar naam gewijzigd in MOgroep (‘Maatschappelijk Ondernemers Groep’). De MOgroep bestaat uit drie sectoren: MOgroep jeugdzorg MOgroep Kinderopvang en MOgroep Welzijn & Maatschappelijke Dienstverlening. Met ingang van 2011 zijn de drie branches verzelfstandigd. MOgroep Jeugdzorg is verdergegaan onder de naam Jeugdzorg Nederland. In mei 2011 is MOgroep Kinderopvang gefuseerd met de Branchevereniging Ondernemers in de Kinderopang (BKN) tot Brancheorganisatie Kinderopvang. MOgroep Welzijn & Maatschappelijke Dienstverlening heeft deze naam in eerste instantie aangehouden maar is vanaf 1 juni 2016 verder gegaan onder de naam Sociaal Werk Nederland.
+
+
+4.31
+De nota van toelichting bij het wijzigingsbesluit van het Uitv.besl. OB bevat geen definitie van ‘algemeen maatschappelijk werk’ en ‘bedrijfsmaatschappelijk werk’. Er zijn evenmin richtinggevende arresten van de Hoge Raad over post b.29.
+
+
+4.32
+
+De Van Dale geeft bij de betekenis van het woord ‘maatschappelijk’ de volgende definitie voor maatschappelijk werk;
+“maatschappelijk werk; hulpverlening bij aanpassingsmoeilijkheden in arbeids- school- of ander leefmilieu” 
+
+
+
+4.33
+
+De beroepsvereniging van professionals in sociaal werk (BPSW; tot 25 juni 2015 Nederlandse Vereniging van Maatschappelijk Werkers NVMW) hanteert de volgende omschrijving:
+“Wat is maatschappelijk werk
+De missie van het maatschappelijk werk is kort gezegd: bevorderen dat mensen in onze samenleving tot hun recht komen als mens en als burger. Maatschappelijk werkers streven ernaar dat mensen zich in wisselwerking met hun sociale omgeving zo goed mogelijk kunnen ontplooien naar hun eigen aard behoeften en opvattingen en dat ze rekening houden met anderen met wie zij samenleven (Beroepsprofiel NVMW 2006).
+(…)
+Problemen bespreekbaar maken
+Vragen of problemen kunnen cliënten bespreken in een of meer gesprekken met een maatschappelijk werker. Samen wordt gewerkt aan het vergroten van de mogelijkheden om die problemen op te lossen. De hulp die het maatschappelijk werk biedt is op vrijwillige basis. Er zijn geen kosten aan verbonden. Wat cliënten met de maatschappelijk werker bespreken wordt uiteraard vertrouwelijk behandeld.”
+
+
+
+4.34
+
+Sociaal Werk Nederland geeft de volgende omschrijving van ‘sociaal werk’:
+“Wat is sociaal werk? 
+Sociaal werkers ondersteunen mensen bij het oplossen van problemen in hun dagelijks leven zodat zij (weer) deel uit kunnen maken van de maatschappij. Sociaal werkers werken in buurten en wijken met en voor buurtbewoners. Om de buurt leefbaarder veiliger en leuker te maken. Ze helpen bewoners die hulp nodig hebben om mee te draaien in de snelle veeleisende samenleving. Het sociaal werk zit overal in Nederland en is in elke gemeente actief.” 
+
+
+
+4.35
+De tekst van post b.29 biedt in mijn optiek ruimte voor een uitleg van het begrip ‘maatschappelijk werk’ die samenvalt met de uitleg van het begrip ‘nauw samenhangen met maatschappelijk werk en met de sociale zekerheid’ in artikel 132 lid 1 onder g) Btw-richtlijn. Uit de wetsgeschiedenis blijkt naar mijn mening niet dat de wetgever met post b.29 welbewust van de richtlijnbepaling heeft willen afwijken. Volgens de rechtspraak van het Hof van Justitie is dan vereist dat de diensten onontbeerlijk zijn voor het verrichten van handelingen op het gebied van maatschappelijk werk en sociale zekerheid. 
+
+
+4.36
+De Staatssecretaris betoogt in cassatie in de zaak 20/03777 in wezen het tegenovergestelde. Hij meent dat de beoordeling of de onderhavige vrijstelling van toepassing is dient plaats te vinden aan de hand van het vigerende nationale wettelijke kader. Hij merkt op dat in het nationale wettelijke kader de toepassing van de vrijstelling van artikel 11 eerste lid onderdeel f Wet OB zich niet uitstrekt tot de nauw samenhangende leveringen en diensten. Dat betoog kan niet worden aanvaard omdat de lidstaten niet de vrijheid hebben al dan niet een vrijstelling te verlenen voor de in artikel 132 lid 1 onder g) genoemde handelingen. De lidstaten zijn verplicht de vrijstelling verlenen. De lidstaten hebben enkel de vrijheid voorwaarden te stellen in het kader van de erkenning van de sociale aard van een instelling. Die voorwaarden kunnen niet zo ver gaan dat zij ertoe leiden dat bepaalde nauw met maatschappelijk werk en sociale zekerheid samenhangende leveringen en diensten van de vrijstelling worden uitgesloten. Het kan dus niet zo zijn dat Nederland met de opsomming van de instellingen in bijlage B de op grond van artikel 132 lid 1 onder g Btw-richtlijn vrijgestelde handelingen inperkt. Uit (de aanhef van ) artikel 7 lid 2 Uitv.besl. OB volgt overigens duidelijk dat dergelijke diensten wel degelijk onder het toepassingsbereik van artikel 11 lid 1 onderdeel f Wet OB en bijlage B bij het Uitv.besl. OB kunnen vallen.
+
+
+4.37
+Het betoog van de Staatsecretaris zou aldus kunnen worden gelezen dat hij meent dat Nederland met de regeling van artikel 11 lid 1 onderdeel f Wet OB in samenhang gelezen met artikel 7 lid 2 Uitv.besl. OB (individuele erkenning) heeft gehandeld binnen de hem toegekende beoordelingsbevoegdheid en dat de automatische erkenning van het eerste lid voor specifieke leveringen en diensten voor bepaalde gevallen een ruimhartiger regeling geeft dan waartoe Nederland volgens het Unierecht verplicht is. Daar valt in zijn algemeenheid wel iets voor te zeggen (zie mijn eerdere opmerkingen in 4.24). Als die redenering wordt gevolgd en artikel 11 lid 1 onderdeel f Wet OB in samenhang gelezen met artikel 7 lid 1 Uitv.besl. OB en post b.29 van bijlage B puur nationaalrechtelijk moeten worden uitgelegd zou het toepassingsbereik door de zeer algemene bewoordingen wel eens veel ruimer kunnen zijn dan bij een richtlijnconforme uitleg. 
+
+
+4.38
+Die redenering kan mijns inziens niet worden aanvaard. De nationale rechter heeft de plicht een nationale bepaling zo veel mogelijk richtlijnconform uit te leggen. Ik meen dat de tekst van post b.29 zo algemeen is geformuleerd en de bewoordingen van die post zo dicht in de buurt komen van de bewoordingen in artikel 132 lid 1 onder g) Btw-richtlijn terwijl zoals al gezegd uit de wetsgeschiedenis niet volgt dat de nationale wetgever heeft willen afwijken van de richtlijnbepaling dat een richtlijnconforme uitleg van die post is geboden. Een dergelijke uitleg brengt ook mee dat moet worden voldaan aan de randvoorwaarden die het Hof van Justitie heeft gegeven voor het bepalen van de sociale aard van de instelling. Dat de erkenning op verzoek van artikel 7 lid 2 Uitv.besl. OB dan in wezen overbodig is omdat alle instellingen die als zodanig leveringen of diensten verrichten die nauw samenhangen met maatschappelijk werk en met de sociale zekerheid ongeacht of winst wordt beoogd dan gebruik kunnen maken van post b.29 is het onvermijdelijke gevolg.
+
+
+4.39
+Hier wreekt zich dat Nederland voor de nauw met maatschappelijk werk samenhangende prestaties niet het stramien van de Btw-richtlijn heeft gevolgd maar heeft willen vasthouden aan een bepaling voor ‘sociaal-culturele’ prestaties en de erkenningssystematiek van sociaal-culturele instellingen bestaande uit een lijst met automatisch erkende instellingen en daarnaast een erkenning op verzoek.
+
+
+4.40
+
+Een richtlijnconforme uitleg (van het begrip ‘als zodanig’; zie 4.26) brengt verder mee dat bij de uitleg van post b.29 ook het bepaalde in artikel 134 onder b) Btw-richtlijn in acht moet worden genomen. Die bepaling staat de lidstaten niet toe de vrijstelling toe te passen indien in concurrentie wordt getreden met commerciële ondernemingen die handelingen verrichten die wél aan de btw zijn onderworpen (zie 3.4). Uit de rechtspraak van het Hof van Justitie volgt dat het beginsel van fiscale neutraliteit dat zijn neerslag vindt in de voornoemde richtlijnbepaling meebrengt dat diensten die concurreren met wel aan de btw onderworpen handelingen van de vrijstelling zijn uitgesloten (zie 3.19). 
+
+Instellingen die werkzaam zijn op het gebied van schuldhulpverlening 
+
+
+
+
+4.41
+Om in aanmerking te komen voor de vrijstelling van post b.33 moet sprake zijn van leveringen en diensten die als zodanig worden verricht door een instelling die werkzaam is op het gebied van schuldhulpverlening. De bewoordingen van deze post laten mijns inziens niet een richtlijnconforme uitleg toe. De uitleg van deze post vergt een nationale benadering.
+
+
+4.42
+In onderdeel 2 heb ik het terrein van de schuldhulpverlening verkend. Die verkenning werpt licht op de werkzaamheden die dienstverleners op het gebied van de schuldhulpverlening verrichten maar is niet per se doorslaggevend voor de uitleg van de bewoordingen van post b.33. 
+
+
+4.43
+Post b.33 bevat geen definitie van het begrip ‘schuldhulpverlening’. Wel heeft de besluitgever post b.33 van een toelichting voorzien. Het ligt in de rede eerst aan de hand van deze toelichting te achterhalen wat de bedoeling van de besluitgever is geweest met de invoering van post b.33. 
+
+
+4.44
+
+Met ingang van 1 januari 2006 is post 33 toegevoegd aan onderdeel b van bijlage B Uitv.besl. OB en zijn de leveringen en diensten als zodanig verricht door instellingen die werkzaam zijn op het gebied van schuldhulpverlening met uitzondering van bewindvoering in het kader van de wettelijke schuldregeling vrijgesteld. De nota van toelichting bij het wijzigingsbesluit van het Uitv.besl. OB vermeldt het volgende over post b.33:
+“De nieuwe post b.33 ziet op instellingen die werkzaam zijn op het gebied van schuldhulpverlening. Het gaat hierbij met name om de activiteiten van de (gemeentelijke) kredietbanken die als zodanig zijn aangesloten bij de Nederlandse Vereniging voor Volkskrediet (NVVK). Onder «schuldhulpverlening» vallen in de praktijk verschillende werkzaamhede[n] zoals budgetbegeleiding budgetadvisering budgetbeheer schuldregeling in het kader van het minnelijke traject (waarbij een schuldenaar veelal door tussenkomst van een schuldregelaar op minnelijke wijze met zijn schuldeisers overeenstemming tracht te bereiken over het aflossen van zijn schulden) en de afgifte van een zogeheten WSNP-verklaring (Wet schuldsanering natuurlijke personen). Instellingen die op dit gebied werkzaam zijn houden zich als zodanig bezig met verschillende aspecten van schuldhulpverlening zoals het bieden van hulp bij het oplossen van problematische schuldsituaties het voorkomen dat bij de betrokkenen wederom een problematische schuldsituatie ontstaat en het vinden van een financiële oplossing voor problematische schuldsituaties. De vrijstelling is niet van toepassing op bewindvoering in het kader van de wettelijke schuldregeling. Voorts mist de vrijstelling toepassing als de diensten op het gebied van schuldhulpverlening al kunnen worden gerangschikt onder de bancaire vrijstelling van artikel 11 eerste lid onderdeel j van de wet zoals het verlenen van krediet voor schuldsanering. Hoewel de activiteiten op het gebied van schuldhulpverlening niet snel winstgevend zullen zijn kunnen echter ook commerciële instellingen optreden als aanbieder van bepaalde activiteiten op het gebied van schulphulpverlening. Gelet hierop is de voorwaarde dat met de prestaties geen winst wordt beoogd vervallen (zie onderdeel E.8 derde alinea).”
+
+
+
+4.45
+Hoewel de (gemeentelijke) kredietbanken aangesloten bij de NVVK expliciet worden genoemd als instelling op het gebied van schuldhulpverlening geven de woorden ‘met name’ aan dat post b.33 ook geldt voor andere instellingen die werkzaam zijn op het gebied van schuldhulpverlening. Dit blijkt ook duidelijk uit het slot van de nota van toelichting waarin de besluitgever aangeeft dat ook commerciële instellingen als aanbieder van activiteiten op het gebied van schuldhulpverlening kunnen optreden. Uit het gebruik van het woord ‘bepaalde’ volgt dat een aanbieder niet alle mogelijke activiteiten op het gebied van schuldhulpverlening hoeft te verrichten om van de vrijstelling gebruik te kunnen maken maar dat het volstaat om een deel van die activiteiten te verrichten. Nu de nota van toelichting behalve de verwijzing naar de (gemeentelijke) kredietbanken geen aanwijzingen geeft welke instellingen als instelling op het gebied van schuldhulpverlening moeten worden beschouwd maar juist voorbeelden geeft van type werkzaamheden die een dergelijk instelling verricht dient mijns inziens de beoordeling of een belastingplichtige een instelling op het gebied van schuldhulpverlening is te gebeuren aan de hand van de activiteiten die de belastingplichtige verricht. 
+
+
+4.46
+De nota van toelichting bevat geen definitie van het begrip ‘schuldhulpverlening’ maar sluit - getuige de derde zin van het hiervoor opgenomen citaat - aan bij de werkzaamheden die daaronder ‘in de praktijk’ vallen. Als voorbeelden van werkzaamheden die in de praktijk onder schuldhulpverlening vallen noemt de nota van toelichting: budgetbegeleiding budgetadvisering budgetbeheer schuldregeling in het kader van het minnelijke traject en de afgifte van een Wsnp-verklaring. Volgens de nota van toelichting houden de instellingen waarvoor post b.33 geldt zich als zodanig bezig met verschillende aspecten van schuldhulpverlening zoals het bieden van hulp bij het oplossen van problematische schuldsituaties het voorkomen dat bij de betrokkenen wederom een problematische schuldsituatie ontstaat en het vinden van een financiële oplossing voor problematische schuldsituaties. Uit deze opsomming maak ik op dat het moet gaan om hulp bij problematische schulden. Omdat de nota dat begrip niet definieert ligt het voor de hand voor de uitleg van het begrip ‘problematische schulden’ aansluiting te zoeken bij de uitleg die is gegeven in de wettelijke regelingen die gelden voor de schuldhulpverleningspraktijk. Volgens die regelingen is sprake van problematische schulden indien redelijkerwijs is te voorzien dat een natuurlijke persoon niet zal kunnen voortgaan met het betalen van zijn schulden of indien hij in de toestand verkeert dat hij heeft opgehouden te betalen (zie punten 2.12 en 2.22).
+
+
+4.47
+Omdat in de praktijk ook preventie en nazorg (zie 2.5 2.6 2.11 en 2.13) en stabilisatie (zie 2.10 2.18 en 2.19) onder schuldhulpverlening vallen en daarbij gebruik kan worden gemaakt van diensten van derden zoals budgetbeheer of beschermingsbewind (zie 2.15 en 2.18) en de besluitgever voor de uitleg van het begrip schuldhulpverlening verwijst naar ‘de praktijk’ meen ik dat de besluitgever ook heeft bedoeld hulp bij het voorkomen verminderen of stabiliseren van problematische schuldsituaties onder ‘schuldhulpverlening’ te begrijpen.
+
+
+
+
+
+5Hoe pakt het uit voor de belanghebbenden?
+
+5.1
+
+Ingevolge artikel 132 lid 1 aanhef en onder g) Btw-richtlijn verlenen de lidstaten vrijstelling van btw voor diensten die (i) nauw samenhangen met maatschappelijk werk en sociale zekerheid en (ii) worden verricht door een publiekrechtelijk lichaam of een erkende instelling van sociale aard. De lidstaten hebben niet de vrijheid de begrippen ‘maatschappelijk werk’ en ‘sociale zekerheid’ in te vullen. Wat voorwaarde (ii) betreft beschikken de lidstaten over een zekere beoordelingsbevoegdheid. Bij de beoordeling van de sociale aard van de instelling moet met name rekening worden gehouden met ‘de duurzaamheid van het sociaal engagement’ van de dienstverrichter (zie onderdeel 3 en de samenvatting in 3.36-3.37).
+
+Voorwaarde (i) Nauwe samenhang met maatschappelijk werk en de sociale zekerheid
+
+
+
+
+5.2
+Uit de rechtspraak van het Hof van Justitie volgt dat diensten ‘nauw samenhangen’ als bedoeld in artikel 132 lid 1 aanhef en onder g) Btw-richtlijn indien zij ‘onontbeerlijk’ zijn voor het verrichten van handelingen op het gebied van maatschappelijk werk en sociale zekerheid (zie 3.9). 
+
+
+5.3
+De belanghebbenden in de onderhavige zaken verlenen diensten op het gebied van budgetbeheer en/of inkomensbeheer budgetbegeleiding en budgetadvisering al dan niet met gebruikmaking van wettelijke beschermingsmaatregelen curatele beschermingsbewind en mentorschap (zie 1.2). Van geval tot geval zal moeten worden beoordeeld of deze diensten een onontbeerlijke stap vormen bij de uitvoering van maatregelen op het gebied van maatschappelijk werk en sociale zekerheid dan wel andersoortig zijn (bijvoorbeeld zoals meer algemene activiteiten van bijstand of juridisch financieel of ander advies (zie 3.20)). Hoewel dit een beoordeling van feitelijke aard vergt waarvoor in cassatie geen plaats is valt in algemene zin wel het een en ander te zeggen over de werkzaamheden van de belanghebbenden.
+
+
+5.4
+Voor zover wordt opgetreden in de hoedanigheid van bewindvoerder curator of mentor zijn de aard van de werkzaamheden die moeten worden verricht en de omvang van de vergoeding wettelijk geregeld. Uit de wettelijke bepalingen volgt dat deze beschermers diensten verrichten ten behoeve van personen die (tijdelijk) niet in staat zijn ten volle hun (niet-)vermogensrechtelijke belangen waar te nemen door hun lichamelijke of geestelijke beperking (mentorschap en beschermingsbewind; zie 2.29 en 2.40) of door verkwisting of het hebben van problematische schulden (schuldenbewind; zie 2.29) en ten behoeve van personen die (tijdelijk) niet in staat zijn hun belangen behoorlijk waar te nemen of hun veiligheid of die van anderen in gevaar brengen als gevolg van hun lichamelijke of geestelijke toestand dan wel gewoonte van drank- en drugsmisbruik en deze belangen niet met een meer passende en minder verstrekkende voorziening kan worden bewerkstelligd (curatele; zie 2.42). Gelet op het takenpakket van deze dienstverrichters ben ik van mening dat deze diensten een onontbeerlijke stap vormen bij de uitvoering van maatregelen op het gebied van maatschappelijk werk en sociale zekerheid. Deze diensten kunnen in mijn optiek worden geschaard onder ‘beschermingsbeheer’ waarvoor de lidstaten een vrijstelling van btw moeten verlenen indien de diensten door een erkende instelling worden verricht.
+
+
+5.5
+Indien de bewindvoerder mentor of curator naast de werkzaamheden die hij verricht tegen betaling van de wettelijke forfaitaire beloning meer algemene activiteiten van bijstand of juridisch financieel of ander advies tegen een vergoeding verricht zoals het verzorgen van de boekhouding van een bedrijf van de persoon die onder zijn bewind staat vallen die diensten naar hun aard niet onder het toepassingsbereik van de vrijstelling (zie 3.18-3.20). Zo nodig moet dan een splitsing worden aangebracht tussen de vrijgestelde en belaste diensten.
+
+
+5.6
+De belanghebbenden verrichten ook diensten van budgetbeheer en/of inkomensbeheer budgetbegeleiding en budgetadvisering ten behoeve van personen die niet in staat zijn bepaalde (financiële) handelingen zelfstandig te verrichten en deze op vrijwillige basis tegen betaling uit handen geven aan een van de belanghebbenden voor wie niet de wettelijke maatregel van bewindvoering mentorschap of curatele is getroffen. Ook voor deze diensten geldt dat van geval tot geval zal moeten worden beoordeeld of deze diensten naar de aard een onontbeerlijke stap vormen bij de uitvoering van maatregelen op het gebied van maatschappelijk werk of met sociale zekerheid dan wel moeten worden aangemerkt als meer algemene activiteiten. Als zij soortgelijke diensten verrichten als de curator bewindvoerder of mentor zal het naar verwachting geen onmogelijke opgaaf zijn aannemelijk te maken dat hun diensten een ‘onontbeerlijke stap’ vormen als hiervoor bedoeld. 
+
+
+5.7
+
+De belanghebbenden zijn geen publiekrechtelijk lichaam zodat voorts moet worden beoordeeld of aan voorwaarde (ii) is voldaan.
+
+Voorwaarde (ii) Erkende instelling van sociale aard
+
+
+
+
+5.8
+Nederland kent een regeling voor automatische erkenning van de sociale aard van een instelling (artikel 11 lid 1 onderdeel f in samenhang met artikel 7 lid 1 Uitv.besl. OB en bijlage B bij het Uitv.besl. OB) en een voor de individuele erkenning (artikel 11 lid 1 onderdeel f in samenhang met artikel 7 lid 2 Uitv.besl. OB). 
+
+
+5.9
+Voor zover ik heb kunnen nagaan hebben de belanghebbenden in deze zaak niet om een individuele erkenning verzocht. Dat zal naar ik vermoed verband houden met de omstandigheid dat niet wordt voldaan aan de voorwaarde dat de ondernemer geen winst mag beogen. Mochten zij wel om een individuele erkenning hebben verzocht en de inspecteur deze erkenning heeft geweigerd dan zal aan de hand van de criteria die daarvoor in de rechtspraak van het Hof van Justitie zijn gegeven moeten worden nagegaan of de inspecteur de grenzen van de beoordelingsbevoegdheid heeft overschreden door de erkenning als instelling van sociale aard te weigeren (zie hierna). 
+
+
+5.10
+
+In feitelijke instanties is enkel in geschil of de belanghebbenden in aanmerking komen voor een zogenoemde automatische erkenning. De belanghebbenden beroepen zich daarbij primair op post b.33 van bijlage B bij het Uitv.besl. OB en subsidiair op post b.29 van die bijlage. Ik start met b.29.
+
+Post b.29 
+
+
+
+
+5.11
+Zoals ik in 4.38 heb uiteengezet dient post b.29 naar mijn mening richtlijnconform te worden uitgelegd. Dat brengt mee dat de inspecteur de ‘automatische erkenning’ moet verlenen als de diensten naar de aard een onontbeerlijke stap vormen bij de uitvoering van maatregelen op het gebied van maatschappelijk werk of sociale zekerheid. Daarnaast moet worden voldaan aan de randvoorwaarden die het Hof van Justitie heeft gegeven voor het bepalen van de sociale aard van de instelling. In aanvulling daarop dient te worden beoordeeld of de diensten in hoofdzaak ertoe strekken aan de instelling extra opbrengsten te verschaffen door de uitvoering van handelingen welke worden verricht in rechtstreekse mededinging met aan de heffing van belasting onderworpen handelingen van commerciële ondernemingen. Als dat laatste zo is zijn de diensten van de vrijstelling uitgesloten.
+
+
+5.12
+Bij de beoordeling van de sociale aard van de instelling moet rekening worden gehouden met de doelstellingen die de instelling globaal beschouwd nastreeft en met de duurzaamheid van haar sociaal engagement (zie 3.26 e.v.). Die beoordeling is feitelijk van aard. 
+
+
+5.13
+Voor zover wordt opgetreden als bewindvoerder curator of mentor zijn de relevante feiten bekend want de taken en vergoedingen zijn wettelijk geregeld. Deze brengen mijns inziens mee dat deze wettelijke vertegenwoordigers die werkzaamheden verrichten tegen betaling van de wettelijke jaarbeloning in zoverre blijk geven van een duurzaam sociaal engagement. De aanwijzingen die het Hof van Justitie heeft gegeven in zijn arrest EQ met name die in de overwegingen 82 tot en met 85 gelden in nagenoeg gelijke mate voor deze wettelijke vertegenwoordigers. 
+
+
+5.14
+Verrichten deze dienstverleners aanvullende ‘meer algemene diensten van advies’ tegen een aanvullende vergoeding dan is die vergoeding gewoon belast met omzetbelasting. 
+
+
+5.15
+Indien een dienstverlener soortgelijke diensten verricht als een van de genoemde wettelijke vertegenwoordigers tegen betaling van een vergoeding die in hoogte vergelijkbaar is met de jaarbeloning voor de wettelijke vertegenwoordigers en voorts sprake is van een vergelijkbare ‘duurzaamheid van het sociaal engagement’ van de dienstverrichter dan gebiedt de fiscale neutraliteit dat ook de diensten van deze dienstverleners worden vrijgesteld. Het is immers vaste rechtspraak van het Hof van Justitie dat het beginsel van fiscale neutraliteit zich ertegen verzet dat soortgelijke goederen of diensten dat wil zeggen diensten die met elkaar concurreren voor de heffing van btw verschillend worden behandeld.
+
+
+5.16
+
+Hoewel Nederland blijkens de tekst van artikel 11 lid 1 aanhef onderdeel f Wet OB gebruik heeft gemaakt van de mogelijkheid in artikel 133 onder a) Btw-richtlijn om instellingen die systematisch het maken van winst beogen uit te sluiten van de sociaal-culturele vrijstelling vermeldt de aantekening bij bijlage B bij het Uitv.besl. OB dat deze voorwaarde niet geldt voor de instellingen als bedoeld in post b.29. Aan die instellingen kan dus niet worden tegengeworpen dat eventueel een dergelijk doel wordt nagestreefd.
+
+Post b.33
+
+
+
+
+5.17
+Zoals gezegd verlenen de belanghebbenden in de onderhavige zaken diensten op het gebied van budgetbeheer en/of inkomensbeheer budgetbegeleiding en budgetadvisering al dan niet met gebruikmaking van wettelijke beschermingsmaatregelen curatele beschermingsbewind en mentorschap. De vraag of de diensten van de belanghebbenden als schuldhulpverlening kunnen worden aangemerkt is feitelijk van aard. Dat geldt ook voor de vraag of aan het ‘als zodanig’-vereiste is voldaan dat inhoudt dat niet in concurrentie wordt getreden met commerciële ondernemingen die handelingen verrichten die wél aan de btw zijn onderworpen. 
+
+
+5.18
+
+Voor zover de belanghebbenden optreden als (schulden)bewindvoerder mentor of curator kan ik daarover in algemene zin wel het een en ander opmerken nu de taken en bevoegdheden van een dergelijke beschermer wettelijk zijn geregeld.
+
+De (schulden)bewindvoerder en de vrijstelling voor schuldhulpverlening 
+
+
+
+
+5.19
+Bewindvoering wordt zoals gezegd ingezet als beschermingsmaatregel voor de meerderjarige die (a) (tijdelijk) niet in staat is zijn vermogensrechtelijke belangen waar te nemen als gevolg van zijn lichamelijke of geestelijke toestand of die (b) tijdelijk niet in staat is ten volle zijn vermogensrechtelijke belangen behoorlijk waar te nemen als gevolg van verkwisting of het hebben van problematische schulden (artikel 1:431 lid 1 BW). Ik verwijs naar hetgeen ik eerder heb opgemerkt over de beschermingsbewindvoerder (2.29 – 2.39). 
+
+
+5.20
+In 4.47 concludeerde ik dat onder schuldhulpverlening als bedoeld in post b.33 ook hulp bij het voorkomen verminderen of stabiliseren van problematische schuldsituaties moet worden begrepen. Een bewindvoerder in een schuldenbewind verleent bij uitstek deze hulp. Bij een schuldenbewind wordt het takenpakket van de bewindvoerder uitgebreid tot het stabiliseren van problematische schuldsituaties in het kader van de toeleiding tot een minnelijke- of wettelijke schuldenregeling of voor personen die niet kunnen worden toegelaten tot de Wsnp. Hetzelfde geldt voor de ‘normale’ bewindvoerders die vóór de invoering van het schuldenbewind in 2014 feitelijk cliënten onder zich hadden met problematische schulden. 
+
+
+5.21
+Ik kom dan ook tot de slotsom dat de werkzaamheden die een bewindvoerder in een schuldenbewind verricht tegen betaling van de wettelijke (additionele) beloning zijn vrijgesteld van omzetbelasting ingevolge post b.33. Het maakt daarbij niet uit welk beroep de bewindvoerder uitoefent.
+
+
+5.22
+Aan deze conclusie wordt niet afgedaan door het feit dat de Wsnp-bewindvoerder expliciet is uitgesloten van de vrijstelling voor schuldhulpverlening. De Wsnp-bewindvoerder en de schuldenbewindvoerder zijn mijns inziens geen gelijke gevallen. Waar de Wsnp-bewindvoerder er met name voor de schuldeisers is (hij ziet erop toe dat de schuldenaar zich maximaal inspant om zoveel mogelijk geld voor het aflossen van zijn schulden bij elkaar te sparen) is de schuldenbewindvoerder er met name voor de schuldenaar (zorgen dat de financiële zaken van de schuldenaar behoorlijk worden waargenomen).
+
+
+5.23
+Ook van een bewindvoerder in een standaardbewind kan mijns inziens worden gezegd dat hij hulp verleent bij het voorkomen van problematische schuldsituaties aangezien bij personen die op de voet van artikel 1:431 lid 1 onderdeel a BW onder bewind worden gesteld de kans reëel zal zijn dat zij zonder de diensten van de bewindvoerder in een problematische schuldensituatie terechtkomen. Ook voor deze bewindvoerder kom ik dus tot de slotsom dat zijn werkzaamheden tegen betaling van de forfaitaire wettelijke beloning onder post b.33 vallen. 
+
+
+5.24
+
+Hoewel Nederland blijkens de tekst van artikel 11 lid 1 aanhef onderdeel f Wet OB gebruik heeft gemaakt van de mogelijkheid in artikel 133 onder a) Btw-richtlijn om instellingen die systematisch het maken van winst beogen uit te sluiten van de sociaal-culturele vrijstelling vermeldt de aantekening bij bijlage B bij het Uitv.besl. OB dat deze voorwaarde niet geldt voor instellingen die werkzaam zijn op het gebied van schuldhulpverlening. Aan de instellingen kan dus niet worden tegengeworpen dat eventueel een dergelijk doel wordt nagestreefd.
+
+De mentor 
+
+
+
+
+5.25
+
+De mentor houdt zich niet bezig met de financiële zaken van de betrokkene maar enkel met zijn persoonlijke niet-financiële zaken (zie 2.40 voor een nadere omschrijving). Deze werkzaamheden houden geen verband met schuldhulpverlening. De mentor kan daarom geen gebruikmaken van post b.33 van bijlage B Uitv.besl. OB.
+
+De curator
+
+
+
+
+5.26
+De curator verricht de activiteiten van zowel een bewindvoerder als een mentor en de wettelijke vergoeding die de curator toekomt is gelijk aan 90% van de som van de jaarbeloningen van de (schulden)bewindvoerder en de mentor (zie 2.42 e.v.). Bij curatele worden behalve de financiële belangen ook de persoonlijke belangen behartigd. 
+
+
+5.27
+Omdat het gaat om een ondeelbare economische prestatie waarbij beide elementen op hetzelfde niveau moeten worden geplaatst moet de prestatie van de curator in haar geheel in aanmerking worden genomen. Derhalve valt de prestatie van de curator niet binnen post b.33 van bijlage B Uitv.besl. OB. 
+
+
+
+
+
+6Tot slot
+In de afzonderlijke conclusies bespreek ik de bijzonderheden van de specifieke zaken van de belanghebbenden. 
+
+
+ 	De schuldsaneringsregeling natuurlijke personen zoals opgenomen in titel III van de Faillissementswet.
+
+
+ 	Besluit van de staatssecretaris van Financiën van 24 maart 2016 kenmerk DGB/2016/1066 U. 
+
+
+ 	Standpunt van de Kennisgroep van 21 oktober 2014 nr. 14-210-0005 getiteld ‘Omzetbelasting. Artikel 11 lid 1 onderdeel f Wet; Artikel 7 Uitvoeringsbesluit; Bijlage B post b-33; beschermingsbewind’. Dit standpunt is ingenomen naar aanleiding van een vraag van de inspecteur over de casus van de zaak met nummer 20/02581 zie het verweerschrift in eerste aanleg van de inspecteur punt 3.9.
+
+
+ 	Ik bedoel daarmee onder meer personen met een verstandelijke beperking personen met een verslaving aan alcohol of drugs psychiatrische patiënten dementerenden en personen met problematische schulden.
+
+
+ 	Kamerstukken II 2005/06 24 515 nr. 71 p. 8.
+
+
+ 	Kamerstukken II 2005/06 24 515 nr. 71 p. 2.
+
+
+ 	Kamerstukken II 2005/06 24 515 nr. 71 p. 5.
+
+
+ 	Kamerstukken II 2005/06 24 515 nr. 71 p. 3.
+
+
+ 	Kamerstukken II 2004/05 24 515 nr. 59 bijlage 1 pp. 7-9. 
+
+
+ 	Kamerstukken II 2005/06 24 515 nr. 71 pp. 6 7 8 12.
+
+
+ 	Kamerstukken II 2005/06 24 515 nr. 71 p. 13.
+
+
+ 	Kamerstukken II 2005/06 24 515 nr. 71 p. 8.
+
+
+ 	Kamerstukken II 2005/06 24 515 nr. 71 p. 15 handreiking p. 4. 
+
+
+ 	M. Schut & E. Turlings Integrale schuldhulpverlening handreiking voor gemeenten en uitvoerende instanties Utrecht: Landelijk Platform Integrale Schuldhulpverlening en StimulanSZ 2004 p. 14.
+
+
+ 	M. Schut & E. Turlings 2004 p. 20-21.
+
+
+ 	M. Schut & E. Turlings 2004 p. 21.
+
+
+ 	Kamerstukken II 2007/08 24 515 nr. 140 bijlage 3 p. 17 e.v.
+
+
+ 	Kamerstukken II 2009/10 32 291 nr. 3 p. 1.
+
+
+ 	Kamerstukken II 2007/08 24 515 nr. 140 bijlage 3 p. 19.
+
+
+ 	Kamerstukken II 2009/10 32 291 nr. 3 p. 6.
+
+
+ 	Kamerstukken II 2009/10 32 291 nr. 3 p. 21.
+
+
+ 	Kamerstukken II 2009/10 32 291 nr. 3 p. 1.
+
+
+ 	Kamerstukken II 2009/10 32 291 nr. 3 p. 6 7.
+
+
+ 	Artikel 3a Wgs (tekst 2020)
+
+
+ 	Kamerstukken II 2009/10 32 291 nr. 3 p. 16.
+
+
+ 	K. Kranendonk-von Weersch & G.A Le Noble PS-special: Wet gemeentelijke schuldhulpverlening 2014 Deventer: Kluwer 2014 Inspectie SZW (2020) Uitvoering schuldhulpverlening nader bekeken nota van bevindingen Den Haag N. Jungmann & G. Kruis Het verhaal achter de cijfers de doorstroming van de minnelijke schuldhulpverlening naar de wettelijke schuldsanering Amsterdam 2014.
+
+
+ 	Kamerstukken II 2009/10 32 291 nr. 3 p. 9.
+
+
+ 	K. Kranendonk-von Weersch e.a. 2014 p. 55.
+
+
+ 	K. Kranendonk-von Weersch e.a. 2014 p. 58 N. Jungmann e.a. 2014 p. 23.
+
+
+ 	Inspectie SZW (2020) Uitvoering schuldhulpverlening nader bekeken nota van bevindingen Den Haag p. 11.
+
+
+ 	Kamerstukken II 2009/10 32 291 nr. 3 p. 10.
+
+
+ 	Kamerstukken II 2009/10 32 291 nr. 3 p. 11.
+
+
+
+https://www.nen.nl/certificatie-en-keurmerken-schuldhulpverlening
+
+
+
+ 	K. Kranendonk-von Weersch e.a. 2014 p. 67.
+
+
+ 	K. Kranendonk-von Weersch e.a. 2014 p. 69 Inspectie SZW (2020) Uitvoering schuldhulpverlening nader bekeken nota van bevindingen Den Haag p. 12.
+
+
+ 	De toelatingseisen zijn opgenomen in artikel 288 lid 1 Fw.
+
+
+ 	Conclusie A-G Van Peursem 30 november 2016 16/02831 ECLI:NL:PHR:2016:1434.
+
+
+ 	J. de Boer W.D. Kolkman & F.R. Salomons Mr. C. Assers Handleiding tot de beoefening van het Nederlands Burgerlijk Recht. 1. Personen- en familierecht. Deel I. De persoon afstamming en adoptie gezag en omgang levensonderhoud bescherming van meerderjarigen Deventer: Wolters Kluwer 2020 p. 681.
+
+
+ 	Regeling beloning curatoren bewindvoerders en mentoren van 4 november 2014 Stcrt. 2014 32149 p. 6
+
+
+ 	Assers 2020 p. 736.
+
+
+ 	Kamerstukken II 2011/12 33 054 nr. 3 p.30.
+
+
+ 	Aanbevelingen meerderjarigenbewind LOVCK&T 30 mei 2013 
+
+
+ 	Regeling beloning curatoren bewindvoerders en mentoren van 4 november 2014 Stcrt. 2014 32149 p. 12.
+
+
+ 	Regeling beloning curatoren bewindvoerders en mentoren van 4 november 2014 Stcrt. 2014 32149 p. 12-13.
+
+
+ 	Kamerstukken II 2011/12 33 054 nr. 3 p. 35.
+
+
+ 	Kamerstukken II 2011/12 33 054 nr. 3 p. 6 en 7. 
+
+
+ 	Regeling beloning curatoren bewindvoerders en mentoren van 4 november 2014 Stcrt. 2014 32149 p. 14-15.
+
+
+ 	J. de Boer W.D. Kolkman & F.R. Salomons Mr. C. Assers Handleiding tot de beoefening van het Nederlands Burgerlijk Recht. 1. Personen- en familierecht. Deel I. De persoon afstamming en adoptie gezag en omgang levensonderhoud bescherming van meerderjarigen Deventer: Wolters Kluwer 2020 p. 758.
+
+
+ 	Regeling beloning curatoren bewindvoerders en mentoren van 4 november 2014 Stcrt. 2014 32149 p. 6.
+
+
+ 	Besluit kwaliteitseisen curatoren beschermingsbewindvoerders en mentoren Stb. 2014 46.
+
+
+ 	Zie onder meer HvJ 15 november 2012 Zimmermann C-174/11 ECLI:EU:C:2012:716 (conclusie A-G Mazák) punt 22; HvJ 15 april 2021 EQ C-846/19 ECLI:EU:C:2021:277 (conclusie A-G Pitruzzella) punt 57; en HvJ 13 januari 2022 Termas Sulfurosas de Alcafache C‑513/20 ECLI:EU:C:2022:18 punt 25. 
+
+
+ 	HvJ 21 januari 2016 Les Jardins de Jouvence C-335/14 ECLI:EU:C:2016:36 (conclusie A-G Bot) punt 41.
+
+
+ 	HvJ 26 mei 2005 Kingscrest Associates en Montecello C-498/03 ECLI:EU:C:2005:322 (A-G Ruiz-Jarabo Colomer) punt 30.
+
+
+
+Kingscrest Associates en Montecello punt 31.
+
+
+ 	HvJ 8 oktober 2020 Finanzamt D C-657/19 ECLI:EU:C:2020:811.
+
+
+ 	HvJ 10 september 2002 Kügler C-141/00 ECLI:EU:C:2002:473 (conclusie A-G Tizzano) punt 53.
+
+
+ 	Zie ook Les Jardins de Jouvence punt 42.
+
+
+ 	Zie ook conclusie A-G Pitruzzella 14 januari 2021 EQ C-846/19 ECLI:EU:C:2021:17 punt 47 e.v.
+
+
+ 	Zie HvJ 28 juli 2016 Ordre des barreaux francophones en germanophone e.a. C-543/14 ECLI:EU:C:2016:605 (conclusie A-G Sharpston).
+
+
+ 	Zie o.m. Les Jardins de Jouvence punt 46 en Kügler punt 26.
+
+
+ 	HvJ 15 april 2021 C-846/19 EQ ECLI:EU:C:2021:277 (conclusie A-G Pitruzzella).
+
+
+ 	Punt 61 van het arrest in samenhang met punt 52-57 van de conclusie van A-G Pitruzzella van 14 januari 2021 C-846/19 ECLI:EU:C:2021:277. 
+
+
+ 	Punt 30 e.v. van het arrest.
+
+
+ 	De gerechtshoven hebben niet vastgesteld welke vergoeding tegenover de door de belanghebbenden verrichte werkzaamheden staat zodat daarover ook weinig valt te zeggen. 
+
+
+ 	Punten 63 en 65 van het arrest.
+
+
+ 	Punt 66 van het arrest.
+
+
+ 	HvJ 7 september 1999 C-216/97 Gregg ECLI:EU:C:1999:390 (conclusie A-G Cosmas) punten 17 en 18; Zimmermann punt 57; EQ punt 73.
+
+
+
+Kingscrest Associates en Montecello punt 49.
+
+
+
+Kügler punt 54.
+
+
+
+Kügler punt 55.
+
+
+
+EQ punt 81.
+
+
+
+Kügler punt 56.
+
+
+
+EQ punt 81.
+
+
+ 	O.m. Kügler punt 58; Les Jardins de Jouvence punt 35; Finanzamt D punt 44 en EQ punt 70.
+
+
+ 	HvJ 28 juli 2016 Ordre des barreaux francophones en germanophone e.a. C-543/14 ECLI:EU:C:2016:605 (conclusie A-G Sharpston). 
+
+
+ 	HvJ 17 juni 2010 Commissie/Frankrijk C-492/08 ECLI:EU:C:2010:348 (conclusie A-G Jääskinen). 
+
+
+ Vgl. HvJ 26 mei 2005 Kingscrest Associates en Montecello C-498/03 ECLI:EU:C:2005:322 (A-G Ruiz-Jarabo Colomer) punt 47.
+
+
+ 	Kamerstukken II 2014/15 34 220 nr. 3 p. 16.
+
+
+ 	De Kennisgroep Omzetbelasting: Vrijstellingen Overheid en Landbouwregeling (zie voetnoot 3) meent dat voor de toepassing van de vrijstelling van post b.33 wel de voorwaarde geldt dat de vrijstelling niet mag leiden tot ernstige concurrentieverstoring. Zie p.3 van het bindende advies.
+
+
+ 	Die negatieve lijst was vóór 1 januari 2016 opgenomen in lid 6 van artikel 7 van het Uitv.besl. OB. Lid 6 en lid 7 van die bepaling zijn met ingang van 1 januari 2016 komen te vervallen. Zie artikel V van het Besluit van 23 december 2015 tot wijziging van enige uitvoeringsbesluiten op het gebied van belastingen en toeslagen Stb. 2015 nr. 544. 
+
+
+ 	Zie voetnoot 3.
+
+
+ 	Rechtbank Den Haag 29 mei 2018 SGR 17/7234 ECLI:NL:RBDHA:2018:6319 hanteert een ander criterium. Volgens de rechtbank houdt dit begrip in dat instellingen volgens de vastgelegde statuten en/of doelen de feitelijke activiteiten verrichten op sociaal en/of cultureel gebied.
+
+
+ 	De omstandigheid dat een activiteit van sociale aard niet de essentiële activiteit is hoeft ook vanuit Unierechtelijk perspectief niet per se afbreuk te doen aan de sociale aard van de onderneming. Een richtlijnconforme uitleg brengt mee dat de concrete omstandigheden van het betrokken geval moeten worden onderzocht en dat de rechter bij de beoordeling van de sociale aard van de onderneming bijvoorbeeld ook de doelstelling die de ondernemer nastreeft en de duurzaamheid in zijn sociaal engagement in aanmerking moet nemen (zie 3.22 e.v.).
+
+
+ 	Kamerstukken II 1997/98 24 515 nr. 47.
+
+
+ 	Besluit van 15 december 2005 Stb. 2005 687 p. 15.
+
+
+ 	Immers in artikel 11 lid 1 aanhef en onderdeel f Wet OB worden de bij algemene maatregel van bestuur aan te wijzen leveringen en diensten van sociale of culturele aard vrijgesteld van omzetbelasting artikel 7 lid 1 Uitv.besl. OB wijst als leveringen en diensten van sociale of culturele aard aan de in bijlage B bij het Uitv.besl. OB genoemde leveringen en diensten en die bijlage noemt de leveringen en diensten van bepaalde instellingen in dit geval de leveringen en diensten van instellingen voor algemeen maatschappelijk en bedrijfsmaatschappelijk werk (post b.29) en instellingen die werkzaam zijn op het gebied van schuldhulpverlening (post b.33).
+
+
+ 	Besluit van 31 mei 1995 Stb. 1995 299.
+
+
+ 	Besluit van 15 december 2005 Stb. 2005 687 p. 14-15.
+
+
+ 	D. Schmidt JP van den Toren M de Wal Ondernemende brancheorganisaties; balanceren tussen belangen 2003 p. 33.
+
+
+
+https://www.zorgwelzijn.nl/mogroep-jeugdzorg-wordt-jeugdzorg-nederland-zwz016566w/?ipaccess=1?ipaccess=1
+
+
+
+
+https://www.kinderopvangtotaal.nl/nieuw-brancheorganisatie-kinderopvang-kind716358w/
+
+
+
+
+https://www.sociaalwerknederland.nl/actueel/nieuws/4880-naamswisseling-mogroep-wordt-sociaal-werk-nederland
+
+
+
+ Wel is er een aantal uitspraken van lagere rechters waarin de vrijstelling voor maatschappelijk werk aan de orde komt: o.m. Rechtbank Gelderland 21 december 2017 AWB 16/5020 ECLI:NL:RBGEL:2017:6613 (artikel 7 lid 2 Uitv.besl. OB); Rechtbank Leeuwarden 22 juni 2006 05/223 ECLI:NL:RBLEE:2006:AX9547 (post b.29; tekst tot 2006) en Hof Den Haag 5 maart 2019 BK-18/00767 ECLI:NL:GHDHA:2019:548 (post b.29; tekst m.i.v. 2006). 
+
+
+
+https://www.sociaalwerknederland.nl/actueel/nieuws/4004-nieuwe-naam-voor-de-beroepsvereniging-van-sociaal-werkers
+
+
+
+
+https://www.bpsw.nl/professionals/maatschappelijk-werkers/wat-is-maatschappelijk-werk/
+
+
+
+
+https://www.sociaalwerknederland.nl/over-ons/wat-is-sociaal-werk
+
+
+
+ Beroepschrift in cassatie in de zaak met nummer 20/03777. Hij merkt dat overigens op in verband met de beoordeling van de vraag of de werkzaamheden onder post b.33 vallen.
+
+
+ 	Besluit van 15 december 2005 Stb. 2005 687 p. 14-15.
+
+
+ Vgl. EQ.
+
+
+HvJ 10 november 2011 The Rank Group C-259/10 ECLI:EU:C:2011:719 punt 32 en de daar genoemde rechtspraak.
+
+
+ 	Vgl. EQ punten 74 en 75.
+
+
+ 	Vgl. EQ punten 74 en 75.
+
+
+ 	HvJ 19 juli 2012 Deutsche Bank C-44/11 ECLI:EU:C:2012:484 (conclusie A-G Sharpston) punt 43.
+
